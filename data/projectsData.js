@@ -1,11 +1,10 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What is you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'HOT Philippines - PhilAWARE',
+    description: `HOT-Philippines started the PhilAWARE Project last July 2019. I led various remote and field mapping activities in Pampanga, Quezon City, and Marikina City.
+  `,
+    imgSrc: '/static/images/hotph.png',
+    href: 'https://feyeandal.github.io/hotphmappingteam/',
   },
   {
     title: 'The Time Machine',

@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
+  author: 'Feye Andal',
+  headerTitle: 'Feye Andal',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
@@ -9,12 +9,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'andalfeye@gmail.com',
+  github: 'https://github.com/feyeandal',
+  twitter: 'https://twitter.com/dfeyeandal',
+  facebook: 'https://facebook.com/feyeandal',
+  youtube: 'https://youtube.com/feyeandal',
+  linkedin: 'https://www.linkedin.com/in/feye-andal-29b38a76/',
   locale: 'en-US',
   comment: {
     // Select a provider and use the environment variables associated to it

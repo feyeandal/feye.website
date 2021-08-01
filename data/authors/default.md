@@ -1,16 +1,18 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Feye Andal
+avatar: /static/images/feyeandal.JPG
+occupation: GIS Specialist and Scrum Master; Transport Information Manager
+company: UPRI; By Implication, Inc.
+email: andalfeye@gmail.com
+twitter: https://twitter.com/dfeyeandal
+linkedin: https://www.linkedin.com/in/feye-andal-29b38a76/
+github: https://github.com/feyeandal
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hi! I'm Feye Andal.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I am a Masters of Science in Geography graduate from the University of the Philippines Diliman. I co-founded the [University of the Philippines Resilience Institute YouthMappers (UPRI YM)](https://www.facebook.com/UPRIYouthMappers/), the 2nd local YouthMappers chapter in the Philippines.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently working as a Senior Project Officer (GIS Specialist/ Scrum Master) of NOAH-WebGIS Team under the University of the Philippines Resilience Institute (UPRI) and I am also working for [By Implication, Inc. (also known as Sakay.PH)](https://byimplication.com/) as the Transport Information Manager. Aside from my desk jobs, I am serving as a Regional Ambassador for [YouthMappers](https://youthmappers.org).
+
+I am a strong advocate of open data and free and open-source software for geospatial applications (FOSS4G). I also been doing volunteer mapping for OpenStreetMap-Philippines since 2013 and has been to different provinces across the Philippines to train students, local government offices, non-government organizations, and other stakeholders on how to use OpenStreetMap and other free and open-source geospatial applications.
