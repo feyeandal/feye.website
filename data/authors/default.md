@@ -11,7 +11,7 @@ github: https://github.com/feyeandal
 
 Hi! I'm Feye Andal.
 
-I am a Masters of Science in Geography graduate from the University of the Philippines Diliman. I co-founded the [University of the Philippines Resilience Institute YouthMappers (UPRI YM)](https://www.facebook.com/UPRIYouthMappers/), the 2nd local YouthMappers chapter in the Philippines.
+I am a Masters of Science in Geography graduate from the University of the Philippines Diliman. I co-founded the [University of the Philippines Resilience Institute YouthMappers (UPRI YM)](https://www.facebook.com/UPRIYouthMappers/), the second local YouthMappers chapter in the Philippines.
 
 I am currently working as a Senior Project Officer (GIS Specialist/ Scrum Master) of NOAH-WebGIS Team under the University of the Philippines Resilience Institute (UPRI) and I am also working for [By Implication, Inc. (also known as Sakay.PH)](https://byimplication.com/) as the Transport Information Manager. Aside from my desk jobs, I am serving as a Regional Ambassador for [YouthMappers](https://youthmappers.org).
 
