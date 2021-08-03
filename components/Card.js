@@ -10,8 +10,8 @@ const Card = ({ title, description, imgSrc, href }) => (
             alt={title}
             src={imgSrc}
             className="object-cover object-center lg:h-48 md:h-36"
-            width={544}
-            height={306}
+            width={800}
+            height={550}
           />
         </Link>
       ) : (
@@ -19,8 +19,8 @@ const Card = ({ title, description, imgSrc, href }) => (
           alt={title}
           src={imgSrc}
           className="object-cover object-center lg:h-48 md:h-36"
-          width={544}
-          height={306}
+          width={800}
+          height={550}
         />
       )}
       <div className="p-6">

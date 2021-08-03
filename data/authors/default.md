@@ -1,8 +1,8 @@
 ---
-name: Feye Andal
+name: Feye
 avatar: /static/images/feyeandal.JPG
 occupation: GIS Specialist and Scrum Master; Transport Information Manager
-company: UPRI; By Implication, Inc.
+company: UPRI-NOAH Center; By Implication, Inc.
 email: andalfeye@gmail.com
 twitter: https://twitter.com/dfeyeandal
 linkedin: https://www.linkedin.com/in/feye-andal-29b38a76/
