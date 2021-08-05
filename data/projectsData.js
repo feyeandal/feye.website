@@ -7,12 +7,11 @@ const projectsData = [
     href: 'https://feyeandal.github.io/hotphmappingteam/',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten handphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Building Resilient Communities in Bohol',
+    description: `The main objective of the project is to map out the building footprints and road network and to produce municipal-level risk maps in the province of Bohol using open-source tools such as OpenStreetMap (OSM), QGIS, and WebSAFE that can be used for disaster risk planning and mitigation.`,
+    imgSrc: '/static/images/bohol_ym.jpg',
+    href:
+      'https://wiki.openstreetmap.org/wiki/Philippines/Building_Resilient_Communities_in_Bohol_Through_the_Use_of_OpenStreetMap',
   },
 ]
 
