@@ -8,7 +8,7 @@ const projectsData = [
   },
   {
     title: 'Building Resilient Communities in Bohol',
-    description: `The main objective of the project is to map out the building footprints and road network and to produce municipal-level risk maps in the province of Bohol using open-source tools such as OpenStreetMap (OSM), QGIS, and WebSAFE that can be used for disaster risk planning and mitigation.`,
+    description: `This project built the building footprints and road network and produced municipal-level risk maps in the province of Bohol using open-source tools such as OpenStreetMap (OSM), QGIS, and WebSAFE that can be used for disaster risk planning and mitigation of the province.`,
     imgSrc: '/static/images/bohol_ym.jpg',
     href:
       'https://wiki.openstreetmap.org/wiki/Philippines/Building_Resilient_Communities_in_Bohol_Through_the_Use_of_OpenStreetMap',
