@@ -4,6 +4,7 @@ import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
+import Blog from './blog/[...slug]'
 
 const MAX_DISPLAY = 5
 
@@ -19,14 +20,47 @@ export default function Home({ posts }) {
       <PageSeo title={siteMetadata.title} description={siteMetadata.description} />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="pt-6 pb-8 space-y-2 md:space-y-5">
-          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-            {/* All Posts */}
+          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-12 md:text-5xl md:leading-10">
+            Open Data and FOSS
           </h1>
-          <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
+          <p className="text-lg text-3x1 leading-3 text-gray-500 dark:text-gray-400 italic">
             {siteMetadata.description}
           </p>
+          <div className="w-full lg:h-96 md:h-64">
+            <Link href={`/maps/`}>
+              <img className="object-cover rounded" src={siteMetadata.head} alt="head" />
+            </Link>
+          </div>
+          {/* <div className="w-full lg:h-96 md:h-56">
+            <img className="object-cover rounded" src={siteMetadata.head_2nd} alt="head"/>
+          </div> */}
+          {/* <div class="grid grid-cols-2 gap-4 md:grid-cols-3 grid-flow-col auto-cols-max"> */}
+          <div className="lg:h-96 md:h-64 grid grid-cols-3 gap-4">
+            <div>
+              <Link href={`/about/`}>
+                <img className="object-contain" src={siteMetadata.head_2nd} alt="head" />
+              </Link>
+
+              {/* <Link href={`/maps/`}><img className="object-contain h-56 w-full" src={siteMetadata.head} alt="head"/></Link> */}
+            </div>
+            <div className="col-span-2">
+              <Link href={`/posters/`}>
+                <img
+                  className="object-contain h-56 w-full"
+                  src={siteMetadata.head_4th}
+                  alt="head"
+                />
+              </Link>
+            </div>
+          </div>
+
+          <div className="w-full lg:h-96 md:h-64">
+            <Link href={`/blog/noah-revamp-soon`}>
+              <img className="object-cover rounded" src={siteMetadata.head_3rd} alt="head" />
+            </Link>
+          </div>
         </div>
-        <ul className="divide-y divide-gray-200 dark:divide-gray-700">
+        {/* <ul className="divide-y divide-gray-200 dark:divide-gray-700">
           {!posts.length && 'No posts found.'}
           {posts.slice(0, MAX_DISPLAY).map((frontMatter) => {
             const { slug, date, title, summary, tags } = frontMatter
@@ -76,9 +110,9 @@ export default function Home({ posts }) {
               </li>
             )
           })}
-        </ul>
+        </ul> */}
       </div>
-      {posts.length > MAX_DISPLAY && (
+      {/* {posts.length > MAX_DISPLAY && (
         <div className="flex justify-end text-base font-medium leading-6">
           <Link
             href="/blog"
@@ -88,7 +122,7 @@ export default function Home({ posts }) {
             All Posts &rarr;
           </Link>
         </div>
-      )}
+      )} */}
     </>
   )
 }
