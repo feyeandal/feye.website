@@ -1,5 +1,8 @@
 import Link from '@/components/Link'
 import { PageSeo } from '@/components/SEO'
+import WorldMap from '@/components/svg/worldmap.svg'
+import Content from '@/components/svg/content.svg'
+import Projects from '@/components/svg/projects.svg'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
@@ -19,47 +22,86 @@ export default function Home({ posts }) {
     <>
       <PageSeo title={siteMetadata.title} description={siteMetadata.description} />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
-        <div className="pt-6 pb-8 space-y-2 md:space-y-5">
-          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-12 md:text-5xl md:leading-10">
-            Open Data and FOSS
-          </h1>
-          <p className="text-lg text-3x1 leading-3 text-gray-500 dark:text-gray-400 italic">
-            {siteMetadata.description}
-          </p>
-          <div className="w-full lg:h-96 md:h-64">
-            <Link href={`/maps/`}>
-              <img className="object-cover rounded" src={siteMetadata.head} alt="head" />
-            </Link>
-          </div>
-          {/* <div className="w-full lg:h-96 md:h-56">
-            <img className="object-cover rounded" src={siteMetadata.head_2nd} alt="head"/>
-          </div> */}
-          {/* <div class="grid grid-cols-2 gap-4 md:grid-cols-3 grid-flow-col auto-cols-max"> */}
-          <div className="lg:h-96 md:h-64 grid grid-cols-3 gap-4">
-            <div>
-              <Link href={`/about/`}>
-                <img className="object-contain" src={siteMetadata.head_2nd} alt="head" />
-              </Link>
-
-              {/* <Link href={`/maps/`}><img className="object-contain h-56 w-full" src={siteMetadata.head} alt="head"/></Link> */}
+        <div className="border-b" />
+        <section className="border-b py-8">
+          <div className="container max-w-5xl mx-auto m-8">
+            <div className="w-full mb-4" />
+            <div className="flex flex-wrap border-b">
+              <div className="w-5/6 sm:w-1/2 p-6 md:pt-16 sm:pb-0">
+                <Link href={'/about'}>
+                  <h1 className="text-4xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+                    Welcome, I'm Feye!
+                  </h1>
+                  <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
+                    I love to work with Open Data and Free and Open Source Software.
+                    <br />
+                    <br />
+                  </p>
+                </Link>
+              </div>
+              <div className="w-full sm:w-1/2 p-6">
+                <Link href={'/about'}>
+                  <img
+                    src={siteMetadata.head_2nd}
+                    className="w-48 h-48 rounded-full mx-auto"
+                    alt="Feye"
+                  />
+                </Link>
+              </div>
             </div>
-            <div className="col-span-2">
-              <Link href={`/posters/`}>
-                <img
-                  className="object-contain h-56 w-full"
-                  src={siteMetadata.head_4th}
-                  alt="head"
-                />
-              </Link>
+            <div className="flex flex-wrap border-b">
+              <div className="w-5/6 sm:w-1/2 p-6 md:pt-20">
+                <h3 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
+                  Blog
+                </h3>
+                <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
+                  In my blog you will find some stories about my work, personal projects and fancy
+                  stuff.
+                  <br />
+                  <br />
+                </p>
+              </div>
+              <div className="w-full sm:w-1/2 p-6">
+                <Content className="w-4/6 sm:h-56 mx-auto" />
+              </div>
+            </div>
+            <div className="flex flex-wrap sm:flex-row border-b">
+              <div className="w-full sm:w-1/2 p-6 md:mt-20">
+                <div className="align-middle">
+                  <h3 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
+                    Maps
+                  </h3>
+                  <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
+                    I am passionate about maps! Checkout some pieces I have produced.
+                    <br />
+                    <br />
+                  </p>
+                </div>
+              </div>
+              <div className="w-full sm:w-1/2 p-6 mt-6">
+                <WorldMap className="w-5/6 sm:h-64 mx-auto" />
+              </div>
+            </div>
+            <div className="flex flex-wrap sm:flex-row border-b">
+              <div className="w-full sm:w-1/2 p-6 md:mt-20">
+                <div className="align-middle">
+                  <h3 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
+                    Projects
+                  </h3>
+                  <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
+                    I have been working as a Project Manager since 2014. Know more about some of my
+                    projects.
+                    <br />
+                    <br />
+                  </p>
+                </div>
+              </div>
+              <div className="w-full sm:w-1/2 p-6 mt-6">
+                <Projects className="w-5/6 sm:h-64 mx-auto" />
+              </div>
             </div>
           </div>
-
-          <div className="w-full lg:h-96 md:h-64">
-            <Link href={`/blog/noah-revamp-soon`}>
-              <img className="object-cover rounded" src={siteMetadata.head_3rd} alt="head" />
-            </Link>
-          </div>
-        </div>
+        </section>
         {/* <ul className="divide-y divide-gray-200 dark:divide-gray-700">
           {!posts.length && 'No posts found.'}
           {posts.slice(0, MAX_DISPLAY).map((frontMatter) => {
