@@ -35,10 +35,14 @@ export default function Home({ posts }) {
             <img className="object-cover rounded" src={siteMetadata.head_2nd} alt="head"/>
           </div> */}
           {/* <div class="grid grid-cols-2 gap-4 md:grid-cols-3 grid-flow-col auto-cols-max"> */}
-          <div className="lg:h-96 md:h-64 grid grid-cols-3 gap-4">
+          <div className="w-full lg:h-96 md:h-64 grid grid-cols-3 gap-4">
             <div>
               <Link href={`/about/`}>
-                <img className="object-contain" src={siteMetadata.head_2nd} alt="head" />
+                <img
+                  className="object-contain h-56 w-full"
+                  src={siteMetadata.head_2nd}
+                  alt="head"
+                />
               </Link>
 
               {/* <Link href={`/maps/`}><img className="object-contain h-56 w-full" src={siteMetadata.head} alt="head"/></Link> */}
