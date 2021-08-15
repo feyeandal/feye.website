@@ -21,8 +21,11 @@ const siteMetadata = {
   openstreetmap: 'https://openstreetmap.org/user/feyeandal',
   facebook: 'https://facebook.com/feyeandal',
   // youtube: 'https://youtube.com/feyeandal',
+  video_osm: 'https://www.youtube.com/watch?v=DNGMKJkzEkk',
+  video_osm_journey: 'https://www.youtube.com/watch?v=FF4OGxWLItw',
   linkedin: 'https://www.linkedin.com/in/feye-andal-29b38a76/',
   manuscript: 'https://drive.google.com/file/d/1hSxsLdfAzAuh4LJKJZKJG5PiURkitsef/view?usp=sharing',
+  conference_poster: 'https://2020.stateofthemap.org/posters/#hotph',
   publication_1:
     'https://www.researchgate.net/publication/323024713_Developing_a_Scenario-Based_Assessment_of_Hazards_Platform_for_the_Philippines_Using_Open_Source_Software_and_Open_Data',
   publication_2:

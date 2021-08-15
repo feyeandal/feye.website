@@ -29,7 +29,7 @@ export default function Home({ posts }) {
             <div className="flex flex-wrap border-b">
               <div className="w-5/6 sm:w-1/2 p-6 md:pt-16 sm:pb-0">
                 <Link href={'/about'}>
-                  <h1 className="text-4xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+                  <h1 className="text-4xl text-teal-600 font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
                     Welcome, I'm Feye!
                   </h1>
                   <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
