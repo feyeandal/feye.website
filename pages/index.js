@@ -33,7 +33,7 @@ export default function Home({ posts }) {
                     Welcome, I'm Feye!
                   </h1>
                   <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
-                    I love to work with Open Data and Free and Open Source Software.
+                    I love to work with Open Data and Free and Open Source Software (FOSS).
                     <br />
                     <br />
                   </p>
