@@ -22,6 +22,11 @@ const siteMetadata = {
   facebook: 'https://facebook.com/feyeandal',
   // youtube: 'https://youtube.com/feyeandal',
   linkedin: 'https://www.linkedin.com/in/feye-andal-29b38a76/',
+  manuscript: 'https://drive.google.com/file/d/1hSxsLdfAzAuh4LJKJZKJG5PiURkitsef/view?usp=sharing',
+  publication_1:
+    'https://www.researchgate.net/publication/323024713_Developing_a_Scenario-Based_Assessment_of_Hazards_Platform_for_the_Philippines_Using_Open_Source_Software_and_Open_Data',
+  publication_2:
+    'http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.741.7461&rep=rep1&type=pdf',
   locale: 'en-US',
   comment: {
     // Select a provider and use the environment variables associated to it

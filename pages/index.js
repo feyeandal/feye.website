@@ -51,53 +51,65 @@ export default function Home({ posts }) {
             </div>
             <div className="flex flex-wrap border-b">
               <div className="w-5/6 sm:w-1/2 p-6 md:pt-20">
-                <h3 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
-                  Blog
-                </h3>
-                <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
-                  In my blog you will find some stories about my work, personal projects and fancy
-                  stuff.
-                  <br />
-                  <br />
-                </p>
+                <Link href={'/blog'}>
+                  <h3 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-4xl md:leading-14">
+                    Blog
+                  </h3>
+                  <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
+                    In my blog you will find some stories about my work, personal projects and fancy
+                    stuff.
+                    <br />
+                    <br />
+                  </p>
+                </Link>
               </div>
               <div className="w-full sm:w-1/2 p-6">
-                <Content className="w-4/6 sm:h-56 mx-auto" />
+                <Link href={'/blog'}>
+                  <Content className="w-4/6 sm:h-56 mx-auto" />
+                </Link>
               </div>
             </div>
             <div className="flex flex-wrap sm:flex-row border-b">
               <div className="w-full sm:w-1/2 p-6 md:mt-20">
-                <div className="align-middle">
-                  <h3 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
-                    Maps
-                  </h3>
-                  <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
-                    I am passionate about maps! Checkout some pieces I have produced.
-                    <br />
-                    <br />
-                  </p>
-                </div>
+                <Link href={'/maps'}>
+                  <div className="align-middle">
+                    <h3 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-4xl md:leading-14">
+                      Maps
+                    </h3>
+                    <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
+                      I am passionate about maps! Checkout some pieces I have produced.
+                      <br />
+                      <br />
+                    </p>
+                  </div>
+                </Link>
               </div>
               <div className="w-full sm:w-1/2 p-6 mt-6">
-                <WorldMap className="w-5/6 sm:h-64 mx-auto" />
+                <Link href={'/maps'}>
+                  <WorldMap className=" /6 sm:h-64 mx-auto" />
+                </Link>
               </div>
             </div>
             <div className="flex flex-wrap sm:flex-row border-b">
               <div className="w-full sm:w-1/2 p-6 md:mt-20">
-                <div className="align-middle">
-                  <h3 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
-                    Projects
-                  </h3>
-                  <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
-                    I have been working as a Project Manager since 2014. Know more about some of my
-                    projects.
-                    <br />
-                    <br />
-                  </p>
-                </div>
+                <Link href={'/projects'}>
+                  <div className="align-middle">
+                    <h3 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-4xl md:leading-14">
+                      Projects
+                    </h3>
+                    <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
+                      I have been working as a Project Manager since 2014. Know more about some of
+                      my projects.
+                      <br />
+                      <br />
+                    </p>
+                  </div>
+                </Link>
               </div>
               <div className="w-full sm:w-1/2 p-6 mt-6">
-                <Projects className="w-5/6 sm:h-64 mx-auto" />
+                <Link href={'/projects'}>
+                  <Projects className="w-5/6 sm:h-64 mx-auto" />
+                </Link>
               </div>
             </div>
           </div>
