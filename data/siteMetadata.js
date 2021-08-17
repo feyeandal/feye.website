@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'Feye',
   // headerTitle: 'Feye',
   // description: 'Geospatial Data, OpenStreetMap, Cooking, Fancy Stuff',
-  description: 'for disaster risk and transportation management',
+  description: "Feye's website",
   // description: 'If you want to know more about me and what I do, feel free to navigate the site.',
   language: 'en-us',
   // siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
