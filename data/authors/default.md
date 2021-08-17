@@ -17,6 +17,6 @@ I like automating my geospatial data processing and analysis workflows using Pyt
 
 I also volunteer for [OpenStreetMap-Philippines](https://wiki.openstreetmap.org/wiki/Philippines) while I serve as a Regional Ambassador for [YouthMappers](youthmappers.org).
 
-Aside from being a geospatial data warrior and an open data advocate, you'll find me cooking, watching movies, and designing stuff.
+Aside from wrestling with different geospatial datasets and handling various web-dev projects, you'll find me cooking, watching movies, and designing stuff.
 
 [Let's make something _spatial_.](mailto:andalfeye@gmail.com)

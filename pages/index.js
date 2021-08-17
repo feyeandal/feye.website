@@ -56,8 +56,8 @@ export default function Home({ posts }) {
                     Blog
                   </h3>
                   <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
-                    In my blog you will find some stories about my work, personal projects and fancy
-                    stuff.
+                    In my blog, you will find some stories about my work, personal projects, and
+                    some fancy stuff.
                     <br />
                     <br />
                   </p>
@@ -98,7 +98,7 @@ export default function Home({ posts }) {
                       Projects
                     </h3>
                     <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
-                      I have been working as a Project Manager since 2014. Know more about some of
+                      I have been working on different projects since 2013. Know more about some of
                       my projects.
                       <br />
                       <br />
