@@ -14,9 +14,6 @@ const postersData = [
   {
     imgSrc: '/static/images/UPRI_HOTGrant.png',
   },
-  {
-    imgSrc: '/static/images/UPRI_Help.png',
-  },
 ]
 
 export default postersData

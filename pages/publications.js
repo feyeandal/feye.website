@@ -32,7 +32,7 @@ export default function Home({ posts }) {
         </div>
         {/* <div className="container max-w-5xl mx-auto m-8"> */}
         <div className="container py-12">
-          <div className="pb-8 space-y-2 md:space-y-5">
+          <div className="pb-6 space-y-2 md:space-y-5">
             <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-3xl md:leading-4">
               Graduate Manuscript
             </h1>
@@ -64,7 +64,7 @@ export default function Home({ posts }) {
               </div> */}
           </div>
           {/* <div className="flex flex-wrap border-b"> */}
-          <div className="pb-8 space-y-2 md:space-y-5">
+          <div className="pb-6 space-y-2 md:space-y-5">
             <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-3xl md:leading-4">
               Scientific Articles
             </h1>
@@ -108,7 +108,7 @@ export default function Home({ posts }) {
               </p>
             </Link>
           </div>
-          <div className="pb-8 space-y-2 md:space-y-5">
+          <div className="pb-6 space-y-2 md:space-y-5">
             <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-3xl md:leading-8">
               Videos
             </h1>
@@ -138,7 +138,7 @@ export default function Home({ posts }) {
               </p>
             </Link>
           </div>
-          <div className="pb-8 space-y-2 md:space-y-5">
+          <div className="pb-6 space-y-2 md:space-y-5">
             <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-3xl md:leading-8">
               Conference Posters
             </h1>
