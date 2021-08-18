@@ -27,15 +27,14 @@ export default function Home({ posts }) {
           <div className="container max-w-5xl mx-auto m-8">
             <div className="w-full mb-4" />
             <div className="flex flex-wrap border-b">
-              <div className="w-5/6 sm:w-1/2 p-6 md:pt-16 sm:pb-0">
+              <div className="w-5/6 sm:w-1/2 p-6 md:pt-2 sm:pb-0">
                 <Link href={'/about'}>
-                  <h1 className="text-4xl text-teal-600 font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-                    Welcome, I'm Feye!
+                  <h1 className="text-3xl text-teal-600 font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
+                    Hi, <span className="text-primary-500"> I'm Feye!</span> A geospatial analyst
+                    and a project manager focused on helping purpose-driven organizations.
                   </h1>
                   <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
-                    I'm a geospatial analyst and a project manager focused on helping purpose-driven
-                    organizations to making a powerful and positive social impact using open data
-                    and free and open source tools (FOSS).
+                    I love to work with open data and free and open source tools (FOSS).
                     <br />
                     <br />
                   </p>
@@ -88,7 +87,7 @@ export default function Home({ posts }) {
               </div>
               <div className="w-full sm:w-1/2 p-6 mt-6">
                 <Link href={'/maps'}>
-                  <WorldMap className=" /6 sm:h-64 mx-auto" />
+                  <WorldMap className="w-5/6 sm:h-64 mx-auto" />
                 </Link>
               </div>
             </div>
