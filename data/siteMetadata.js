@@ -9,7 +9,7 @@ const siteMetadata = {
   siteUrl: 'https://feye.vercel.app/',
   siteRepo: 'https://github.com/feyeandal/feye.website',
   siteLogo: '/static/images/logo.png',
-  // image: '/static/images/avatar.png',
+  image: '/static/images/feyeandal.jpg',
   head: '/static/images/maps.png',
   head_2nd: '/static/images/feyeandal.jpg',
   head_3rd: '/static/images/NOAH.png',
