@@ -1,6 +1,6 @@
 ---
 name: Feye Andal
-avatar: /static/images/feyeandal.jpg
+avatar: /static/images/feyeandal.JPG
 occupation: Project Manager; Geospatial Analyst
 company: UPRI-NOAH Center; By Implication, Inc.
 email: andalfeye@gmail.com
