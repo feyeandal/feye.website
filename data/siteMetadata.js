@@ -11,7 +11,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   // image: '/static/images/avatar.png',
   head: '/static/images/maps.png',
-  head_2nd: '/static/images/feyeandal.JPG',
+  head_2nd: '/static/images/feyeandal.jpg',
   head_3rd: '/static/images/NOAH.png',
   head_4th: '/static/images/osm.png',
   // socialBanner: '/static/images/twitter-card.png',
