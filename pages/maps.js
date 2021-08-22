@@ -20,7 +20,7 @@ export default function maps() {
         <div className="container py-12">
           <div className="flex flex-wrap -m-4">
             {mapsData.map((d, n) => (
-              <Card key={n} imgSrc={d.imgSrc} />
+              <Card key={n} imgSrc={d.imgSrc} title={d.title} />
             ))}
           </div>
         </div>

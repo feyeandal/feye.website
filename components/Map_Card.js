@@ -1,51 +1,69 @@
 import Image from './Image'
 import Link from './Link'
+import { useState } from 'react'
+import 'react-responsive-modal/styles.css'
+import { Modal } from 'react-responsive-modal'
 
-const Card = ({ title, description, imgSrc, href }) => (
-  <div className="p-4 md:w-1/2 md" style={{ maxWidth: '1000px' }}>
-    <div className="h-full overflow-hidden">
-      {href ? (
-        <Link href={href} aria-label={`Link to ${title}`}>
-          <Image
-            alt={title}
-            src={imgSrc}
-            className="object-cover object-center lg:h-48 md:h-36"
-            width={800}
-            height={550}
-          />
-        </Link>
-      ) : (
-        <Image
-          alt={title}
-          src={imgSrc}
-          className="object-cover object-center lg:h-48 md:h-36"
-          width={800}
-          height={550}
-        />
-      )}
-      <div className="p-6">
-        <h2 className="mb-3 text-2xl font-bold leading-8 tracking-tight">
-          {href ? (
-            <Link href={href} aria-label={`Link to ${title}`}>
-              {title}
-            </Link>
-          ) : (
-            title
-          )}
-        </h2>
-        <p className="mb-3 prose text-gray-500 max-w-none dark:text-gray-400">{description}</p>
-        {href && (
-          <Link
-            href={href}
-            className="text-base font-medium leading-6 text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
-            aria-label={`Link to ${title}`}
-          >
-            Learn more &rarr;
+const Card = ({ title, description, imgSrc, href }) => {
+  const [open, setOpen] = useState(false)
+
+  const onOpenModal = () => setOpen(true)
+  const onCloseModal = () => setOpen(false)
+  return (
+    <div className="p-4 md:w-1/2 md" style={{ maxWidth: '1000px' }}>
+      <div className="h-full overflow-hidden">
+        {href ? (
+          <Link href={href} aria-label={`Link to ${title}`}>
+            <div className="absolute inset-0 z-10 flex transition duration-200 ease-in hover:opacity-0">
+              <div className="absolute inset-0 bg-black opacity-70"></div>
+              <div className="mx-auto text-white z-10 self-center uppercase tracking-widest text-sm">
+                {title}
+              </div>
+            </div>
+            <Image
+              alt={title}
+              src={imgSrc}
+              className="object-cover object-center lg:h-48 md:h-36 opacity-80 hover:opacity-100"
+              width={800}
+              height={550}
+            />
           </Link>
-        )}
+        ) : (
+          <>
+            <div className="relative" onClick={onOpenModal}>
+              <div className="absolute inset-0 z-10 flex transition duration-200 ease-in hover:opacity-0">
+                <div className="absolute inset-0 bg-black opacity-70"></div>
+                <div className="mx-auto text-white z-10 self-center tracking-widest text-sm">
+                  {title}
+                </div>
+              </div>
+              <Image
+                alt={title}
+                src={imgSrc}
+                className="object-cover object-center"
+                width={800}
+                height={550}
+              />
+            </div>
+            <Modal
+              open={open}
+              onClose={onCloseModal}
+              closeIcon={<></>}
+              center
+              classNames={{ modal: 'custom-modal' }}
+            >
+              <Image
+                alt={title}
+                src={imgSrc}
+                className="object-cover object-center"
+                width={800}
+                height={550}
+              />
+            </Modal>
+          </>
+        )}{' '}
       </div>
     </div>
-  </div>
-)
-
+  )
+}
 export default Card
