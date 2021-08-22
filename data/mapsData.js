@@ -17,7 +17,7 @@ const mapsData = [
   },
   {
     imgSrc: '/static/images/dangerzone.jpg',
-    title: "Mt. Pinatubos's Danger Zone",
+    title: "Mt. Pinatubo's Danger Zone",
   },
   {
     imgSrc: '/static/images/us_buildings.jpg',
