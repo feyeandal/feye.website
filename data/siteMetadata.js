@@ -1,8 +1,6 @@
 const siteMetadata = {
   title: 'Feye Andal',
   author: 'Feye',
-  // headerTitle: 'Feye',
-  // description: 'Geospatial Data, OpenStreetMap, Cooking, Fancy Stuff',
   description: 'Open data and FOSS on disaster risk and transport information management',
   // description: 'If you want to know more about me and what I do, feel free to navigate the site.',
   language: 'en-us',
@@ -20,7 +18,6 @@ const siteMetadata = {
   twitter: 'https://twitter.com/dfeyeandal',
   openstreetmap: 'https://openstreetmap.org/user/feyeandal',
   facebook: 'https://facebook.com/feyeandal',
-  // youtube: 'https://youtube.com/feyeandal',
   video_osm: 'https://www.youtube.com/watch?v=DNGMKJkzEkk',
   video_osm_journey: 'https://www.youtube.com/watch?v=FF4OGxWLItw',
   linkedin: 'https://www.linkedin.com/in/feye-andal-29b38a76/',
