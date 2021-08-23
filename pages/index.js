@@ -27,12 +27,15 @@ export default function Home({ posts }) {
           <div className="container max-w-5xl mx-auto m-8">
             <div className="w-full mb-4" />
             <div className="flex flex-wrap border-b">
-              <div className="w-5/6 sm:w-1/2 p-6 md:pt-2 sm:pb-0">
+              <div className="w-5/6 sm:w-7/12 p-6 md:pt-2 sm:pb-0">
                 <Link href={'/about'}>
-                  <h1 className="text-3xl text-teal-600 font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
-                    Hi, <span className="text-primary-500"> I'm Feye!</span> A geospatial analyst
-                    and a project manager focused on helping purpose-driven organizations.
+                  <h1 className="text-3xl pb-2 text-teal-600 font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
+                    Hi, <span className="text-primary-500"> I'm Feye!</span>
                   </h1>
+                  <p className="text-3xl text-teal-600 font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-4.5xl md:leading-12">
+                    A geospatial analyst and project manager focused on helping purpose-driven
+                    organizations.
+                  </p>
                   <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
                     I love to work with open data and free and open source tools (FOSS).
                     <br />
@@ -40,7 +43,7 @@ export default function Home({ posts }) {
                   </p>
                 </Link>
               </div>
-              <div className="w-full sm:w-1/2 p-6">
+              <div className="w-full sm:w-5/12 p-6">
                 <Link href={'/about'}>
                   <img
                     src={siteMetadata.head_2nd}
@@ -51,7 +54,7 @@ export default function Home({ posts }) {
               </div>
             </div>
             <div className="flex flex-wrap border-b">
-              <div className="w-5/6 sm:w-1/2 p-6 md:pt-20">
+              <div className="w-5/6 sm:w-7/12 p-6 md:pt-20">
                 <Link href={'/blog'}>
                   <h3 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-4xl md:leading-14">
                     Blog
@@ -64,14 +67,14 @@ export default function Home({ posts }) {
                   </p>
                 </Link>
               </div>
-              <div className="w-full sm:w-1/2 p-6">
+              <div className="w-full sm:w-5/12 p-6">
                 <Link href={'/blog'}>
                   <Content className="w-4/6 sm:h-56 mx-auto" />
                 </Link>
               </div>
             </div>
             <div className="flex flex-wrap sm:flex-row border-b">
-              <div className="w-full sm:w-1/2 p-6 md:mt-20">
+              <div className="w-full sm:w-7/12 p-6 md:mt-20">
                 <Link href={'/maps'}>
                   <div className="align-middle">
                     <h3 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-4xl md:leading-14">
@@ -85,14 +88,14 @@ export default function Home({ posts }) {
                   </div>
                 </Link>
               </div>
-              <div className="w-full sm:w-1/2 p-6 mt-6">
+              <div className="w-full sm:w-5/12 p-6 mt-6">
                 <Link href={'/maps'}>
                   <WorldMap className="w-5/6 sm:h-64 mx-auto" />
                 </Link>
               </div>
             </div>
             <div className="flex flex-wrap sm:flex-row border-b">
-              <div className="w-full sm:w-1/2 p-6 md:mt-20">
+              <div className="w-full sm:w-7/12 p-6 md:mt-20">
                 <Link href={'/projects'}>
                   <div className="align-middle">
                     <h3 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-4xl md:leading-14">
@@ -107,7 +110,7 @@ export default function Home({ posts }) {
                   </div>
                 </Link>
               </div>
-              <div className="w-full sm:w-1/2 p-6 mt-6">
+              <div className="w-full sm:w-5/12 p-6 mt-6">
                 <Link href={'/projects'}>
                   <Projects className="w-5/6 sm:h-64 mx-auto" />
                 </Link>
