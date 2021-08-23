@@ -30,7 +30,7 @@ const Card = ({ title, description, imgSrc, href }) => {
           </Link>
         ) : (
           <>
-            <div className="relative" onClick={onOpenModal}>
+            <div className="relative flex cursor-pointer" onClick={onOpenModal}>
               <div className="absolute inset-0 z-10 flex transition duration-200 ease-in hover:opacity-0">
                 <div className="absolute inset-0 bg-black opacity-70"></div>
                 <div className="mx-auto text-white z-10 self-center text-center px-2 tracking-widest text-sm">
