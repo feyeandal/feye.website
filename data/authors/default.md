@@ -15,7 +15,7 @@ I am a geospatial analyst and project manager based in [Quezon City, Philippines
 
 I like automating my geospatial data processing and analysis workflows using Python because they are reproducible and scalable (_and I hate doing repetitive tasks too!_). I am fond of great data visualizations such as maps, graphs, and posters produced using FOSS.
 
-I am also doing volunteer works for [OpenStreetMap-Philippines](https://wiki.openstreetmap.org/wiki/Philippines) and currently serving as a Regional Ambassador for [YouthMappers](youthmappers.org).
+I am also doing volunteer works for [OpenStreetMap-Philippines](https://wiki.openstreetmap.org/wiki/Philippines) and currently serving as a Regional Ambassador for [YouthMappers](https://youthmappers.org).
 
 Aside from wrestling with different geospatial datasets and handling various WebGIS projects, you'll find me cooking, traveling, watching series and movies, and designing stuff.
 
