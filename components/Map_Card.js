@@ -11,10 +11,10 @@ const Card = ({ title, description, imgSrc, href }) => {
   const onCloseModal = () => setOpen(false)
   return (
     <div className="p-4 md:w-1/2 md" style={{ maxWidth: '1000px' }}>
-      <div className="h-full overflow-hidden shadow-2xl flex transition transform transition duration-500 hover:scale-110">
+      <div className="h-full overflow-hidden shadow-2xl">
         {href ? (
           <Link href={href} aria-label={`Link to ${title}`}>
-            <div className="absolute inset-0 z-10 flex transition duration-200 ease-in hover:opacity-0">
+            <div className="absolute inset-0 z-10 flex transition duration-200">
               <div className="absolute inset-0 bg-black opacity-70"></div>
               <div className="mx-auto text-white z-10 self-center uppercase tracking-widest text-sm">
                 {title}
@@ -32,7 +32,7 @@ const Card = ({ title, description, imgSrc, href }) => {
           <>
             <div className="relative flex cursor-pointer" onClick={onOpenModal}>
               <div className="absolute inset-0 z-10 flex transition duration-200 ease-in hover:opacity-0">
-                <div className="absolute inset-0 bg-black opacity-70"></div>
+                <div className="absolute inset-0 bg-black opacity-60"></div>
                 <div className="mx-auto text-white z-10 self-center text-center px-2 tracking-widest text-sm">
                   {title}
                 </div>
@@ -40,7 +40,7 @@ const Card = ({ title, description, imgSrc, href }) => {
               <Image
                 alt={title}
                 src={imgSrc}
-                className="object-cover object-center"
+                className="object-cover object-center lg:h-48 md:h-36"
                 width={800}
                 height={550}
               />
