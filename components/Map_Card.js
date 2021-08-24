@@ -11,7 +11,7 @@ const Card = ({ title, description, imgSrc, href }) => {
   const onCloseModal = () => setOpen(false)
   return (
     <div className="p-4 md:w-1/2 md" style={{ maxWidth: '1000px' }}>
-      <div className="h-full overflow-hidden">
+      <div className="h-full overflow-hidden shadow-2xl flex transition transform transition duration-500 hover:scale-110">
         {href ? (
           <Link href={href} aria-label={`Link to ${title}`}>
             <div className="absolute inset-0 z-10 flex transition duration-200 ease-in hover:opacity-0">
