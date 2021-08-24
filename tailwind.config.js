@@ -7,6 +7,9 @@ module.exports = {
   darkMode: 'class',
   theme: {
     extend: {
+      fontSize: {
+        '4.5xl': '2.5rem',
+      },
       spacing: {
         '9/16': '56.25%',
       },
