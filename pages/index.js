@@ -37,7 +37,7 @@ export default function Home({ posts }) {
                     organizations.
                   </p>
                   <p className="prose text-gray-500 max-w-none dark:text-gray-400 mt-4">
-                    I love to work with open data and free and open source tools (FOSS).
+                    I love to work with open data and free and open source software (FOSS).
                     <br />
                     <br />
                   </p>
