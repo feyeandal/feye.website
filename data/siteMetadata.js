@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Feye Andal',
   author: 'Feye',
   description:
-    'A geospatial analyst focused on using open data and FOSS on disaster risk and transport information management',
+    'A geospatial analyst focused on using open data and FOSS for disaster risk and transport information management',
   // description: 'If you want to know more about me and what I do, feel free to navigate the site.',
   language: 'en-us',
   siteUrl: 'https://feye.vercel.app/',
