@@ -5,7 +5,7 @@ const siteMetadata = {
     'A geospatial analyst focused on using open data and FOSS for disaster risk and transport information management',
   // description: 'If you want to know more about me and what I do, feel free to navigate the site.',
   language: 'en-us',
-  siteUrl: 'https://feye.vercel.app/',
+  siteUrl: 'https://feyeandal.me',
   siteRepo: 'https://github.com/feyeandal/feye.website',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/feyeandal.JPG',
