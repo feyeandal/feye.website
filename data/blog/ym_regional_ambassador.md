@@ -48,4 +48,4 @@ After months of recruitment and coordination, I was able to recruit 6 state coll
 
 Through this program, I have truly discovered my passion in life. I realized that while I loved teaching people about OpenStreetMap, I was more interested in continuously building their skills in mapping (not only in OSM, but also in different free and open-source software!). I learned and unlearned a lot from the students in various YouthMappers chapters and I am really inspired by the people in the YouthMappers movement and OSM community.
 
-I would like to thank everyone in the YouthMappers network for the support and trainings you have provided us! Also to friends who helped and guided me in this journey!
+I would like to thank everyone in the YouthMappers network for the support and trainings you have provided us! Also to friends who helped and guided me in this journey! \<3
