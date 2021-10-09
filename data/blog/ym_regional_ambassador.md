@@ -1,5 +1,5 @@
 ---
-title: YouthMappers Regional Ambassador - My Year in Review
+title: YouthMappers Regional Ambassador - 2021 Year in Review
 date: '2021-10-09'
 tags: ['YouthMappers', 'OSM', 'Community']
 draft: false
