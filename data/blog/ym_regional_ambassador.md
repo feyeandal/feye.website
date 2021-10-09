@@ -22,7 +22,7 @@ balance the distribution of chapters, extend the network of YouthMappers across 
 Philippine islands, and build a community of mappers in the least-mapped areas in OSM. In
 order to identify the provinces that will be prioritized for recruitment, analysis on OSM data from various sources was examined. [See my workplan for 2020-2021](https://drive.google.com/drive/folders/197p-wmHY3vyll-uz_oYNOEAor92t1ED2).
 
-After months of recruitment and coordination, I was able to recruit 6 state colleges and univerities (5 from the Philippines and 1 from Singapore).
+After months of recruitment and coordination, I was able to onboard 6 state colleges and univerities (5 from the Philippines and 1 from Singapore).
 
 ![ym-2021](/static/images/ym2021.gif)
 
