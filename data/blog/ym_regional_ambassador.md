@@ -16,7 +16,7 @@ Before the pandemic happened, there are 4 chapters established in the Philippine
 
 As a regional ambassador, I see this opportunity as a perfect avenue to increase and
 balance the distribution of chapters, extend the network of YouthMappers across the
-Philippine islands, and build a community of mappers in the least-mapped areas in OSM. As the distribution of the local chapters is mainly in Metro Manila, I focused my efforts on recruiting Visayas and Mindanao-based universities, as we need more visibility and reach in these areas. In order to identify the provinces that will be prioritized for recruitment, analysis on OSM data from various sources was examined. [See my workplan for 2020-2021](https://drive.google.com/drive/folders/197p-wmHY3vyll-uz_oYNOEAor92t1ED2).
+Philippine islands, and build a community of mappers in the least-mapped areas in OSM. As the distribution of the local chapters is mainly in Metro Manila, I focused my efforts on recruiting Visayas and Mindanao-based universities, as we need more visibility and reach in these areas. In order to identify the provinces that will be prioritized for recruitment, analysis on OSM data from various sources was done. [See my workplan for 2020-2021](https://drive.google.com/drive/folders/197p-wmHY3vyll-uz_oYNOEAor92t1ED2).
 
 After months of recruitment and coordination, I was able to onboard 6 state colleges and universities (5 from the Philippines and 1 from Singapore).
 
@@ -24,13 +24,13 @@ After months of recruitment and coordination, I was able to onboard 6 state coll
 
 ### Challenges and Reflections
 
-1. **Contacting state colleges and universities.** A database containing the contact information of each college/university is lacking, so a lot of effort was done to build the database and contact them through email and social media. Some information such as email addresses and official websites are outdated, making it more difficult to reach some colleges and universities.
+1. **Contacting state colleges and universities.** A centralized database containing the contact information of each college/university is lacking, so a lot of effort was done to build the database and contact them through email and social media. Some information such as email addresses and official websites are outdated, making it more difficult to reach some colleges and universities.
 
 2. **Shifting to virtual learnings.** As we shift to virtual activities to build community connection, we had to be more creative and resourceful when organizing and conducting our OSM trainings and workshops. We had to think of fun ways to engage our students and volunteers in virtual learning experience.
 
 3. **Communication and coordination in a growing community.** As we’ve grown from 4 to 9 chapters members in a year, it would be quite a challenge to maintain all communications and coordination among the member chapters.
 
-4. **Participation comes from a strong interest and passion on open mapping.** Not all universities and student organizations have a solid foundation and background on mapping (not all colleges and universities have Geography or Geodetic Engineering courses). During the initial meetings with the student organizations, practical applications of open mapping were presented and stories about volunteer mapping were shared for them to see the benefits and significance of what we do in the community. Additionally, continuous training and support must be offered and provided.
+4. **Participation comes from a strong interest and passion on open mapping.** Not all universities and student organizations have a solid foundation and background on mapping (not all colleges and universities have Geography or Geodetic Engineering courses). During the initial meetings with the student organizations, practical applications of open mapping were presented and stories about volunteer mapping were shared for them to see the benefits and significance of collaborative mapping. Additionally, continuous training and support must be offered and provided.
 
 5. **Shy students during group mapathons.** Students tend to get shy during group mapathons and trainings. To address this issue, I initiated a one-on-one tutorial sessions to interest students and volunteers.
 
@@ -40,8 +40,8 @@ After months of recruitment and coordination, I was able to onboard 6 state coll
 
 8. **Recognition to the students are significant.** It’s important to recognize students' and volunteers' efforts and time simply by giving them tokens and messages of appreciation. As I always say, mappers and validators need some sort of validation too. Volunteers like students are the backbone of the OSM ecosystem, we should always take care of them, and not intimidate them in any way possible.
 
-9. **YouthMappers is one of the most active actors in the OpenStreetMap ecosystem this year.** There are a lot of great activities, trainings, and projects YouthMappers has introduced and led (ex. [YouthMappers Academy](https://www.youthmappers.org/post/announcing-the-youthmappers-academy-an-online-platform-to-build-mappers) and [Everywhere She Maps](https://www.youthmappers.org/everywhereshemaps)) and I am glad to be part of it.
+9. **YouthMappers is one of the most active actors in the OpenStreetMap ecosystem this year.** There are a lot of great activities, trainings, and projects YouthMappers has introduced and led (e.g. [YouthMappers Academy](https://www.youthmappers.org/post/announcing-the-youthmappers-academy-an-online-platform-to-build-mappers) and [Everywhere She Maps](https://www.youthmappers.org/everywhereshemaps)) and I am glad to be part of it.
 
-Through this program, I have truly discovered my passion in life. I realized that while I loved teaching people about OpenStreetMap, I was more interested in continuously building their skills in mapping (not only in OSM, but also in different free and open-source software!). I learned and unlearned a lot from the students in various YouthMappers chapters and I am really inspired by the people in the YouthMappers movement and OSM community.
+Through this program, I have truly discovered my passion in life. I realized that while I loved talking about OpenStreetMap, I was more interested in continuously building the students' and volunteers' skills in mapping (not only in OSM, but also in different free and open-source software!). I learned and unlearned a lot from the students in various YouthMappers chapters and I am really inspired by the people in the YouthMappers movement and OSM community.
 
 I would like to thank everyone in the YouthMappers network for the support and trainings you have provided us! Also to friends who helped and guided me in this journey! \<3
