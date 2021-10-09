@@ -30,7 +30,7 @@ After months of recruitment and coordination, I was able to recruit 6 state coll
 
 1. **Contacting state colleges and universities.** A database containing the contact information of each college/university is lacking, so a lot of effort was done to build the database and contact them through email and social media. Some information such as email addresses and official websites are outdated, making it more difficult to reach some colleges and universities.
 
-2. **Shifting to virtual learnings.** As we shift to virtual learning to build community connection while also to prevent the virus’s transmission, we had to be more creative and resourceful when conducting our OSM trainings and workshops. We had to think of fun ways to engage our students and volunteers in virtual online experience.
+2. **Shifting to virtual learnings.** As we shift to virtual learning to build community connection while also to prevent the virus’s transmission, we had to be more creative and resourceful when conducting our OSM trainings and workshops. We had to think of fun ways to engage our students and volunteers in virtual learning experience.
 
 3. **Communication and coordination in a growing community.** As we’ve grown from 4 to 9 chapters members in a year, it would be quite a challenge to maintain all communications and coordination among the member chapters.
 
