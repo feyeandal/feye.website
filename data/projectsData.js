@@ -1,5 +1,11 @@
 const projectsData = [
   {
+    title: 'The Revamped NOAH Website',
+    description: `The revamped NOAH website is a project of UP Resilience Institute - NOAH Center in partnership with Mapbox. It builds upon and improves NOAH's exsiting features using Mapbox technologies! It is geared to allow users to be more informed and better prepared to deal with hazards that may affect the areas they live and work in.`,
+    imgSrc: '/static/images/revamped_noah.jpg',
+    href: 'https://noah.up.edu.ph/',
+  },
+  {
     title: 'HOT Philippines - PhilAWARE',
     description: `HOT-Philippines, together with the Pacific Disaster Center (PDC), Office of Civil Defense, PetaBencana.id, and USAID started the PhilAWARE Project last July 2019. The project aims to collect the local critical lifeline infrastructures based on the PhilAWARE Data Model and complete the building footprints and road network of Pampanga, Quezon City, and Marikina City.`,
     imgSrc: '/static/images/hotph.png',

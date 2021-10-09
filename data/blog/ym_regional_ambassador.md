@@ -40,7 +40,7 @@ After months of recruitment and coordination, I was able to onboard 6 state coll
 
 8. **Recognition to the students are significant.** It’s important to recognize students' and volunteers' efforts and time simply by giving them tokens and messages of appreciation. As I always say, mappers and validators need some sort of validation too. Volunteers like students are the backbone of the OSM ecosystem, we should always take care of them, and not intimidate them in any way possible.
 
-9. **YouthMappers is one of the most active actors in the OpenStreetMap ecosystem this year.** There are a lot of great activities, trainings, and projects YouthMappers has introduced and led and I am glad to be part of it.
+9. **YouthMappers is one of the most active actors in the OpenStreetMap ecosystem this year.** There are a lot of great activities, trainings, and projects YouthMappers has introduced and led (ex. [YouthMappers Academy](https://www.youthmappers.org/post/announcing-the-youthmappers-academy-an-online-platform-to-build-mappers) and [Everywhere She Maps](https://www.youthmappers.org/everywhereshemaps)) and I am glad to be part of it.
 
 Through this program, I have truly discovered my passion in life. I realized that while I loved teaching people about OpenStreetMap, I was more interested in continuously building their skills in mapping (not only in OSM, but also in different free and open-source software!). I learned and unlearned a lot from the students in various YouthMappers chapters and I am really inspired by the people in the YouthMappers movement and OSM community.
 
