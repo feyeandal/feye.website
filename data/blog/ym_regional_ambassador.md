@@ -28,21 +28,21 @@ After months of recruitment and coordination, I was able to recruit 6 state coll
 
 ### Challenges and Reflections
 
-1. **Contacting state colleges and universities.** A database containing the contact details and information of each school is lacking, so a lot of effort was done to build the database and contact them through email. Some information such as email addresses, contact information, and official websites are outdated, making it more difficult to reach some universities.
+1. **Contacting state colleges and universities.** A database containing the contact information of each college/university is lacking, so a lot of effort was done to build the database and contact them through email and social media. Some information such as email addresses and official websites are outdated, making it more difficult to reach some colleges and universities.
 
-2. **Shifting to virtual learnings.** As we shift to virtual learning to build community connection while also to prevent the virus’s transmission, we had to be more creative and resourceful when conducting our OSM trainings and workshops. To make our workshops and mapathons more interesting and enjoyable, games and ice breakers had to be stepped up.
+2. **Shifting to virtual learnings.** As we shift to virtual learning to build community connection while also to prevent the virus’s transmission, we had to be more creative and resourceful when conducting our OSM trainings and workshops. We had to think of fun ways to engage our students and volunteers in virtual online experience.
 
-3. **Communication and coordination in a growing community.** As we’ve grown from 4 to 9 chapters members in a year, it would be quite a challenge to maintain all communications and coordination among the chapters.
+3. **Communication and coordination in a growing community.** As we’ve grown from 4 to 9 chapters members in a year, it would be quite a challenge to maintain all communications and coordination among the member chapters.
 
-4. **Participation comes from a strong interest and passion on open mapping.** Not all universities and student organizations have a solid foundation and background on mapping (perhaps Geography or Geodetic Engineering courses). During the initial meetings with the student organizations, it is important to show them some practical applications of open mapping to be able to make them interested on mapping and offer them continuous training and support on getting familiar in the project and the community.
+4. **Participation comes from a strong interest and passion on open mapping.** Not all universities and student organizations have a solid foundation and background on mapping (not all colleges and universities have Geography or Geodetic Engineering courses). During the initial meetings with the student organizations, it is important to present some practical applications of open mapping and share stories about volunteer mapping for them to see the benefits and significance of what we do in the community. Additionally, we need to offer them continuous training and support.
 
-5. **Shy students during group mapathons.** Students tend to get shy when learning during group mapathons and trainings. To address this issue, I initiated a one-on-one tutorial sessions to interest students and volunteers.
+5. **Shy students during group mapathons.** Students tend to get shy during group mapathons and trainings. To address this issue, I initiated a one-on-one tutorial sessions to interest students and volunteers.
 
-6. **Unequal access to reliable internet connection and right technology.** During my initial meeting with Sulu State College, their connection was cut multiple times because of the intermittent internet connection in their university. Prooactive support must be provided for student organizations and universities to make virtual meetings and trainings equally and easily accessible to all.
+6. **Unequal access to reliable internet connection and right technology.** During my initial meeting with Sulu State College, their connection was cut multiple times because of the intermittent internet connection in their university. Pro-active support must be provided for student organizations and universities to make virtual meetings and trainings equally and easily accessible to all.
 
-7. **Exhaustion from constant online learnings.** Students and volunteers are experiencing a lot of exhaustion from constant online learnings at their colleges/universities, hence participating in more virtual mapathons could be additionally exhausting for them.
+7. **Exhaustion from constant online learnings.** Students and volunteers are experiencing a lot of exhaustion from constant online learnings at their colleges/universities, hence participating in more virtual mapathons could be additionally exhausting for them. At this point, we should have a system in place to check-in with students more frequently.
 
-8. **Recognition to the students are significant.** It’s important to recognize their efforts and time simply by giving them appreciation messages and tokens of appreciation. As I always say, validators need some sort of validation too. Volunteers like students are the backbone of the OSM ecosystem, we should always take care of them, and not intimidate them on any way possible.
+8. **Recognition to the students are significant.** It’s important to recognize their efforts and time simply by giving them appreciation messages and tokens of appreciation. As I always say, validators need some sort of validation too. Volunteers like students are the backbone of the OSM ecosystem, we should always take care of them, and not intimidate them in any way possible.
 
 9. **YouthMappers is one of the most active actors in the OpenStreetMap ecosystem this year.** There are a lot of great activities, trainings, and projects YouthMappers has introduced and I am glad to be part of it.
 
