@@ -32,7 +32,7 @@ After months of recruitment and coordination, I was able to onboard 6 state coll
 
 4. **Participation comes from a strong interest and passion for open mapping.** Not all universities and student organizations have a solid foundation and background on mapping (not all colleges and universities have Geography or Geodetic Engineering courses). During the initial meetings with the student organizations, practical applications of open mapping were presented and stories about volunteer mapping were shared for them to see the benefits and significance of collaborative mapping. Additionally, continuous training and support must be offered and provided.
 
-5. **Shy students during group mapathons.** Students tend to get shy during group mapathons and trainings. To address this issue, I initiated one-on-one tutorial sessions to interest students and volunteers.
+5. **Shy students during group mapathons.** Students tend to get shy during group mapathons and trainings. To address this issue, I initiated one-on-one tutorial sessions to interested students and volunteers.
 
 6. **Unequal access to reliable internet connection and the right technology.** During my initial meeting with Sulu State College, their connection was cut multiple times because of the intermittent internet connection in their university. Pro-active support must be provided for student organizations and universities to make the virtual meetings and trainings easily and equally accessible to all.
 
