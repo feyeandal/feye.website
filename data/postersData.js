@@ -1,5 +1,8 @@
 const postersData = [
   {
+    imgSrc: '/static/images/pista2021.png',
+  },
+  {
     imgSrc: '/static/images/UPRIYM2021.png',
   },
   {
