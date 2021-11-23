@@ -1,5 +1,8 @@
 const postersData = [
   {
+    imgSrc: '/static/images/HOT_Summit_2021.png',
+  },
+  {
     imgSrc: '/static/images/pista2021.png',
   },
   {
