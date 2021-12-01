@@ -84,6 +84,31 @@ export default function Home({ posts }) {
             </h1>
           </div>
           <div className="w-5/6 sm:w-full p-6 md:pt-2 sm:pb-0">
+            <Link href={siteMetadata.video_youthmappers_behind_the_scenes}>
+              <h3 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8">
+                YouthMappers: Behind the Scenes of the YouthMappers Movement
+              </h3>
+              <p className="prose italic text-gray-500 max-w-none dark:text-gray-400 mt-0">
+                (2021). YouthMappers [HOT Summit 2021]
+                <br />
+                <br />
+              </p>
+            </Link>
+          </div>
+          <div className="w-5/6 sm:w-full p-6 md:pt-2 sm:pb-0">
+            <Link href={siteMetadata.video_hot_data_quality_team}>
+              <h3 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8">
+                HOT Data Quality Team: Why Data Quality is important to HOT, and what we are doing
+                about it..
+              </h3>
+              <p className="prose italic text-gray-500 max-w-none dark:text-gray-400 mt-0">
+                (2021). HOT Data Quality Team [HOT Summit 2021]
+                <br />
+                <br />
+              </p>
+            </Link>
+          </div>
+          <div className="w-5/6 sm:w-full p-6 md:pt-2 sm:pb-0">
             <Link href={siteMetadata.video_osm}>
               <h3 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8">
                 OpenStreetMap in the Philippines 2021
@@ -101,7 +126,7 @@ export default function Home({ posts }) {
                 Mapping my OpenStreetMap Journey
               </h3>
               <p className="prose italic text-gray-500 max-w-none dark:text-gray-400 mt-0">
-                (2020). Andal, D.F. [Pista ng Mapa]
+                (2020). Andal, D.F. [Pista ng Mapa 2020]
                 <br />
                 <br />
               </p>
