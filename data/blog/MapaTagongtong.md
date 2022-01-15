@@ -52,7 +52,7 @@ Carlo: One of my driving factors in my interest in mapping is my frustrations fr
 
 More than all these, the hazard maps we produced will be helpful to the people of Tagongtong. As science scholars, we believe that scientific knowledge should not just be stockpiles of research results and nauseating graphs and statistics. There must be a way for us to interpret these and put them into use. With the help of UPRI NOAH through Ate Feye, we would be able to make the scientific data on hazards useful and understandable for the people of Tagongtong.
 
-**Any message for the aspiring students who want to learn about OpenStreetMap and mapping in general?**
+**Any message for aspiring students who want to learn about OpenStreetMap and mapping in general?**
 
 Rhoanne: Don’t be afraid to try it and start your journey. There are a lot of people willing to lend you a hand and teach you the ropes of mapping and there is a fun and exciting community waiting for you. Yes, it may be intimidating but if you are always open to learning, to accepting feedback, and to failing at times, the journey is quite amazing, after all, everyday's a learning opportunity.
 
