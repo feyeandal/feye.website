@@ -21,6 +21,8 @@ const siteMetadata = {
   facebook: 'https://facebook.com/feyeandal',
   video_osm: 'https://www.youtube.com/watch?v=DNGMKJkzEkk',
   video_osm_journey: 'https://www.youtube.com/watch?v=FF4OGxWLItw',
+  video_youthmappers_behind_the_scenes: 'https://www.youtube.com/watch?v=KpUYgUFz1gE',
+  video_hot_data_quality_team: 'https://www.youtube.com/watch?v=VhMGxB3-b7o',
   linkedin: 'https://www.linkedin.com/in/feye-andal-29b38a76/',
   manuscript: 'https://drive.google.com/file/d/1hSxsLdfAzAuh4LJKJZKJG5PiURkitsef/view?usp=sharing',
   conference_poster: 'https://2020.stateofthemap.org/posters/#hotph',
