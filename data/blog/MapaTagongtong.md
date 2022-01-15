@@ -1,7 +1,7 @@
 ---
 title: How PSHS-Bicol Students Pursue Community Mapping for their Science Immersion Program
 date: '2022-01-15'
-tags: ['OSM', 'Community']
+tags: ['OSM', 'Community', 'YouthMappers']
 draft: false
 summary: 'Senior high school students from the Philippine Science High School - Bicol Region Campus, Carlo Mañago and Rhoanne Miranda, pursue community mapping using OpenStreetMap (OSM) as part of their Science Immersion program.'
 ---
@@ -48,8 +48,18 @@ Carlo: Like many other projects, perhaps the most difficult part of MapaTagongto
 
 Rhoanne: Aside from putting the barangay on a global map, the project will help the barangay in preparing for disasters, especially typhoons. Personally, I believe that seeing your barangay on map is very uplifting and it gives a sense of importance, so I think that the community of Barangay Tagongtong will hopefully feel this too.
 
+Carlo: One of my driving factors in my interest in mapping is my frustrations from when I was a child. I would always look for maps and statistical maps of my locality online but I'd get few to no good results. So when I learned how to map both in OSM and GIS, I told myself I'd be creating maps for these small communities so other kids like I once was, would not be frustrated that there's no map of their community. Like Rhoanne said, seeing your community on a map is an uplifting feeling; it gives you the sense of importance that you are part of something bigger.
+
+More than all these, the hazard maps we produced will be helpful to the people of Tagongtong. As science scholars, we believe that scientific knowledge should not just be stockpiles of research results and nauseating graphs and statistics. There must be a way for us to interpret these and put them into use. With the help of UPRI NOAH through Ate Feye, we would be able to make the scientific data on hazards useful and understandable for the people of Tagongtong.
+
 **Any message for the aspiring students who want to learn about OpenStreetMap and mapping in general?**
 
 Rhoanne: Don’t be afraid to try it and start your journey. There are a lot of people willing to lend you a hand and teach you the ropes of mapping and there is a fun and exciting community waiting for you. Yes, it may be intimidating but if you are always open to learning, to accepting feedback, and to failing at times, the journey is quite amazing, after all, everyday's a learning opportunity.
+
+Carlo: Whoever these students are, we need to link up ASAP! HAHA! Mapping is (I think) a very niche interest. You will not immediately find a young person who would enthusiastically tell you, "ooh I love seeing an overhead view of the world!" It's not quite common. So for those students who _are_ interested, make yourself part of a team, just like what I, Rhoanne, and Ate Feye did!
+
+Other than this, one very important thing is to make the world your classroom. Maps now are very handy, like OSM you can even access it through your mobile phone. It's as if you can fit the whole world in your Android or Apple device. But in order for you to make useful contributions to OSM or GIS or whatever mapping endeavor you want to partake in, you have to be open to learning: exploring your neighborhood, getting to know the histories and cultures, understanding the sociopolitical dynamics of the society you belong to — all these things can be translated to a map. If anything, a map is a snapshot of the world, literally and figuratively. It tells us how we as a people shaped our lands, drew our boundaries, and built our communities.
+
+So apart from doing your homework: contributing to OSM and exploring the technicalities of mapping, also explore the "world" outside the "world on your phone".
 
 _Want to know more about the status of their project and what they do? Follow them on Twitter ([@c4rlomng](https://twitter.com/c4rlomng/) & [@w3ynnrar](https://twitter.com/w3ynnrar))!_
