@@ -13,7 +13,7 @@ const siteMetadata = {
   head_2nd: '/static/images/feyeandal.JPG',
   head_3rd: '/static/images/NOAH.png',
   head_4th: '/static/images/osm.png',
-  // socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/twitter-card.png',
   email: 'andalfeye@gmail.com',
   github: 'https://github.com/feyeandal',
   twitter: 'https://twitter.com/dfeyeandal',
