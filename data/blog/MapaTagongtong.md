@@ -2,6 +2,7 @@
 title: How PSHS-Bicol Students Pursue Community Mapping for their Science Immersion Program
 date: '2022-01-15'
 tags: ['OSM', 'Community', 'YouthMappers']
+images: ['/static/images/Mapatagongtong.jpg']
 draft: false
 summary: 'Senior high school students from the Philippine Science High School - Bicol Region Campus, Carlo Mañago and Rhoanne Miranda, pursue community mapping using OpenStreetMap (OSM) as part of their Science Immersion program.'
 ---
