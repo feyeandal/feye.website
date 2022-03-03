@@ -15,7 +15,7 @@ const projectsData = [
     title: 'Development of a Web-based Awareness & Decision Support System (endcov.ph) on COVID-19',
     description: `The web portal endcov.ph was released late of March 2020 to provide the UP community and the general public with vital information for fighting COVID-19 in the country.`,
     imgSrc: '/static/images/endcov.png',
-    href: 'https://endcov.ph/',
+    href: 'https://endcov.up.edu.ph/',
   },
   {
     title: 'Building Resilient Communities in Bohol',

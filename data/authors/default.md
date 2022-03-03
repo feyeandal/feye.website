@@ -2,7 +2,7 @@
 name: Feye Andal
 avatar: /static/images/feyeandal.JPG
 occupation: Project Manager; Geospatial Analyst
-company: UPRI-NOAH Center; By Implication, Inc.
+company: UPRI-NOAH Center; Where Is My Transport
 email: andalfeye@gmail.com
 twitter: https://twitter.com/dfeyeandal
 openstreetmap: https://openstreetmap.org/user/feyeandal
