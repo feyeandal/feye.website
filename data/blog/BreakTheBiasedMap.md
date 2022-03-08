@@ -11,7 +11,7 @@ As women continue to face challenges in society, it is important to discuss how 
 
 ![iwd_2022](/static/images/iwd_2022.png)
 
-I spoke to my dearest friend, **Arnalie Vicario**, about why and how we should #BreakTheBiasedMap in this modern society. Arnalie is one of the women champions in the OSM community. Let us hear her thoughts through this Q&A.
+I spoke to my dearest friend, **Arnalie Vicario**, and asked her why and how we should #BreakTheBiasedMap in this modern society. Arnalie is one of the women champions in the OSM community. Let us hear her thoughts through this Q&A.
 
 **Can you tell us about yourself and how you became part of the women's communities?**
 
