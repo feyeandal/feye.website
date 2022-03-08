@@ -1,5 +1,5 @@
 ---
-title: "International Women's Day 2022: #WhyBreakTheBiasedMap"
+title: "International Women's Day 2022: #BreakTheBiasedMap"
 date: '2022-03-08'
 tags: ['IWD', 'OSM', 'Community', 'Women']
 images: ['/static/images/iwd_2022.png']
@@ -22,6 +22,10 @@ I was introduced to open data and OpenStreetMap when I joined a project in 2016.
 I remember we had a “Geoladies” group in Telegram around 2017-2019, but the Telegram group is no longer active. The participants were ladies and allies from all over the world. It served as a space for us to openly discuss mapping women-centric features in OSM, as well as share and support initiatives advocating for inclusion on the map.
 
 It was in 2018 when I learned about the 2014 [Change the Ratio](https://www.slideshare.net/esambale/geoladies-20140609) event organized by Mr. Maning Sambale, father of OSM Philippines _(chars!)_, where he convened the first GeoladiesPH meetup. I took inspiration from that event to co-organize [MAPAbabae: OSM Workshop and Mapathon with Women and for Women](https://www.openstreetmap.org/user/arnalielsewhere/diary/43568). A year after in 2019, together with [core members] you, Leigh Lunas, Jen Ayco, Cham Mamador, and Andi Tabinas, we formed GeoladiesPH and held activities with women and for women! :)
+
+![GeoLadiesPH](/static/images/geoladies_drones.jpg)
+
+<center>_Drone Workshop organized by GeoLadiesPH last August 2019_</center>
 
 **What particular advocacies in your group are you pushing?**
 
