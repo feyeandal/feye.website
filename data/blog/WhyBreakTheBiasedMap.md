@@ -2,7 +2,7 @@
 title: "International Women's Day 2022: #WhyBreakTheBiasedMap"
 date: '2022-03-08'
 tags: ['IWD', 'OSM', 'Community', 'Women']
-images: ['/static/images/iwd_2022_banner.png']
+images: ['/static/images/iwd_2022.png']
 draft: false
 summary: 'This year, we celebrate International Women’s Day with the theme #BreaktheBias. As women continue to face challenges in society, Arnalie Vicario discusses how we can change perceptions and challenge the conversation forward to create positive and social change on mapping.'
 ---
