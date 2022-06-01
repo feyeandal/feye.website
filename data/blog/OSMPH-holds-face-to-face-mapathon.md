@@ -26,7 +26,6 @@ Meanwhile, Aaliyah shared their crowd-sourced project on mapping the Leni-Kiko 2
 ![Aliyah-mapatalks](/static/images/aliyah_osmph2022.jpg)
 
 _Fun fact: Aaliyah is Sir Maning’s eldest daughter! Mapping runs in the blood, right? ;)_
-And finally, the most awaited part of the event, the mapathon! Aimon Pangan of AER provided a brief introduction about their project on COLLABDev, HOT Tasking Manager, and the iD editor. He also did a quick demo of digitizing buildings using the iD editor.
 
 And finally, the most awaited part of the event, the mapathon! Aimon Pangan of AER provided a brief introduction about their project on COLLABDev, HOT Tasking Manager, and the iD editor. He also did a quick demo of how to digitize buildings using the iD editor.
 
