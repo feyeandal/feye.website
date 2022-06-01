@@ -7,9 +7,7 @@ draft: false
 summary: 'The OpenStreetMap-Philippines community hosted its first face-to-face mapathon since the pandemic began.'
 ---
 
-The OpenStreetMap-Philippines community hosted its first face-to-face mapathon since the pandemic began. It was held in Open Space, Katipunan, last 28 March 2022. It was co-organized by the [OSM-Philippines community](https://www.facebook.com/OSMPH), [Open Mapping Hub - Asia Pacific](https://twitter.com/openmapping_ap), [Mapbeks](https://www.mapbeks.org/), and [FNF (Friedrich Naumann Foundation)](https://www.freiheit.org/). Because of the pandemic restrictions, most mapping events were purely virtual. Everyone was so excited to meet up in person and do our shared interest, mapping! ;)
-
-The OpenStreetMap-Philippines community hosted its first face-to-face mapathon since the pandemic began. It was held in Open Space, Katipunan, last 28 March 2022. It was co-organized by the [OSM-Philippines community](https://www.facebook.com/OSMPH), [Open Mapping Hub - Asia Pacific](https://twitter.com/openmapping_ap), [Mapbeks](https://www.mapbeks.org/), and [FNF (Friedrich Naumann Foundation)](https://www.freiheit.org/). Because of the pandemic restrictions, most mapping events were purely virtual. Everyone was so excited to meet-up in person and do our shared interest, mapping! ;)
+The OpenStreetMap-Philippines community hosted its first face-to-face mapathon since the pandemic began. It was held in Open Space, Katipunan, last 28 March 2022. It was co-organized by the [OSM-Philippines community](https://www.facebook.com/OSMPH), [Open Mapping Hub - Asia Pacific](https://twitter.com/openmapping_ap), [Mapbeks](https://www.mapbeks.org/), and [FNF (Friedrich Naumann Foundation)](https://www.freiheit.org/). Because of the pandemic restrictions, most mapping events were purely virtual. Everyone was so excited to meet up in person and do our shared interest, _mapping_! ;)
 
 The participants from the mapathon were mostly students (BS Geography and BS Geodetic Engineering students from UP Diliman) and long-time community volunteers. It was refreshing to see new and young faces in the mapathon and hear their stories about how they learned about OSM and the community.
 
@@ -38,6 +36,6 @@ Of course, food was served! Mapping gets better while munching on pizza and chip
 
 On behalf of the OSM-Philippines, I would like to thank our participants for joining us! I would also like to thank our sponsors for supporting us! We hope to see you again next month ;)
 
-Thank you, OSM-PH, Mapbeks, and [YouthMappers](https://youthmappers.org) for the freebies!
+PS. Thank you, OSM-PH, Mapbeks, and [YouthMappers](https://youthmappers.org) for the freebies!
 
-To access the photos from the mapathon, please visit this [repository](https://github.com/feyeandal/osmph2022_mapathon).
+_To access the photos from the mapathon, please visit this [repository](https://github.com/feyeandal/osmph2022_mapathon)._
