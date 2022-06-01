@@ -13,7 +13,7 @@ The participants from the mapathon were mostly students (BS Geography and BS Geo
 
 ![OSMPH2022-mapathon](/static/images/OSMPH_2022.jpg)
 
-We started the event by giving a short introduction about ourselves since there were new members of the community. It was followed by a series of mapa-talks, such as the introduction of OSM (and the local community) by Feye Andal, a community-managed marine protected area (MPA) mapping project by [Maning Sambale](https://www.openstreetmap.org/user/maning/), and the Rosas Murals project by Aaliyah Sambale. _We were supposed to go out and walk along Katipunan Avenue to conduct mobile mapping using Organic Maps, unfortunately, rains started to pour._
+We started the event by introducing ourselves since there are new members of the community. It was followed by a series of mapa-_talks_, such as the introduction of OSM (and the local community) by Feye Andal, a community-managed marine protected area (MPA) mapping project by [Maning Sambale](https://www.openstreetmap.org/user/maning/), and the Rosas Murals project by Aaliyah Sambale. _We were supposed to go out and walk along Katipunan Avenue to conduct mobile mapping using Organic Maps, unfortunately, rains started to pour._
 
 I gave a short presentation about OSM and its practical applications. Nothing too fancy and technical as I did not want to overwhelm the participants just yet :) Deck [here](https://www.canva.com/design/DAEVtt4e3J0/2teqtDyBOuP-OKu5qcs40Q/watch?utm_content=DAEVtt4e3J0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)!
 
@@ -27,6 +27,8 @@ Meanwhile, Aaliyah shared their crowd-sourced project on mapping the Leni-Kiko 2
 
 _Fun fact: Aaliyah is Sir Maning’s eldest daughter! Mapping runs in the blood, right? ;)_
 And finally, the most awaited part of the event, the mapathon! Aimon Pangan of AER provided a brief introduction about their project on COLLABDev, HOT Tasking Manager, and the iD editor. He also did a quick demo of digitizing buildings using the iD editor.
+
+And finally, the most awaited part of the event, the mapathon! Aimon Pangan of AER provided a brief introduction about their project on COLLABDev, HOT Tasking Manager, and the iD editor. He also did a quick demo of how to digitize buildings using the iD editor.
 
 ![Aimon-mapatalks](/static/images/aimon_osmph2022.jpg)
 
