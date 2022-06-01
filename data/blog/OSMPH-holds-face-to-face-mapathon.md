@@ -7,12 +7,9 @@ draft: false
 summary: 'The OpenStreetMap-Philippines community hosted its first face-to-face mapathon since the pandemic began.'
 ---
 
-<<<<<<< HEAD
 The OpenStreetMap-Philippines community hosted its first face-to-face mapathon since the pandemic began. It was held in Open Space, Katipunan, last 28 March 2022. It was co-organized by the [OSM-Philippines community](https://www.facebook.com/OSMPH), [Open Mapping Hub - Asia Pacific](https://twitter.com/openmapping_ap), [Mapbeks](https://www.mapbeks.org/), and [FNF (Friedrich Naumann Foundation)](https://www.freiheit.org/). Because of the pandemic restrictions, most mapping events were purely virtual. Everyone was so excited to meet up in person and do our shared interest, mapping! ;)
-=======
-The OpenStreetMap-Philippines community hosted its first face-to-face mapathon since the pandemic began. It was held in Open Space, Katipunan, last 28 March 2022. It was co-organized by the [OSM-Philippines community](https://www.facebook.com/OSMPH), [Open Mapping Hub - Asia Pacific](https://twitter.com/openmapping_ap), [Mapbeks](https://www.mapbeks.org/), and [FNF (Friedrich Naumann Foundation)](https://www.freiheit.org/). Because of the pandemic restrictions, most mapping events were purely virtual. Everyone was so excited to meet-up in person and do our shared interest, mapping! ;)
 
-> > > > > > > d006071339c1db6de21c41072343040f4f1c045e
+The OpenStreetMap-Philippines community hosted its first face-to-face mapathon since the pandemic began. It was held in Open Space, Katipunan, last 28 March 2022. It was co-organized by the [OSM-Philippines community](https://www.facebook.com/OSMPH), [Open Mapping Hub - Asia Pacific](https://twitter.com/openmapping_ap), [Mapbeks](https://www.mapbeks.org/), and [FNF (Friedrich Naumann Foundation)](https://www.freiheit.org/). Because of the pandemic restrictions, most mapping events were purely virtual. Everyone was so excited to meet-up in person and do our shared interest, mapping! ;)
 
 The participants from the mapathon were mostly students (BS Geography and BS Geodetic Engineering students from UP Diliman) and long-time community volunteers. It was refreshing to see new and young faces in the mapathon and hear their stories about how they learned about OSM and the community.
 
@@ -31,13 +28,7 @@ Meanwhile, Aaliyah shared their crowd-sourced project on mapping the Leni-Kiko 2
 ![Aliyah-mapatalks](/static/images/aliyah_osmph2022.jpg)
 
 _Fun fact: Aaliyah is Sir Maning’s eldest daughter! Mapping runs in the blood, right? ;)_
-
-<<<<<<< HEAD
 And finally, the most awaited part of the event, the mapathon! Aimon Pangan of AER provided a brief introduction about their project on COLLABDev, HOT Tasking Manager, and the iD editor. He also did a quick demo of digitizing buildings using the iD editor.
-=======
-And finally, the most awaited part of the event, the mapathon! Aimon Pangan of AER provided a brief introduction about their project on COLLABDev, HOT Tasking Manager, and the iD editor. He also did a quick demo of how to digitize buildings using the iD editor.
-
-> > > > > > > d006071339c1db6de21c41072343040f4f1c045e
 
 ![Aimon-mapatalks](/static/images/aimon_osmph2022.jpg)
 
