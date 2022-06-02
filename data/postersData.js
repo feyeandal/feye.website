@@ -1,5 +1,8 @@
 const postersData = [
   {
+    imgSrc: '/static/images/osmapathon2022.png',
+  },
+  {
     imgSrc: '/static/images/OSMPH Booster Grant_v2.png',
   },
   {
