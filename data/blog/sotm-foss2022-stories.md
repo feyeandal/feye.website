@@ -9,6 +9,8 @@ summary: 'I attended the annual State of the Map (SoTM) and Free and Open Source
 
 It has been almost a month since the annual [State of the Map (SoTM)](https://2022.stateofthemap.org/) and [Free and Open Source Software for Geospatial (FOSS4G) 2022](https://2022.foss4g.org) conferences, but the stories and experiences are still fresh in my memory. Both were the most awaited conferences in the open mapping and open software world and, undoubtedly, the best conferences I have attended.
 
+SoTM and FOSS4G conferences were hybrid – held in Florence, Italy, and online. SoTM2022 was held last Aug 19-21, 2022, while FOSS4G took place on Aug 22-28, 2022. On top of the conference sessions and workshops, different organizations hosted additional events, like the HOT unSummit, and the YouthMappers documentary premiere. GeoChicas also hosted their social night.
+
 ![firenze](/static/images/firenze.jpg)
 
 <center>_The beautiful sunset in Firenze, taken at Piazzale Michelangelo!_</center>
@@ -28,8 +30,6 @@ Before the two conferences, YouthMappers hosted a pre-conference workshop for th
 ![feye-cert](/static/images/ym_pre-workshop.jpg)
 
 <center>_Forever grateful to the YouthMappers Steering Committee for giving this opportunity with me and my fellow YouthMappers!_</center>
-
-Both SoTM and FOSS4G conferences were hybrid – held in Florence, Italy, and online. SoTM2022 was held last Aug 19-21, 2022, while FOSS4G took place on Aug 22-28, 2022. On top of the conference sessions and workshops, different organizations hosted additional events, like the HOT unSummit, and the YouthMappers documentary premiere. GeoChicas also hosted their social night.
 
 It was my second time attending SoTM and FOSS4G, but attending this year was pretty unique and much more memorable for me. My [first SoTM](https://www.openstreetmap.org/user/feyeandal/diary/390895) was in Heidelberg, Germany, last 2019, while my [first FOSS4G](https://www.openstreetmap.org/user/feyeandal/diary/42371) was in Boston, USA, in 2017. This time, I have grown a much deeper passion and appreciation for OpenStreetMap communities through my involvement in the local OSM-Philippines community and the YouthMappers network and developed more skills using FOSS4G technologies. Moreover, I have known more people from both communities because of the remote interaction and social media. It was pretty interesting for me when people greeted me with _“I always see you on Twitter!”_ and I did not know how to react -- _was I annoying on Twitter? 😅_. But, imagine the joy I felt from personally meeting the community members and local volunteers, and sharing the same experiences with them; it was unfathomable.
 
