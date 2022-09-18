@@ -1,5 +1,8 @@
 const postersData = [
   {
+    imgSrc: '/static/images/Feye_Firenze.png',
+  },
+  {
     imgSrc: '/static/images/UPRIYM2022.png',
   },
   {
