@@ -6,6 +6,12 @@ const projectsData = [
     href: 'https://pistangmapa.org/2022/',
   },
   {
+    title: "OSM-Philippines' Booster Grant Program",
+    description: `OSM Philippines Community was one of the recipients of the Booster Grants by the Open Mapping Hub - Asia Pacific last October 2021. This project is partnered with Smart CT and aims to boost the activities of the local OSM community in the Philippines. The total amount of the Booster Grant is $25,000.00 which will be divided into four (4) tranches.`,
+    imgSrc: '/static/images/osmph_booster.png',
+    href: 'https://wiki.openstreetmap.org/wiki/OSM_Philippines_Booster_Grants_2022',
+  },
+  {
     title: 'The Revamped NOAH Website',
     description: `The revamped NOAH website is a project of UP Resilience Institute - NOAH Center in partnership with Mapbox. It builds upon and improves NOAH's exsiting features using Mapbox technologies! It is geared to allow users to be more informed and better prepared to deal with hazards that may affect the areas they live and work in.`,
     imgSrc: '/static/images/revamped_noah.jpg',
