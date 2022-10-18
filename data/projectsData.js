@@ -1,5 +1,11 @@
 const projectsData = [
   {
+    title: 'Pista ng Mapa x State of the Map Asia 2022',
+    description: `Pista ng Mapa (Festival of Maps) is the pioneer and premier free (as to cost and as in freedom) and open conference in the Philippines made for and by people who have a passion for open mapping, open data, and open source. Meanwhile, State of the Map Asia is the regional OpenStreetMap conference for the continent of Asia, that brings together participants from around the world to discuss challenges, learn, and celebrate many years of mapping together.`,
+    imgSrc: '/static/images/pnmxsotma.png',
+    href: 'https://pistangmapa.org/2022/',
+  },
+  {
     title: 'The Revamped NOAH Website',
     description: `The revamped NOAH website is a project of UP Resilience Institute - NOAH Center in partnership with Mapbox. It builds upon and improves NOAH's exsiting features using Mapbox technologies! It is geared to allow users to be more informed and better prepared to deal with hazards that may affect the areas they live and work in.`,
     imgSrc: '/static/images/revamped_noah.jpg',
