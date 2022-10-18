@@ -1,5 +1,8 @@
 const postersData = [
   {
+    imgSrc: '/static/images/ym_communitytalks.png',
+  },
+  {
     imgSrc: '/static/images/Feye_Firenze.png',
   },
   {
