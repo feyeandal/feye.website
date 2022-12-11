@@ -30,6 +30,29 @@ export default function Home({ posts }) {
         <div className="container py-12">
           <div className="pb-6 space-y-2 md:space-y-5">
             <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-3xl md:leading-4">
+              Book Chapter
+            </h1>
+          </div>
+          <div className="w-5/6 sm:w-full p-6 md:pt-2 sm:pb-0">
+            <Link href={siteMetadata.book_chapter_ym}>
+              <h1 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8">
+                Understanding YouthMappers’ Contributions to Building Resilient Communities in Asia.{' '}
+                <i>
+                  {' '}
+                  In P. Solís, M. Zeballos (eds.), Open Mapping towards Sustainable Development
+                  Goals, Sustainable Development Goals Series (pp.85-92),
+                  https://doi.org/10.1007/978-3-031-05182-1_7
+                </i>
+              </h1>
+              <p className="prose italic text-gray-500 max-w-none dark:text-gray-400 mt-0">
+                (2022). Andal, D.F., Islam, M., Shaheen, A.R., Anderson, J.
+                <br />
+                <br />
+              </p>
+            </Link>
+          </div>
+          <div className="pb-6 space-y-2 md:space-y-5">
+            <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-3xl md:leading-4">
               Graduate Manuscript
             </h1>
           </div>
@@ -82,6 +105,18 @@ export default function Home({ posts }) {
             <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-3xl md:leading-8">
               Videos
             </h1>
+          </div>
+          <div className="w-5/6 sm:w-full p-6 md:pt-2 sm:pb-0">
+            <Link href={siteMetadata.pnmxsotma22}>
+              <h3 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8">
+                Pista ng Mapa x State of the Map Asia Conference 2022
+              </h3>
+              <p className="prose italic text-gray-500 max-w-none dark:text-gray-400 mt-0">
+                (2022). Pista ng Mapa x State of the Map Asia Conference 2022
+                <br />
+                <br />
+              </p>
+            </Link>
           </div>
           <div className="w-5/6 sm:w-full p-6 md:pt-2 sm:pb-0">
             <Link href={siteMetadata.video_youthmappers_behind_the_scenes}>

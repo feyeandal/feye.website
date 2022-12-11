@@ -24,6 +24,8 @@ const siteMetadata = {
   video_youthmappers_behind_the_scenes: 'https://www.youtube.com/watch?v=KpUYgUFz1gE',
   video_hot_data_quality_team: 'https://www.youtube.com/watch?v=VhMGxB3-b7o',
   linkedin: 'https://www.linkedin.com/in/feye-andal-29b38a76/',
+  book_chapter_ym: 'https://link.springer.com/book/10.1007/978-3-031-05182-1',
+  pnmxsotma22: 'https://www.youtube.com/watch?v=9WTnx_RQrBU&t=10s',
   manuscript: 'https://drive.google.com/file/d/1hSxsLdfAzAuh4LJKJZKJG5PiURkitsef/view?usp=sharing',
   conference_poster: 'https://2020.stateofthemap.org/posters/#hotph',
   publication_1:
