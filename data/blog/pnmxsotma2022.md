@@ -61,6 +61,6 @@ The bidding process will officially begin by late-January 2023 and the vetting p
 
 We are still yet to announce the bidding process at https://pistangmapa.org, so stay tuned!
 
-📺 _In case you missed Pista ng Mapa and State of the Map 2022, you may watch the highlights [here](https://www.youtube.com/watch?v=9WTnx_RQrBU)._
+📺 _In case you missed Pista ng Mapa and State of the Map Asia 2022, you may watch the highlights [here](https://www.youtube.com/watch?v=9WTnx_RQrBU)._
 
 📸 **Photo credits to [SBCreatives](https://www.facebook.com/SBPHCreatives) and the volunteers of the Geodetic Engineers of the Philippines Inc. Bicol University Student Chapter for the photos**
