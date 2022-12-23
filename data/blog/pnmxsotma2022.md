@@ -2,7 +2,7 @@
 title: 'Pista ng Mapa and State of the Map Asia 2022: It was all about chemistry and teamwork'
 date: '2022-12-23'
 tags: ['Personal', 'Community', 'Conference', 'OSM']
-images: ['/static/images/firenze.jpg']
+images: ['/static/images/pnmxsotma2022_main.jpg']
 draft: false
 summary: 'I co-organized the annual Pista ng Mapa and State of the Map Asia 2022 in Legazpi, Albay last 21-25, 2022.'
 ---
