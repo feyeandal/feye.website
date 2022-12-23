@@ -7,7 +7,7 @@ draft: false
 summary: 'I co-organized the annual Pista ng Mapa and State of the Map Asia 2022 in Legazpi, Albay last 21-25, 2022.'
 ---
 
-A month ago, [Pista ng Mapa](https://pistangmapa.org/) and [State of the Map Asia 2022](https://www.facebook.com/SotmAsia) was held in Legazpi City, Albay. It was the first time we organized a face-to-face conference since the pandemic. For the past two years, we have been conducting Pista ng Mapa online since it was impossible to arrange an in-person conference given the risks of the pandemic.
+A month ago, [Pista ng Mapa](https://pistangmapa.org/) (PnM) and [State of the Map Asia 2022](https://www.facebook.com/SotmAsia) (SotMA) was held in Legazpi City, Albay. It was the first time we organized a face-to-face conference since the pandemic. For the past two years, we have been conducting Pista ng Mapa online since it was impossible to arrange an in-person conference given the risks of the pandemic.
 
 ![PnM x SotMA 2022 Main Image](/static/images/pnmxsotma2022_main.jpg)
 
@@ -35,13 +35,13 @@ It's our first time working altogether, and it’s not easy to meet the needs of
 
 <center>_The core organizing team of Pista ng Mapa and State of the Map Asia 2022 recognized during the last day of PnM x SotMA 2022_</center>
 
-I am grateful to have worked with the most passionate and dedicated members of the open mapping community: [Leigh](https://twitter.com/leighmedy), [Ben](https://bnhr.xyz/), [RK](https://twitter.com/rukku), and [Mikko](https://twitter.com/mikkotamura). One of their best traits is creating an environment where everyone can thrive, have fun, and be creative. I remember Leigh saying, _“Alalay lang tayo sa isa’t isa”_ every morning at our briefing session, reminding us that we can overcome anything by having each other’s backs. Ben would also remind us to enjoy still and have fun at the conference, despite being busy as organizers. I commend Mikko for always sharing his creative and innovative ideas with us (_that usually come in clutch!_). _Fun fact: During the workshop day, the internet connection was slow at the main hall (BUCENG Gymnasium), so conducting a mapathon was nearly impossible. He pulled off a fantastic amazing race as an alternative activity to the mapathon. And this became the most memorable and exciting activity during PnM x SotMA. 🙌_
+I am grateful to have worked with the most passionate and dedicated members of the open mapping community: [Leigh](https://twitter.com/leighmedy), [Ben](https://bnhr.xyz/), [RK](https://twitter.com/rukku), and [Mikko](https://twitter.com/mikkotamura), who were also the lead organizers of PnM x SoTMA 2022. One of their best traits is creating an environment where everyone can thrive, have fun, and be creative. I remember Leigh saying, _“Alalay lang tayo sa isa’t isa”_ every morning at our briefing session, reminding us that we can overcome anything by having each other’s backs. Ben would also remind us to enjoy still and have fun at the conference, despite being busy as organizers. I commend Mikko for always sharing his creative and innovative ideas with us (_that usually come in clutch!_). _Fun fact: During the workshop day, the internet connection was slow at the main hall (BUCENG Gymnasium), so conducting a mapathon was nearly impossible. He pulled off a fantastic amazing race as an alternative activity to the mapathon. And this became the most memorable and exciting activity during PnM x SotMA. 🙌_
 
 ![PnM 2022 Amazing Race](/static/images/pnm2022-amazingrace.jpg)
 
 <center>_The participants being competitive yet having fun at the amazing race of PnM x SotMA 2022!_</center>
 
-Although the team faced complicated problems and challenges, the essentials set the tone for a successful conference and teamwork – trust, collaboration, commitment, appreciation, purpose, and creativity. We may have experienced hundreds of issues, from securing a university partner to losing a significant sponsor, yet we still handled them with grace. We kept our heads high, all thanks to the patience and passion of the local organizing team.
+Although the team faced complicated problems and challenges, the essentials set the tone for a successful conference – trust, collaboration, commitment, appreciation, purpose, and creativity. We may have experienced hundreds of issues, from securing a university partner to losing a significant sponsor, yet we still handled them with grace. We kept our heads high, all thanks to the patience and passion of the local organizing team.
 
 I also want to give utmost appreciation to the participants who celebrated Pista ng Mapa and State of the Map Asia with us. Without them, the conference would not have been as festive and successful as it was. It was fascinating to see the chemistry and camaraderie shared among the participants. 🫶
 
