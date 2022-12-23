@@ -21,7 +21,7 @@ I particularly braved to volunteer as the Programs Coordinator. I was glad that 
 
 **But what was the secret behind the success of Pista ng Mapa and State of the Map Asia 2022?**
 
-The success of Pista ng Mapa and State of the Map Asia 2022 came from each member of the local organizing team having a distinctive yet complementary role. Each of the volunteers has talent in their way, but it is the chemistry the team has that works best. Throughout the planning process and preparations, the core organizers of PnM x SoTMA and the local volunteers from Bicol University have been nothing but supportive, persevering, and hands-on.
+The success of Pista ng Mapa and State of the Map Asia 2022 came from each member of the local organizing team having a distinctive yet complementary role. Each of the volunteers has talent in their way, but it is the chemistry the team has that works best. Throughout the planning process and preparations, the core organizers of PnM x SoTMA and the local volunteers from [Geodetic Engineers of the Philippines Inc. Bicol University Student Chapter](https://www.facebook.com/gepbusc2022), a local [YouthMappers](https://www.youthmappers.org/) chapter, have been nothing but supportive, persevering, and hands-on.
 
 ![PnM x SotMA 2022 Organizing Team](/static/images/pnmsotma-organizers.jpg)
 
@@ -62,3 +62,5 @@ The bidding process will officially begin by late-January 2023 and the vetting p
 We are still yet to announce the bidding process at https://pistangmapa.org. So stay tuned!
 
 _In case you missed Pista ng Mapa and State of the Map 2022, you may watch the highlights [here](https://www.youtube.com/watch?v=9WTnx_RQrBU)._
+
+**Photo credits to [SBCreatives](https://www.facebook.com/SBPHCreatives) and the volunteers of the Geodetic Engineers of the Philippines Inc. Bicol University Student Chapter for the photos**
