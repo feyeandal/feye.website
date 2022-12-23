@@ -21,15 +21,15 @@ I particularly braved to volunteer as the Programs Coordinator. I was glad that 
 
 **The secret/s behind the success of Pista ng Mapa and State of the Map Asia 2022**
 
-The success of Pista ng Mapa and State of the Map Asia 2022 came from each member of the local organizing team having a distinctive yet complementary role. Each of the volunteers has talent in their way, but it is the chemistry the team has that works best. Throughout the planning process and preparations, the core organizers of PnM x SoTMA and the local volunteers from [Geodetic Engineers of the Philippines Inc. Bicol University Student Chapter](https://www.facebook.com/gepbusc2022), a local [YouthMappers](https://www.youthmappers.org/) chapter, have been nothing but supportive, persevering, and hands-on. 🙏
+The success of Pista ng Mapa and State of the Map Asia 2022 came from each member of the local organizing team having a distinctive yet complementary role. Each of the volunteers has talent in their way, but it is the chemistry the team has that works best. Throughout the planning process and preparations, the core organizers of PnM x SoTMA and the local volunteers from [Geodetic Engineers of the Philippines Inc. Bicol University Student Chapter](https://www.facebook.com/gepbusc2022), a Philippine [YouthMappers](https://www.youthmappers.org/) chapter, have been nothing but supportive, persevering, and hands-on. 🙏
 
 ![PnM x SotMA 2022 Organizing Team](/static/images/pnmsotma-organizers.jpg)
 
 <center>_The core and local organizing team of Pista ng Mapa and State of the Map Asia 2022_</center>
 
-But, like any other conferences that involve gathering a huge number of local and international delegates, the Pista ng Mapa and State of the Map Asia 2022 organizing team also went through hiccups and mishaps. As co-organizer, we recognized that going through hoops and holes was as important as celebrating the success of organizing the event.
+But, like any other conferences that involve gathering a huge number of local and international delegates, the organizing team also went through hiccups and mishaps. As co-organizer, we recognized that jumping through hoops was as important as celebrating the success of organizing the event.
 
-It’s not easy to meet the needs of a diverse group of people with sometimes opposing working styles, but providing options always helps. Compromise may be required among the team when preferences don’t match up. Given that, having great and strong leadership helps build rapport and cooperation among the group. I can confidently say that both the core and the local organizing team have vital leadership skills that contribute to the success of the conferences. I firmly believe that when leaders lead by example and demonstrate high standards, the members are likely to follow. After all, we have the shared mindset – **to give the participants the best Pista ng Mapa and State of the Map Asia 2022 experience.** ♥️
+It’s not easy to meet the needs of a diverse group of people with sometimes opposing working styles, but providing options always helps. Compromise may be required among the team when preferences don’t match up. Given that, having great and strong leadership helps build rapport and cooperation among the group. I can confidently say that both the core and the local organizing team have vital leadership skills that contribute to the success of organizing the conferences. I firmly believe that when leaders lead by example and demonstrate high standards, the members are likely to follow. After all, we have the shared mindset – **to give the participants the best Pista ng Mapa and State of the Map Asia 2022 experience.** ♥️
 
 ![PnM x SotMA 2022 Core Organizing Team](/static/images/pnmxsotma2022-leads.jpg)
 
@@ -51,15 +51,15 @@ I also want to give utmost appreciation to the participants who celebrated Pista
 
 **What’s next for Pista ng Mapa?**
 
-During the second day of Pista ng Mapa, the core organizers of Pista ng Mapa 2022 hosted a self-organized session about Pista ng Mapa 2023. We shared our plans on seeking hosts for the next Pista through a bidding process, similar to the international [State of the Map](https://wiki.openstreetmap.org/wiki/State_of_the_Map_2023/Call_for_venues).
+During the second day of Pista ng Mapa, the core organizers of Pista ng Mapa 2022 hosted a self-organized session about Pista ng Mapa 2023. We shared our plans on seeking hosts for the next Pista ng Mapa through a bidding process, similar to the international [State of the Map](https://wiki.openstreetmap.org/wiki/State_of_the_Map_2023/Call_for_venues).
 
 ![Local YouthMappers chapters attending Pista ng Mapa 2023 Introductions](/static/images/pnm2023-bidding.jpg)
 
 <center>_Local YouthMappers chapters attending Pista ng Mapa 2023 Introductions_</center>
 
-The bidding process will officially begin by late-January 2023 and the vetting process by the core organizing team will be held in the first quarter of 2023. The selected host will have at least five months to prepare for the next Pista ng Mapa. Several local YouthMappers chapters have already expressed their interest in hosting Pista ng Mapa 2023. _But who will succeed? 🤔_
+The bidding process will officially begin by late-January 2023 and the vetting process will be held in the first quarter of 2023. The selected host will have at least five months to prepare for the next Pista ng Mapa. Several local YouthMappers chapters have already expressed their interest in hosting Pista ng Mapa 2023. _But who will succeed? 🤔_
 
-We are still yet to announce the bidding process at https://pistangmapa.org. So stay tuned!
+We are still yet to announce the bidding process at https://pistangmapa.org, so stay tuned!
 
 📺 _In case you missed Pista ng Mapa and State of the Map 2022, you may watch the highlights [here](https://www.youtube.com/watch?v=9WTnx_RQrBU)._
 
