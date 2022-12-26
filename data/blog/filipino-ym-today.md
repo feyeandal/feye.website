@@ -2,7 +2,7 @@
 title: 'Filipino YouthMappers: The leaders of TODAY in the local OSM community'
 date: '2022-12-26'
 tags: ['OSM', 'YouthMappers', 'community']
-images: ['/static/images/12-chap-PHYM.jpg']
+images: ['/static/images/12-chap-PHYM-header.jpg']
 draft: false
 summary: 'I am highlighting the significant contributions of the local chapters of YouthMappers in the OSM community in 2022 and a short reflection about the impacts of YouthMappers in a local context.'
 ---
