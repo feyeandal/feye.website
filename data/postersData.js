@@ -1,5 +1,11 @@
 const postersData = [
   {
+    imgSrc: '/static/images/osmf2.jpg',
+  },
+  {
+    imgSrc: '/static/images/osmf1.jpg',
+  },
+  {
     imgSrc: '/static/images/ym_communitytalks.png',
   },
   {
