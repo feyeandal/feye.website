@@ -64,4 +64,20 @@ I have observed and learned the following throughout my involvement:
 
   Open geospatial data is vital during disaster response. However, it is essential to note that **quality** geospatial data is more important. During these massive disaster activations, there is a need for immense contributions from the OSM community. But still, we have to recognize **there is an unequal ratio of beginner, intermediate, and advanced OSM mappers.** We do not want to exhaust our validators, **so we need to make efforts to build our beginner mappers' skills so that they can also help validate OSM data.**
 
-_If you want to contribute to our mapping efforts, you can start by checking these resources:_ - [How is the data being used via Pete Masters](https://www.openstreetmap.org/user/pedrito1414/diary/400944) - [Join a mapathon - in person and online](https://osmcal.org/) - [Daily livestream of Yer Cizenler](https://www.youtube.com/playlist?list=PLABZHYqgKg3i5pDE_vCpQkRolqxTCCNyc) - [OSM wiki page with full details](https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes#Mapping_Tips_and_Advice_for_this_Activation) - [Beginner & Experienced Users Guide for using RapiD editor](https://docs.google.com/document/d/1CBiMJWQZ2b6_9mnVBxA4VNPDhTVrqDKCC7VSAVzHV1w/edit)
+**Here's some quick statistics about the mapping efforts from the OSM community:**
+
+![quick-stats-turkey](/static/images/quick-stats-turkey.jpg)
+
+<center>_Check it out at: [resultsmaps-neis-one.org](https://resultmaps.neis-one.org/osm-changesets?comment=T%C3%BCrkiyeEQ060223#8/36.642/38.458)_</center>
+
+_If you want to contribute to our mapping efforts, you can start by checking these resources:_
+
+- [How is the data being used via Pete Masters](https://www.openstreetmap.org/user/pedrito1414/diary/400944)
+
+- [Join a mapathon - in person and online](https://osmcal.org/)
+
+- [Daily livestream of Yer Cizenler](https://www.youtube.com/playlist?list=PLABZHYqgKg3i5pDE_vCpQkRolqxTCCNyc)
+
+- [OSM wiki page with full details](https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes#Mapping_Tips_and_Advice_for_this_Activation)
+
+- [Beginner & Experienced Users Guide for using RapiD editor](https://docs.google.com/document/d/1CBiMJWQZ2b6_9mnVBxA4VNPDhTVrqDKCC7VSAVzHV1w/edit)
