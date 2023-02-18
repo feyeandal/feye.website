@@ -4,7 +4,7 @@ date: '2023-02-18'
 tags: ['OSM', 'YouthMappers', 'community', 'disasters']
 images: ['/static/images/phfortrsy.jpg']
 draft: false
-summary: 'On February 18, 2023, I organized an online get-together for all local chapters of YouthMappers in the Philippines. The Filipino YouthMappers community has grown over the years, so gathering them together helps nurture our community and creates a sense of belonging in the network.'
+summary: 'On February 18, 2023, I organized an online get-together for all local chapters of YouthMappers in the Philippines. The Filipino YouthMappers community has grown over the years, so gathering them together helps nurture our community and creates a sense of belonging in the network. Also, part of this event is to collectively create a social impact to the communities in Turkey and Syria affected by the massive earthquake last February 6, 2023.'
 ---
 
 On February 18, 2023, I organized an online get-together for all local chapters of YouthMappers in the Philippines. The Filipino YouthMappers community has grown over the years, so gathering them together helps nurture our community and creates a sense of belonging in the network.
