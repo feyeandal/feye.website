@@ -1,5 +1,9 @@
 const mapsData = [
   {
+    imgSrc: '/static/images/up-jeepneys.gif',
+    title: 'UP Diliman Jeepney Routes',
+  },
+  {
     imgSrc: '/static/images/Pampanga_animated_v2.gif',
     title: "Pampanga's OSM Building Footprints and Road Network",
   },
