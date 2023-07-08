@@ -2,7 +2,7 @@
 title: 'FOSS4G in Kosovo: Breaking Barriers, Connecting Communities, and Overcoming Hurdles'
 date: '2023-07-08'
 tags: ['FOSS4G', 'Community', 'Women']
-images: ['/static/images/iwd_2022.png']
+images: ['/static/images/foss4g-loc-volunteers.jpg']
 draft: false
 summary: 'As an enthusiastic traveler and dedicated community volunteer, I recently had the opportunity to attend the annual FOSS4G conference held in the beautiful city of Prizren in Kosovo.'
 ---
