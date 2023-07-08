@@ -49,7 +49,7 @@ Located in the heart of Kosovo, the small city of Prizren served as a perfect se
 
 <center>_The pictureque city of Prizren, taken from the fortress_</center>
 
-One of the conference's highlights was the opportunity to explore Prizren’s history and cultural diversity: I joined the Adven-Tour! These added an extra layer of fascination to the event, giving attendees a chance to immerse themselves in the local culture and truly experience the mountains of Prizren. Due to unfavorable weather conditions, we were unable to partake in the exhilarating zipline experience (_I was particularly looking forward to that despite my fear of heights!_). However, even with this unexpected setback, it was an unforgettable experience. _As they say, what happens in Kosovo, stays in Kosovo ;)_
+One of the conference's highlights was the opportunity to learn Prizren’s history and explore its landscapes: I joined the Adven-Tour! These added an extra layer of fascination to the event, giving attendees a chance to immerse themselves in the local culture and truly experience the mountains of Prizren. Due to unfavorable weather conditions, we were unable to partake in the exhilarating zipline experience (_I was particularly looking forward to that despite my fear of heights!_). However, even with this unexpected setback, it was an unforgettable experience. _As they say, what happens in Kosovo, stays in Kosovo ;)_
 
 ![postfoss4g-1](/static/images/prizren_adventour.jpg)
 
