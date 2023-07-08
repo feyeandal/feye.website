@@ -4,7 +4,7 @@ date: '2023-07-08'
 tags: ['FOSS4G', 'Community', 'Women']
 images: ['/static/images/foss4g-loc-volunteers.jpg']
 draft: false
-summary: 'As an enthusiastic traveler and dedicated community volunteer, I recently had the opportunity to attend the annual FOSS4G conference held in the beautiful city of Prizren in Kosovo.'
+summary: 'As a dedicated community volunteer, I recently had the opportunity to attend the annual FOSS4G conference held in the beautiful city of Prizren in Kosovo.'
 ---
 
 As a dedicated community volunteer, I recently had the opportunity to attend the FOSS4G conference in the beautiful city of Prizren in Kosovo. With the backing of a travel, volunteer, and top-up grant from the organizers and sponsors from FOSS4G and the team of HOT Tech and Innovation, my journey was inspiring and beneficial, allowing me to make a difference at this international conference.
@@ -13,11 +13,11 @@ In this blog post, I intend to share my experiences in Kosovo and emphasize its 
 
 **Gratitude for Travel, Volunteer, and Top-Up Grant**
 
-I am immensely grateful for the travel, volunteer, and top-up grant that allowed me to attend this year’s international FOSS4G. Without this support, I wouldn't have been able to make it to participate and volunteer this year. Moreover, through them, I was able to explore the natural landscapes and rich cultural history of this remarkable country. The opportunity to participate in FOSS4G as a volunteer also was a dream come true, and I cherished every moment of my involvement in making the conference a huge success.
+I am immensely grateful for the travel, volunteer, and top-up grant that allowed me to attend this year’s international FOSS4G. Without this support, I wouldn't have been able to participate and volunteer this year. Moreover, I was able to explore the natural landscapes and experience the rich cultural history of this remarkable country. The opportunity to participate in FOSS4G as a volunteer also was a dream come true, and I cherished every moment of my involvement in making the conference a huge success.
 
 **Volunteering in FOSS4G**
 
-As a first time volunteer at FOSS4G, I want to commend the exceptional professionalism of the local organizing team (_Besfurt and Gresa, you are the best!_). Their dedication and efficiency in handling on-the-spot issues were commendable. Their strong communication skills (_shout out to the Social Media Team for the best updates and videos all over social media!_) and technical expertise was evident throughout the event (_Sidorela and Danijel, you are the MVP! The EngelSystem was innovative and impressive too!_), inspiring me to bring these qualities back to my own local community. Witnessing their seamless coordination and problem-solving abilities reaffirmed the importance of effective teamwork and communication in organizing successful conferences. I am grateful for the opportunity to learn from their example and to apply these valuable learnings in my own experiences.
+As a first time volunteer at FOSS4G, I want to commend the exceptional professionalism of the local organizing team (_Besfort and Gresa, you are the best!_). Their dedication and efficiency in handling on-the-spot issues were commendable. Their strong communication skills (_shout out to the Social Media Team for the best updates and videos all over social media!_) and technical expertise was evident throughout the event (_Sidorela and Danijel, you are the MVP! The EngelSystem was innovative and impressive too!_), inspiring me to bring these qualities back to my own local community. Witnessing their seamless coordination and problem-solving abilities reaffirmed the importance of effective teamwork and communication in organizing successful conferences. I am grateful for the opportunity to learn from their example and to apply these valuable learnings in my own experiences.
 
 ![foss4g_locs_volunteers](/static/images/foss4g-loc-volunteers.jpg)
 
