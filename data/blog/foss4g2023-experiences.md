@@ -7,7 +7,7 @@ draft: false
 summary: 'As a dedicated community volunteer, I recently had the opportunity to attend the annual FOSS4G conference held in the beautiful city of Prizren in Kosovo.'
 ---
 
-As a dedicated community volunteer, I recently had the opportunity to attend the FOSS4G conference in the beautiful city of Prizren in Kosovo. With the backing of a travel, volunteer, and top-up grant from the organizers and sponsors from FOSS4G and the team of HOT Tech and Innovation, my journey was inspiring and beneficial, allowing me to make a difference at this international conference.
+As a dedicated community volunteer from OSM-Philippines, and a Regional Ambassador of YouthMappers, I recently had the opportunity to attend the FOSS4G conference in the beautiful city of Prizren in Kosovo. With the backing of a travel, volunteer, and top-up grant from the organizers and sponsors from FOSS4G and the team of HOT Tech and Innovation, my journey was inspiring and beneficial, allowing me to make a difference at this international conference.
 
 In this blog post, I intend to share my experiences in Kosovo and emphasize its vibrant atmosphere, my experiences as a workshop leader, the strong sense of the FOSS4G community, and the difficulties I faced during my journey.
 
@@ -30,7 +30,10 @@ As a first time volunteer at FOSS4G, I want to commend the exceptional professio
 **Breaking Barriers as a Workshop Leader**
 
 As a woman in the field of FOSS4G, I initially had doubts about whether it would be the right space for me. However, I was determined to challenge this perception and prove myself. I am happy to say that my efforts paid off, as I had the incredible opportunity to lead not just one but two workshops during the conference.
-One of these workshops was a collaboration with Meta, a renowned company that actively supports the OpenStreetMap community. It was truly an honor to work together with them and contribute to the FOSS4G community through co-leading this workshop. Meanwhile, the other one was about data collection using KoboToolbox. Sharing my knowledge and expertise with fellow participants was a moment of pride for me and a clear demonstration of the inclusive nature of the FOSS4G community.
+
+One of these workshops was a collaboration with Meta, a renowned company that actively supports the OpenStreetMap community. It was truly an honor to work together with them and contribute to the FOSS4G community through co-leading this workshop. Meanwhile, the other one was using KoboToolbox, a powerful open-source data collection tool.
+
+These workshops align with the offerings of the [UP Resilience Institute](https://resilience.up.edu.ph/) and the [UP Resilience Institute YouthMappers](https://www.facebook.com/UPRIYouthMappers/). Leveraging our experience from the [OpenStreetMap](https://openstreetmap.org) (OSM) community and [YouthMappers](https://youthmappers.org), we bring valuable insights and expertise to empower individuals and organizations in building resilience.
 
 ![feye_leads_foss4gworkshops](/static/images/feye-workshop-foss4g.jpg)
 
