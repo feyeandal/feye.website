@@ -48,7 +48,7 @@ To guide you, copy the code block from each category and paste it into the query
 Before running specific queries, we need to load partitions for the tables. In the Athena query editor, run the following command:
 
 ```
-MSCK REPAIR TABLE `buildings`
+MSCK REPAIR TABLE `places`
 ```
 
 ![athena_load_partitions1](/static/images/athena_load_partitions1.png)
