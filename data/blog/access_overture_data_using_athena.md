@@ -63,10 +63,10 @@ This is where the fun begins! You can now run queries on your tables. For exampl
 
 ```
 SELECT
-        *,  ST_GeomFromBinary(geometry)
-    FROM
-        places
-    WHERE
+    *,  ST_GeomFromBinary(geometry)
+FROM
+    places
+WHERE
         bbox.minX >  114.1036921
     AND bbox.maxX <  126.803083
     AND bbox.minY >  4.3833333
