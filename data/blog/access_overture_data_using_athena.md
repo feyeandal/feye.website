@@ -1,10 +1,10 @@
 ---
 title: "Accessing Overture Maps' Global Dataset using Athena (AWS)"
 date: '2023-07-27'
-tags: ['Overture']
-images: ['/static/images/phfortrsy.jpg']
+tags: ['Overture', 'Data']
+images: ['/static/images/athena_sample_ph.jpg']
 draft: false
-summary: 'On February 18, 2023, I organized an online get-together for all local chapters of YouthMappers in the Philippines. The Filipino YouthMappers community has grown over the years, so gathering them together helps nurture our community and creates a sense of belonging in the network. Also, part of this event is to collectively create a social impact to the communities in Turkey and Syria affected by the massive earthquake last February 6, 2023.'
+summary: 'Hey there, fellow data enthusiasts! If you are eager to explore and utilize recently released data from Overture Maps but feel a bit overwhelmed by the process, this blog post will walk you through the steps to access and work with this exciting dataset.'
 ---
 
 Hey there, fellow data enthusiasts! 👋 If you're eager to explore and utilize recently released data from Overture Maps but feel a bit overwhelmed by the process, don't worry! We're the same! 😅
@@ -94,3 +94,5 @@ Sample results imported to QGIS:
 **So yay! You've _“easily”_ accessed recently released data from Overture on AWS and navigated through the cloud database. _Remember, data exploration should be an exciting journey, not a daunting one._**
 
 Feel free to experiment, analyze, and gain insights from the rich dataset you now have at your fingertips. Happy exploring!
+
+_In case anyone else is interested in exploring the same data, I'm sharing my Google Drive link [here](https://drive.google.com/drive/folders/11iFT4dM-CRtzhJOlrEq9WyFMGtEj1eSH?usp=sharing). Check it out if you need the datasets for your own projects. I hope this additional resource comes in handy for you!_
