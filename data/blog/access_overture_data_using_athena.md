@@ -2,7 +2,7 @@
 title: "Accessing Overture Maps' Global Dataset using Athena (AWS)"
 date: '2023-07-27'
 tags: ['Overture', 'Data']
-images: ['/static/images/athena_sample_ph.jpg']
+images: ['/static/images/athena_setuptable.jpg']
 draft: false
 summary: 'Hey there, fellow data enthusiasts! If you are eager to explore and utilize recently released data from Overture Maps but feel a bit overwhelmed by the process, this blog post will walk you through the steps to access and work with this exciting dataset.'
 ---
