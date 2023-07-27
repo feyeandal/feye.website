@@ -87,6 +87,10 @@ Once you've obtained the desired data from your query results, you can download 
 
 Now that you have the data, you can open it using any GIS software. Various user-friendly GIS tools, both free and paid, will enable you to visualize and analyze the data.
 
+Sample results imported to QGIS:
+
+![athena_sample_ph](/static/images/athena_sample_ph.png)
+
 **So yay! You've _“easily”_ accessed recently released data from Overture on AWS and navigated through the cloud database. _Remember, data exploration should be an exciting journey, not a daunting one._**
 
 Feel free to experiment, analyze, and gain insights from the rich dataset you now have at your fingertips. Happy exploring!
