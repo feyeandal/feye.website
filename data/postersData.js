@@ -1,5 +1,8 @@
 const postersData = [
   {
+    imgSrc: '/static/images/graduates_upriym2023.jpg',
+  },
+  {
     imgSrc: '/static/images/osmph-vol1.png',
   },
   {

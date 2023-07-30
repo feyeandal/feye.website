@@ -107,6 +107,18 @@ export default function Home({ posts }) {
             </h1>
           </div>
           <div className="w-5/6 sm:w-full p-6 md:pt-2 sm:pb-0">
+            <Link href={siteMetadata.eotec_devnet}>
+              <h3 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8">
+                Spotlight: YouthMappers Asia Oceania ft. Feye Andal
+              </h3>
+              <p className="prose italic text-gray-500 max-w-none dark:text-gray-400 mt-0">
+                (2023). EOTEC DevNet Community of Practice
+                <br />
+                <br />
+              </p>
+            </Link>
+          </div>
+          <div className="w-5/6 sm:w-full p-6 md:pt-2 sm:pb-0">
             <Link href={siteMetadata.pnmxsotma22}>
               <h3 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8">
                 Pista ng Mapa x State of the Map Asia Conference 2022
