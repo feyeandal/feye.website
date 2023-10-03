@@ -2,7 +2,7 @@
 title: 'Elevating Skills in Asia: Introducing the YouthMappers UpSkilling Series'
 date: '2023-09-29'
 tags: ['YouthMappers', 'UpSkilling', 'Asia', 'Collaboration']
-images: ['/static/images/athena_setuptable.jpg']
+images: ['/static/images/YM_UpSkillingSeries.jpg']
 draft: false
 summary: 'In case you missed the memo, I’m thrilled to introduce a game-changer as part of my role as a Regional Ambassador for Technical Support – the YouthMappers Asia UpSkilling Series!'
 ---
