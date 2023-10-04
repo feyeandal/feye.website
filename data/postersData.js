@@ -1,5 +1,11 @@
 const postersData = [
   {
+    imgSrc: '/static/images/UpSkillingSeries_UPRIYM.jpg',
+  },
+  {
+    imgSrc: '/static/images/YM_UpSkillingSeries.jpg',
+  },
+  {
     imgSrc: '/static/images/graduates_upriym2023.jpg',
   },
   {
