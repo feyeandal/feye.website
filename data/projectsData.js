@@ -1,5 +1,11 @@
 const projectsData = [
   {
+    title: 'YouthMappers Asia UpSkilling Series',
+    description: `Over the years, our mission has been bringing universities/student organizations into the YouthMappers network, igniting their passion for open mapping, and supercharging their community impact. But this year, we're cranking it up a notch! We are now focusing our efforts in elevating their technical skills, especially in the field of open mapping.`,
+    imgSrc: '/static/images/project_upskilling.jpg',
+    href: 'https://feyeandal.me/blog/youthmappers-asia-upskilling-series',
+  },
+  {
     title: 'Pista ng Mapa x State of the Map Asia 2022',
     description: `Pista ng Mapa (Festival of Maps) is the pioneer and premier free (as to cost and as in freedom) and open conference in the Philippines made for and by people who have a passion for open mapping, open data, and open source. Meanwhile, State of the Map Asia is the regional OpenStreetMap conference for the continent of Asia, that brings together participants from around the world to discuss challenges, learn, and celebrate many years of mapping together.`,
     imgSrc: '/static/images/pnmxsotma.png',
