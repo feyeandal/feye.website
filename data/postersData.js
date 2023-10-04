@@ -6,6 +6,9 @@ const postersData = [
     imgSrc: '/static/images/YM_UpSkillingSeries.jpg',
   },
   {
+    imgSrc: '/static/images/UPRIYM_Morocco.jpg',
+  },
+  {
     imgSrc: '/static/images/graduates_upriym2023.jpg',
   },
   {
