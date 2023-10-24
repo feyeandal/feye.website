@@ -53,7 +53,7 @@ My enthusiasm was met with a few roadblocks, mainly stemming from Insta360's lac
 
 ### 1. Beta Uploader Quirks
 
-I began testing my Insta360 camera at my university, UP Diliman, in preparation for my trip to Leyte for the UpSkilling Series. I decided to mount the device in my bag and walked around the campus while capturing images. However, when I tried to upload the MP4 and GPS tracks from Insta360 Studio using the beta uploader, I faced an error. Fortunately, this frustration dissipated when I reached out to [Said](https://twitter.com/asturksever) from Mapillary/Meta, who provided a version of the uploader that worked seamlessly with my data.
+I began testing my Insta360 camera at my university, UP Diliman, in preparation for my trip to Leyte for the UpSkilling Series. I decided to mount the device in my bag and walked around the campus while capturing images. However, when I tried to upload the MP4 and GPS tracks from Insta360 Studio using the beta uploader, I faced an error. Thankfully, my frustration was alleviated when I contacted [Said](https://twitter.com/asturksever) from Mapillary/Meta. He uploaded the data effortlessly using a Beta uploader version that was perfectly compatible with my dataset.
 
 **In the context of the beta uploader, it offers support for Insta360 timelapse videos. This means it allows you to upload and synchronize both GPX and MP4 files through Mapillary.**
 
@@ -77,7 +77,7 @@ I initially planned to kick off my side-trip capture from Tacloban to Ormoc, cov
 
 As we traveled from Ormoc to Sogod in Southern Leyte for my third leg of UpSkilling Series in SLSU, I kept testing my camera. It was securely mounted on the car's roof, and the battery lasted for two hours. However, I was disappointed to see that the GPS data still had an offset issue, despite my efforts. It didn't provide the precision I had hoped for.
 
-I also took advantage of the rainy weather during the drive to check the camera's water resistance. Glad that it was still safe, despite the weather conditions.
+I also took advantage of the rainy weather during the drive to check the camera's water resistance. Glad that it was still safe, despite the weather conditions.git p
 
 <center>![sogod_mapillary_test](/static/images/ormoc_sogod_test.png)</center>
 
