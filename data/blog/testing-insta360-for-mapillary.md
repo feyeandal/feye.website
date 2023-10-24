@@ -63,6 +63,8 @@ Another test took me inside a moving vehicle. Since my triple suction car mount 
 
 <center>_Recorded GPS tracks in a moving vehicle (UP Diliman)_</center>
 
+<center>_Was I pondering whether the trees were the cause of the GPX inconsistency?_</center>
+
 ### 3. Lighting and Unforeseen Delays
 
 I initially planned to kick off my side-trip capture from Tacloban to Ormoc, covering the northern loop and the western side of Leyte. However, my plans took an unexpected turn when unforeseen circumstances delayed my travel. Moreover, the lighting conditions at the time were far from ideal for capturing high-quality Mapillary imagery. Given these challenges, I made the pragmatic decision to postpone this segment, reserving it for future testing when conditions would be more favorable for successful Mapillary contributions.
@@ -75,13 +77,13 @@ I also took advantage of the rainy weather during the drive to check the camera'
 
 ![sogod_mapillary_test](/static/images/ormoc_sogod_test.png)
 
-<center>_Recorded GPS tracks in a moving vehicle (Ormoc to Sogod)_</center>
+<center>_Recorded GPS tracks in a moving vehicle (Ormoc to Sogod). At this point, I was confident that there were no major obstructions, such as trees, affecting the reliability of the GPX track._</center>
 
 Also, during my training at the universities, I allowed students to use the Insta360 for GPS tracking and Mapillary image capture. Surprisingly, the offset problem persisted, reinforcing the need for a solution to this recurring issue.
 
 ![slsu_mapillary_test](/static/images/sogod_test.png)
 
-<center>_Recorded GPS tracks while walking (SLSU)_</center>
+<center>_Recorded GPS tracks while walking (SLSU). Again, no obstructions, but still unreliable GPX._</center>
 
 ### 5. The OsmAnd GPS Solution
 
