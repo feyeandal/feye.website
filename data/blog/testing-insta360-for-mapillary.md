@@ -51,7 +51,7 @@ My enthusiasm was met with a few roadblocks, mainly stemming from Insta360's lac
 
 ### 1. Beta Uploader Quirks
 
-I began testing my Insta360 camera at my university, UP Diliman, in preparation for my trip to Leyte for the UpSkilling Series. I decided to mount the device in my bag and walked around the campus while capturing images. However, when I tried to upload the MP4 and GPS tracks from Insta360 Studio using the beta uploader, I faced an error that left me feeling frustrated. Fortunately, this frustration dissipated when I reached out to Said from Mapillary, who provided a version of the uploader that worked seamlessly with my data.
+I began testing my Insta360 camera at my university, UP Diliman, in preparation for my trip to Leyte for the UpSkilling Series. I decided to mount the device in my bag and walked around the campus while capturing images. However, when I tried to upload the MP4 and GPS tracks from Insta360 Studio using the beta uploader, I faced an error. Fortunately, this frustration dissipated when I reached out to [Said](https://twitter.com/asturksever) from Mapillary/Meta, who provided a version of the uploader that worked seamlessly with my data.
 
 **In the context of the beta uploader, it offers support for Insta360 timelapse videos. This means it allows you to upload and synchronize both GPX and MP4 files through Mapillary.**
 
@@ -97,7 +97,7 @@ On our trip from Sogod to Baybay, I decided to use my Android smartphone and the
 
 <center>![sogod_mapillary_issue](/static/images/sogod_mapillary_issue.png)</center>
 
-<center>_Uploaded images with GPX on Mapillary_</center>
+<center>_Uploaded images with GPX on Mapillary. However, you might have observed that the captures appeared shorter in duration compared to the original GPX track. This leads me to suspect a significant issue with image synchronization._</center>
 
 ### 7. Scripting for GPX Extraction
 
@@ -110,3 +110,5 @@ Upon returning to Manila, I began writing a [script](https://github.com/feyeanda
 ## The Path Forward
 
 My journey with Insta360 for Mapillary mapping has been a rollercoaster of challenges and discoveries. While the road ahead seems daunting, I'm determined to continue my testing and exploration. By documenting my experiences, I hope to contribute to future improvements and inspire others to join this important mission to enhance Mapillary coverage in the Philippines.
+
+Furthermore, I'll be exploring the option of Python scripting the synchronization of MP4 and GPX files before uploading them to Mapillary. This approach will provide a workaround while I await Mapillary's full support for Insta360, ensuring our contributions continue to bridge the data gap effectively.
