@@ -75,7 +75,7 @@ I initially planned to kick off my side-trip capture from Tacloban to Ormoc, cov
 
 ### 4. Offset GPX Tracks Persist
 
-As we traveled from Ormoc to Sogod in Southern Leyte, I kept testing my camera. It was securely mounted on the car's roof, and the battery lasted for two hours. However, I was disappointed to see that the GPS data still had an offset issue, despite my efforts. It didn't provide the precision I had hoped for.
+As we traveled from Ormoc to Sogod in Southern Leyte for my third leg of UpSkilling Series in SLSU, I kept testing my camera. It was securely mounted on the car's roof, and the battery lasted for two hours. However, I was disappointed to see that the GPS data still had an offset issue, despite my efforts. It didn't provide the precision I had hoped for.
 
 I also took advantage of the rainy weather during the drive to check the camera's water resistance. Glad that it was still safe, despite the weather conditions.
 
@@ -91,7 +91,7 @@ Also, during my training at the universities, I allowed students to use the Inst
 
 ### 5. The OsmAnd GPS Solution
 
-On our trip from Sogod to Baybay, I decided to use my Android smartphone and the OsmAnd app to record GPS data. The app recorded the GPS tracks perfectly. And to my relief, when I uploaded the MP4 from Insta360 Studio and GPX from OsmAnd, it worked seamlessly using a new beta uploader (v4.1.4) provided by Said. However, an unexpected hurdle emerged – [image synchronization issues](https://www.mapillary.com/app/user/feyeandal?lat=10.397690691649231&lng=124.98637014183669&z=14.329109363297835&pKey=1527237244684235) that required further investigation.
+On our trip from Sogod to Baybay for the fourth and final leg of my UpSkilling Series, I decided to use my Android smartphone and the OsmAnd app to record GPS data. The app recorded the GPS tracks perfectly. And to my relief, when I uploaded the MP4 from Insta360 Studio and GPX from OsmAnd, it worked seamlessly using a new beta uploader (v4.1.4) provided by Said. However, an unexpected hurdle emerged – [image synchronization issues](https://www.mapillary.com/app/user/feyeandal?lat=10.397690691649231&lng=124.98637014183669&z=14.329109363297835&pKey=1527237244684235) that required further investigation.
 
 <center>![sogod-baybay-osmand](/static/images/sogod_to_baybay_osmand.png)</center>
 
