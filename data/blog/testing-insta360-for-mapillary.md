@@ -19,7 +19,7 @@ This blog post documents my recent journey using the Insta360 camera for Mapilla
 
 Prior to my trip, I meticulously planned my itinerary, ensuring that it covered areas with gaps in Mapillary's coverage. With my camera mounted in a car, I set off to capture the necessary data. My ultimate destination was the universities where I would be conducting training sessions. While the Leyte capture was a side-trip, it turned out to be incredibly useful in advancing my mission to improve Mapillary's representation of the Philippines.
 
-![leyte_itinerary](/static/images/leyte_route.png)
+![leyte_itinerary](/static/images/leyte-route.png)
 
 <center>_Planned itinerary in Leyte using [OSRM](http://map.project-osrm.org/?z=10&center=10.759786,124.944763&loc=11.248971,125.006529&loc=11.306361,124.670105&loc=11.005294,124.609075&loc=10.265418,125.176917&loc=10.745887,124.794771&loc=11.243621,125.007954&hl=en&alt=0&srv=0)_</center>
 
@@ -77,7 +77,7 @@ I initially planned to kick off my side-trip capture from Tacloban to Ormoc, cov
 
 As we traveled from Ormoc to Sogod in Southern Leyte for my third leg of UpSkilling Series in SLSU, I kept testing my camera. It was securely mounted on the car's roof, and the battery lasted for two hours. However, I was disappointed to see that the GPS data still had an offset issue, despite my efforts. It didn't provide the precision I had hoped for.
 
-I also took advantage of the rainy weather during the drive to check the camera's water resistance. Glad that it was still safe, despite the weather conditions.git p
+I also took advantage of the rainy weather during the drive to check the camera's water resistance. Glad that it was still safe, despite the weather conditions.
 
 <center>![sogod_mapillary_test](/static/images/ormoc_sogod_test.png)</center>
 
