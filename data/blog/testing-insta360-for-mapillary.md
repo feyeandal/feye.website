@@ -53,6 +53,8 @@ My enthusiasm was met with a few roadblocks, mainly stemming from Insta360's lac
 
 I began testing my Insta360 camera at my university, UP Diliman, in preparation for my trip to Leyte for the UpSkilling Series. I decided to mount the device in my bag and walked around the campus while capturing images. However, when I tried to upload the MP4 and GPS tracks from Insta360 Studio using the beta uploader, I faced an error that left me feeling frustrated. Fortunately, this frustration dissipated when I reached out to Said from Mapillary, who provided a version of the uploader that worked seamlessly with my data.
 
+**In the context of the beta uploader, it offers support for Insta360 timelapse videos. This means it allows you to upload and synchronize both GPX and MP4 files through Mapillary.**
+
 <center>![up_mapillary_failed](/static/images/up_mapillary_failed.png)</center>
 
 <center>_First attempt of uploading via the Beta Uploader_</center>
