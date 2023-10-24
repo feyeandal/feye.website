@@ -7,9 +7,11 @@ draft: false
 summary: "With a clear and simple goal in mind - to enhance Mapillary's coverage in the Philippines - I started on an exciting journey equipped with my newly acquired Insta360 camera. My destination was the quiet streets of Leyte, where I was scheduled to conduct a YouthMappers UpSkilling Series across four universities. Check out my Mapillary story in Leyte."
 ---
 
-[Mapillary](https://www.mapillary.com/) is a forward-thinking app that caught my attention once again. I had used it before with my GoPro, but over time, I shifted my focus to other mobile apps for data collection. However, Mapillary's progress and the emergence of 360 cameras piqued my curiosity. This blog post details my recent journey using the Insta360 camera for Mapillary mapping in the Philippines and the challenges I encountered along the way.
+[Mapillary](https://www.mapillary.com/) is a forward-thinking app that rekindled my interest. I had previously used it with my GoPro, but I later shifted my focus to other mobile apps for data collection. However, my attention was reignited due to Mapillary's progress and the emergence of 360 cameras.
 
-With a clear and simple goal in mind - to enhance Mapillary's coverage in the Philippines - I started on an exciting journey equipped with my newly acquired Insta360 camera. My destination was the quiet streets of Leyte, where I was scheduled to conduct a YouthMappers UpSkilling Series across four universities. As I geared up for this adventure, my interactions with the Mapillary team were invaluable. They provided me with essential training materials and shared their insights on the nuances of image capture and data export using the Insta360 camera.
+Motivated by a clear and simple goal - to enhance Mapillary's coverage in the Philippines - I started on an exciting journey equipped with my newly acquired Insta360 camera. My destination was the quiet streets of Leyte, where I was scheduled to conduct a YouthMappers UpSkilling Series across four universities. My interactions with the Mapillary team were instrumental, as they provided me with essential training materials and shared their insights on image capture and data export using the Insta360 camera.
+
+This blog post documents my recent journey using the Insta360 camera for Mapillary mapping in the Philippines and the challenges I encountered along the way.
 
 ![leyte_mapillary_coverage](/static/images/mapillary_leyte.png)
 
