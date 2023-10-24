@@ -53,17 +53,17 @@ My enthusiasm was met with a few roadblocks, mainly stemming from Insta360's lac
 
 I began testing my Insta360 camera at my university, UP Diliman, in preparation for my trip to Leyte for the UpSkilling Series. I decided to mount the device in my bag and walked around the campus while capturing images. However, when I tried to upload the MP4 and GPS tracks from Insta360 Studio using the beta uploader, I faced an error that left me feeling frustrated. Fortunately, this frustration dissipated when I reached out to Said from Mapillary, who provided a version of the uploader that worked seamlessly with my data.
 
-![up_mapillary_failed](/static/images/up_mapillary_failed.png)
+<center>![up_mapillary_failed](/static/images/up_mapillary_failed.png)</center>
+
+<center>_First attempt of uploading via the Beta Uploader_</center>
 
 ### 2. Offset GPS Tracks
 
 Another test took me inside a moving vehicle. Since my triple suction car mount hadn't arrived during this time, I had to improvise by seating in the passenger seat, and extending the selfie stick outside the window, and started capturing around the campus again. In this instance, I observed a significant issue – the GPX files were offset by a few meters, rendering them unsuitable for mapping. This offset raised questions about the accuracy of my contributions.
 
-![up_mapillary_failed_vehicle](/static/images/up_diliman_mapillary_vehicle.png)
+<center>![up_mapillary_failed_vehicle](/static/images/up_diliman_mapillary_vehicle.png)</center>
 
-<center>_Recorded GPS tracks in a moving vehicle (UP Diliman)_</center>
-
-<center>_Was I pondering whether the trees were the cause of the GPX inconsistency?_</center>
+<center>_Recorded GPS tracks in a moving vehicle (UP Diliman). Was I pondering whether the trees were the cause of the GPX inconsistency?_</center>
 
 ### 3. Lighting and Unforeseen Delays
 
@@ -75,13 +75,13 @@ As we traveled from Ormoc to Sogod in Southern Leyte, I kept testing my camera. 
 
 I also took advantage of the rainy weather during the drive to check the camera's water resistance. Glad that it was still safe, despite the weather conditions.
 
-![sogod_mapillary_test](/static/images/ormoc_sogod_test.png)
+<center>![sogod_mapillary_test](/static/images/ormoc_sogod_test.png)</center>
 
 <center>_Recorded GPS tracks in a moving vehicle (Ormoc to Sogod). At this point, I was confident that there were no major obstructions, such as trees, affecting the reliability of the GPX track._</center>
 
 Also, during my training at the universities, I allowed students to use the Insta360 for GPS tracking and Mapillary image capture. Surprisingly, the offset problem persisted, reinforcing the need for a solution to this recurring issue.
 
-![slsu_mapillary_test](/static/images/sogod_test.png)
+<center>![slsu_mapillary_test](/static/images/sogod_test.png)</center>
 
 <center>_Recorded GPS tracks while walking (SLSU). Again, no obstructions, but still unreliable GPX._</center>
 
@@ -89,21 +89,21 @@ Also, during my training at the universities, I allowed students to use the Inst
 
 On our trip from Sogod to Baybay, I decided to use my Android smartphone and the OsmAnd app to record GPS data. The app recorded the GPS tracks perfectly. And to my relief, when I uploaded the MP4 from Insta360 Studio and GPX from OsmAnd, it worked seamlessly using a new beta uploader (v4.1.4) provided by Said. However, an unexpected hurdle emerged – [image synchronization issues](https://www.mapillary.com/app/user/feyeandal?lat=10.397690691649231&lng=124.98637014183669&z=14.329109363297835&pKey=1527237244684235) that required further investigation.
 
-![sogod-baybay-osmand](/static/images/sogod_to_baybay_osmand.png)
+<center>![sogod-baybay-osmand](/static/images/sogod_to_baybay_osmand.png)</center>
 
 <center>_The recorded GPS tracks from OsmAnd_</center>
 
-![sogod_mapillary_issue](/static/images/sogod_mapillary_issue.png)
+<center>![sogod_mapillary_issue](/static/images/sogod_mapillary_issue.png)</center>
 
-<center>_The recorded GPS tracks from OsmAnd_</center>
+<center>_Uploaded images with GPX on Mapillary_</center>
 
 ### 7. Scripting for GPX Extraction
 
 Upon returning to Manila, I began writing a [script](https://github.com/feyeandal/mapillary_insta360/blob/main/convert_insta.py) to extract GPX data from Insta360's raw INSV files. Using this script, I was able to extract the raw GPS files from INSV file. I removed duplicated timestamps and successfully aligned the processed data with the roads and imagery. However, in some cases, this approach didn't work well due to the limited precision of the recorded GPS data. This highlighted the need for more robust data collection methods.
 
-![sogod_mapillary_gpx_code](/static/images/sogod_test_retro.png)
+<center>![sogod_mapillary_gpx_code](/static/images/sogod_test_retro.png)</center>
 
-<center>_Aligned GPS from INSV using the native script_</center>
+<center>*Aligned GPS from INSV using the Python script*</center>
 
 ## The Path Forward
 
