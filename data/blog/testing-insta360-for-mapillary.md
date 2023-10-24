@@ -2,7 +2,7 @@
 title: 'Testing Insta360 for Mapillary Captures in Leyte, Philippines'
 date: '2023-10-25'
 tags: ['Mapillary', 'Data', 'Community']
-images: ['/static/images/athena_setuptable.jpg']
+images: ['/static/images/mapillary_leyte.png']
 draft: false
 summary: "With a clear and simple goal in mind - to enhance Mapillary's coverage in the Philippines - I started on an exciting journey equipped with my newly acquired Insta360 camera. My destination was the quiet streets of Leyte, where I was scheduled to conduct a YouthMappers UpSkilling Series across four universities. Check out my Mapillary story in Leyte."
 ---
