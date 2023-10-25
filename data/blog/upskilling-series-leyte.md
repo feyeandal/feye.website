@@ -78,3 +78,5 @@ This experience was a powerful reminder of my love for teaching and mentoring. T
 The logistical challenges may have been a hassle, but they were a small price to pay for the opportunity to connect directly with these passionate mappers. Going the extra mile to visit their chapters allowed me to impart knowledge and be inspired by every one of them.
 
 It's a two-way street; they look up to me for guidance, but I, in turn, draw inspiration from their dedication and enthusiasm. This connection, the exchange of knowledge, and the shared passion for mapping make these experiences truly special and rewarding. It's a beautiful cycle of learning, growth, and inspiration that keeps me motivated to continue this journey.
+
+_I would like to thank Erika del Rosario of the [UP Resilience Institute YouthMappers](https://www.facebook.com/UPRIYouthMappers) for joining and assisting me in this UpSkilling Series leg in Leyte! Thank you, Erika!_
