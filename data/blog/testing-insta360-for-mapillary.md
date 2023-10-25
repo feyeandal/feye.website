@@ -63,11 +63,11 @@ I began testing my Insta360 camera at my university, UP Diliman, in preparation 
 
 ### 2. Offset GPS Tracks
 
-Another test took me inside a moving vehicle. Since my triple suction car mount hadn't arrived during this time, I had to improvise by seating in the passenger seat, and extending the selfie stick outside the window, and started capturing around the campus again. In this instance, I observed a significant issue – the GPX files were offset by a few meters, rendering them unsuitable for mapping. This offset raised questions about the accuracy of my contributions.
+Another test took me inside a moving vehicle. Since my triple suction car mount hadn't arrived during this time, I had to improvise by seating in the passenger seat, and extending the selfie stick outside the window, and started capturing around the campus again. In this instance, I observed a significant issue – the GPS tracks were offset by a few meters, rendering them unsuitable for mapping. This offset raised questions about the accuracy of my contributions.
 
 <center>![up_mapillary_failed_vehicle](/static/images/up_diliman_mapillary_vehicle.png)</center>
 
-<center>_Recorded GPS tracks in a moving vehicle (UP Diliman). Was I pondering whether the trees were the cause of the GPX inconsistency?_</center>
+<center>_Recorded GPS tracks in a moving vehicle (UP Diliman). Was I pondering whether the trees were the cause of the GPS data inconsistency?_</center>
 
 ### 3. Lighting and Unforeseen Delays
 
@@ -87,7 +87,7 @@ Also, during my training at the universities, I allowed students to use the Inst
 
 <center>![slsu_mapillary_test](/static/images/sogod_test.png)</center>
 
-<center>_Recorded GPS tracks while walking (SLSU). Again, no obstructions, but still unreliable GPX._</center>
+<center>_Recorded GPS tracks while walking (SLSU). Again, no obstructions, but still unreliable GPS data._</center>
 
 ### 5. The OsmAnd GPS Solution
 
