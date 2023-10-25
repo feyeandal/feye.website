@@ -33,7 +33,7 @@ It is also interesting to see the unwavering support from their university's GIS
 
 Eastern Visayas State University (EVSU) Tacloban YouthMappers, a relatively new addition to the network, embarked on their journey with a series of basic training sessions. They're still finding their footing within the network, but their commitment and enthusiasm are evident. As we worked through the UpSkilling workshop and despite the hiccups we encountered before starting the workshop, you could see them gaining momentum and confidence, ready to make their mark on the open mapping field.
 
-![upskilling-evsu](/static/images/upskilling_evsu.JPG)
+![upskilling-evsu](/static/images/upskilling_evsu.jpg)
 
 **Chapter 3: [Southern Leyte State University YouthMappers](https://www.facebook.com/profile.php?id=100087253422166)**
 
