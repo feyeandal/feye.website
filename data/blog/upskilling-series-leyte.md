@@ -47,7 +47,7 @@ Viscan YouthMappers is an exceptionally inspiring chapter from Visayas State Uni
 
 After the Mapillary discussion and sharing of my struggles with Insta360, I had a great chat with the chapter advisors about the problems with Insta360's GPS captures. I'm really looking forward to meeting with them when I visit the universities. They're here to share their knowledge and help the students understand what the chapters are doing.
 
-![upskilling-evsu](/static/images/upskilling_viscany.JPG)
+![upskilling-viscan](/static/images/upskilling_viscany.JPG)
 
 **The Common Thread: Building More Mappers**
 
