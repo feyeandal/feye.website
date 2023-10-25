@@ -1,6 +1,6 @@
 ---
 title: 'Testing Insta360 for Mapillary Captures in Leyte, Philippines'
-date: '2023-10-25'
+date: '2023-10-24'
 tags: ['Mapillary', 'Data', 'Community']
 images: ['/static/images/mapillary_leyte.png']
 draft: false
