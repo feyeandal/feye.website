@@ -39,7 +39,7 @@ Eastern Visayas State University (EVSU) Tacloban YouthMappers, a relatively new 
 
 Southern Leyte State University YouthMappers were honored with the esteemed Rising Star Award by YouthMappers earlier this year, a recognition well-earned. Their commitment to empowering members with cutting-edge technologies and fostering collaborations, both within and beyond the network, is truly commendable. Over the course of the 2-day Upskilling Series workshop, we elevated their skills by immersing ourselves in a JOSM workshop focused on validation techniques, potentially paving the way for the establishment of a regional validation hub in Asia. To make this vision a reality, it will be essential to provide ongoing support and guidance, ensuring the continuous momentum of their dedicated members.
 
-![upskilling-slsuy](/static/images/upskilling_slsuy.jpg)
+![upskilling-slsuy](/static/images/upskilling_slsuy.JPG)
 
 **Chapter 4: [Viscan YouthMappers](https://www.facebook.com/viscanyouthmappers)**
 
@@ -47,7 +47,7 @@ Viscan YouthMappers is an exceptionally inspiring chapter from Visayas State Uni
 
 After the Mapillary discussion and sharing of my struggles with Insta360, I had a great chat with the chapter advisors about the problems with Insta360's GPS captures. I'm really looking forward to meeting with them when I visit the universities. They're here to share their knowledge and help the students understand what the chapters are doing.
 
-![upskilling-viscany](/static/images/upskilling_viscany.jpg)
+![upskilling-viscany](/static/images/upskilling_viscany.JPG)
 
 **The Common Thread: Building More Mappers**
 
