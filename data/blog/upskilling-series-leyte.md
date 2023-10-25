@@ -49,6 +49,24 @@ After the Mapillary discussion and sharing of my struggles with Insta360, I had 
 
 ![upskilling-viscany](/static/images/upskilling_viscany.JPG)
 
+**Check out the Mapillary captures by each university!**
+
+![mapillary-uptac](/static/images/mapillary-uptac.png)
+
+<center>_[UP Tacloban](https://www.mapillary.com/app/?lat=11.249299415996418&lng=125.00533315993516&z=15.927634114591456)_</center>
+
+![mapillary-evsu](/static/images/mapillary-evsu.png)
+
+<center>_[Eastern Visayas State University](https://www.mapillary.com/app/?lat=11.240116030219184&lng=124.99665301186133&z=17.01786162612613)_</center>
+
+![mapillary-slsu](/static/images/mapillary-slsu.png)
+
+<center>_[Southern Leyte State University](https://www.mapillary.com/app/?lat=10.390558772266488&lng=124.9801371759105&z=15.535413023932957)_</center>
+
+![mapillary-vsu](/static/images/mapillary-vsu.png)
+
+<center>_[Visayas State University](https://www.mapillary.com/app/?lat=10.744478396856366&lng=124.79497933301445&z=15.31172517390426)_</center>
+
 **The Common Thread: Building More Mappers**
 
 Throughout our workshop series, it was evident that despite each university having its unique character and style, they all shared a common goal - to create more mappers and serve the communities. The determination to map their communities, improve access to information, and contribute to disaster preparedness was remarkable. These students’ passion for learning and helping their communities was unique and amazing.
