@@ -27,7 +27,7 @@ My journey began with UP Tacloban YouthMappers, the first local chapter outside 
 
 It is also interesting to see the unwavering support from their university's GIS lab - [UPTC Regional Environmental Information System (REIS)](https://www.facebook.com/uptc.reis), which reflects their department’s and advisors’ commitment to serving the people. It's worth noting that they were honored with the opportunity to receive drone training last year via the [Booster Grant Program of the OpenStreetMap-Philippines](https://wiki.openstreetmap.org/wiki/OSM_Philippines_Booster_Grants_2022), funded by the Open Mapping Hub-Asia Pacific, thanks to their exceptional leadership skills and networking capabilities.
 
-![upskilling-uptac](/static/images/upskilling_uptac.JPG)
+![upskilling-uptac](/static/images/upskilling_uptac.jpg)
 
 **Chapter 2: [EVSU Tacloban YouthMappers](https://www.facebook.com/evsutacym)**
 
@@ -47,7 +47,7 @@ Viscan YouthMappers is an exceptionally inspiring chapter from Visayas State Uni
 
 After the Mapillary discussion and sharing of my struggles with Insta360, I had a great chat with the chapter advisors about the problems with Insta360's GPS captures. I'm really looking forward to meeting with them when I visit the universities. They're here to share their knowledge and help the students understand what the chapters are doing.
 
-![upskilling-viscan](/static/images/upskilling_viscany.JPG)
+![upskilling-viscan](/static/images/upskilling_viscany.jpg)
 
 **The Common Thread: Building More Mappers**
 
