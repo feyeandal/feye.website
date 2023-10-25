@@ -2,7 +2,7 @@
 title: 'YouthMappers UpSkilling Series heads to Leyte!'
 date: '2023-10-25'
 tags: ['YouthMappers', 'Mapillary', 'JOSM', 'Community']
-images: ['/static/images/upskilling-leyte1.jpg']
+images: ['/static/images/test_card-upskilling.jpg']
 draft: false
 summary: 'I had the incredible opportunity to collaborate with four universities in Leyte on a special YouthMappers UpSkilling Series workshop. Each leg of this series was like a unique chapter in a mapmaking story, with a common goal: to help build more mappers in the community.'
 ---
