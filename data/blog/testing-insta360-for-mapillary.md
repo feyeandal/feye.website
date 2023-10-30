@@ -109,7 +109,7 @@ Upon returning to Manila, I began writing a [script](https://github.com/feyeanda
 
 <center>*Aligned GPS from INSV using the Python script*</center>
 
-**Note: Prior to executing the Python script, ensure you have installed and configured [exiftool](https://exiftool.org/geotag.html). Exiftool is a tool that facilitates the extraction of metadata from INSV files. To prepare for using the Python script, follow this syntax to generate a text file containing the metadata: \***exiftool -ee test_insta.insv > test_output_2.txt\*\*\*. After generating the text file, utilize it as the input file for the Python script.
+**Note: Prior to executing the Python script, ensure you have installed and configured [exiftool](https://exiftool.org/geotag.html). Exiftool is a tool that facilitates the extraction of metadata from INSV files. To prepare for using the Python script, follow this syntax to generate a text file containing the metadata: `exiftool -ee test_insta.insv > test_output_2.txt`. After generating the text file, utilize it as the input file for the Python script.**
 
 ## The Path Forward
 
