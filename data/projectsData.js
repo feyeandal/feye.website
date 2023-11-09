@@ -1,5 +1,17 @@
 const projectsData = [
   {
+    title: 'State of the Map Asia 2023',
+    description: `State of the Map Asia (SotM-Asia) is a regional SotM conference for the continent of Asia. We hope to serve and gather 300-500 participants from Asia and beyond to connect and discuss not only OpenStreetMap and open data tools, projects and challenges, but also showcase diverse Asian cultures.`,
+    imgSrc: '/static/images/sotmasia2023.png',
+    href: 'https://stateofthemap.asia/',
+  },
+  {
+    title: 'Pista ng Mapa 2023',
+    description: `Pista ng Mapa (Festival of Maps) is the pioneer and premier free (as to cost and as in freedom) and open conference in the Philippines made for and by people who have a passion for open mapping, open data, and open source. Pista ng Mapa 2023 is happening in Tacloban City, Leyte, and is hosted by UP Visayas Tacloban YouthMappers.`,
+    imgSrc: '/static/images/pnm2023.png',
+    href: 'https://stateofthemap.asia/',
+  },
+  {
     title: 'YouthMappers Asia UpSkilling Series',
     description: `Over the years, our mission has been bringing universities/student organizations into the YouthMappers network, igniting their passion for open mapping, and supercharging their community impact. But this year, we're cranking it up a notch! We are now focusing our efforts in elevating their technical skills, especially in the field of open mapping.`,
     imgSrc: '/static/images/project_upskilling.jpg',
