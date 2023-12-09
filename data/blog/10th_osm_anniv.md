@@ -2,7 +2,7 @@
 title: 'November to Remember: Celebrating my 10th Year Anniversary in OSM through Open Mapping Conferences'
 date: '2023-12-09'
 tags: ['OpenStreetMap', 'Asia', 'Community', 'SoTM', 'PnM', 'FOSS4G']
-images: ['/static/images/foss4g-asia_keynote.jpg']
+images: ['/static/images/foss4g-asia_keynote.jpeg']
 draft: false
 summary: 'November 2023 was a month of profound experiences as I traversed through three exceptional conferences in Asia, each leaving a lasting impression on my journey in the open mapping community.'
 ---
