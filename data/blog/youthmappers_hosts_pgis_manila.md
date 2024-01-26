@@ -2,7 +2,7 @@
 title: 'YouthMappers hosts Participatory GIS Workshop in Manila, Philippines'
 date: '2024-01-25'
 tags: ['YouthMappers', 'PGIS', 'Community']
-images: ['/static/images/test_card-upskilling.jpg']
+images: ['/static/images/pgis_ym.jpg)']
 draft: false
 summary: 'Dr. Brent McCusker and I hosted a 2-leg Participatory GIS workshop for the local chapters in the Philippines based in Metro Manila. With four universities participating, we covered the principle of Participatory GIS, including using OpenStreetMap, collecting data usign Kobo Collect, visualizing geospatial data using QGIS, and mapping with ethical considerations.'
 ---
