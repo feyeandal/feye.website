@@ -13,7 +13,7 @@ summary: 'Dr. Brent McCusker and I hosted a 2-leg Participatory GIS workshop for
 
 <center>_With Dr. Brent McCusker, one of the co-founders of YouthMappers, and main trainer of PGIS_</center>
 
-As we brainstormed, I couldn't help but see the opportunity to make it even more impactful. The goal? Create excitement and foster collaborations across Metro Manila’s active local chapters, all the while highlight the significance of OpenStreetMap and participatory GIS. I suggested a two-leg workshop to Dr. Brent, kicking off in Alabang and concluding the journey in Diliman with three university chapters on board. And he enthusiastically embraced the idea. We’ve been coordinating this workshop since August of last year, and admittedly, it was quite a challenge. Coordinating among four universities, each with its requirements and approval processes, added complexity to organizing this activity within their campuses.
+As we brainstormed, I couldn't help but see the opportunity to make it even more impactful. The goal? Generate enthusiasm and encourage collaborations among the active local chapters in Metro Manila, while underscoring the significance of OpenStreetMap and participatory GIS. I suggested a two-leg workshop to Dr. Brent, kicking off in Alabang and concluding the journey in Diliman with three university chapters on board. And he enthusiastically embraced the idea. We’ve been coordinating this workshop since August of last year, and admittedly, it was quite a challenge. Coordinating among four universities, each with its requirements and approval processes, added complexity to organizing this activity within their campuses.
 
 <h1>PGIS Alabang</h1>
 
@@ -23,11 +23,11 @@ The first leg at FEU Alabang was a wild ride. 🎢 We dived into OpenStreetMap d
 
 <center>_The members of FEU Alabang - ACM Student Chapter_</center>
 
-Adding to the excitement, we kept the participants engaged and energized by incorporating Kahoot sessions with enticing prizes after every morning and afternoon sessions. The vibe was electric; you could tell we were onto something big. 🏆
+Additionally, it is noteworthy that not all students possessed prior GIS experience, making this training valuable as it catered to individuals at various skill levels. Moreover,recognizing the participants as Software Engineering students, we tailored examples to software technologies, ensuring content relevance and sustained interest. Elevating the excitement, we ensured participant engagement through Kahoot sessions with enticing prizes following each morning and afternoon sessions. The vibe was electric; you could tell we were onto something big. 🏆
 
 <h1>PGIS Diliman</h1>
 
-Handling the second leg at UP Diliman was nerve-wracking, dealing with uncertainties and challenges as we went along. With a whopping 55 students hailing from three universities—FEU Tech with their data science majors, Adamson's squad of Electronics Engineering students, and the geography majors from UP Diliman—the diversity was thrilling and challenging.
+Handling the second leg at UP Diliman was nerve-wracking, dealing with uncertainties and challenges as we went along. With a whopping 55 students hailing from three universities—FEU Tech with their Data Science majors, Adamson's squad of Electronics Engineering students, and the Geography majors from UP Diliman—the diversity was thrilling and challenging.
 
 ![pgis-ym-diliman](/static/images/pgis_ym.jpg)
 
