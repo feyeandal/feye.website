@@ -29,6 +29,12 @@ export default function Home({ posts }) {
         </div>
         <div className="container py-12">
           <div className="pb-6 space-y-2 md:space-y-5">
+            <Link href={siteMetadata.iwd2024}>
+              <h1 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8 mb-4">
+                🏆 <strong>Leader of the Year - Philippines,</strong>{' '}
+                <i> Open Mapping Women Awards 2024 (Humanitarian OpenStreetMap Team)</i>
+              </h1>
+            </Link>
             <Link href={siteMetadata.rising_star}>
               <h1 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8 mb-4">
                 🏆 <strong>50 Rising Stars - 2024,</strong> <i> Geospatial World</i>

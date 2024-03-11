@@ -35,6 +35,7 @@ const siteMetadata = {
     'http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.741.7461&rep=rep1&type=pdf',
   rising_star: 'https://www.geospatialworld.net/rising-stars/2024/',
   dei_champion: 'https://twitter.com/SotmAsia/status/1725328035925397993',
+  iwd2024: 'https://twitter.com/hotosm/status/1765999699461370015',
   locale: 'en-US',
   comment: {
     // Select a provider and use the environment variables associated to it
