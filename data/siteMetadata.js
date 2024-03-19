@@ -36,6 +36,8 @@ const siteMetadata = {
   rising_star: 'https://www.geospatialworld.net/rising-stars/2024/',
   dei_champion: 'https://twitter.com/SotmAsia/status/1725328035925397993',
   iwd2024: 'https://twitter.com/hotosm/status/1765999699461370015',
+  ym_blogs_2024:
+    'https://drive.google.com/file/d/1nNxJvRiciD_VNSvLUxbjO6cXB8Qe3DmE/view?usp=drive_link',
   locale: 'en-US',
   comment: {
     // Select a provider and use the environment variables associated to it

@@ -29,6 +29,12 @@ export default function Home({ posts }) {
         </div>
         <div className="container py-12">
           <div className="pb-6 space-y-2 md:space-y-5">
+            <Link href={siteMetadata.ym_blogs_2024}>
+              <h1 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8 mb-4">
+                🏆 <strong>YouthMappers Best Blog of 2024,</strong>{' '}
+                <i> YouthMappers and USAID GeoCenter</i>
+              </h1>
+            </Link>
             <Link href={siteMetadata.iwd2024}>
               <h1 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8 mb-4">
                 🏆 <strong>Leader of the Year - Philippines,</strong>{' '}
