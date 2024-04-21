@@ -44,7 +44,7 @@ On a personal note, managing the demanding schedule of five 2-hour sessions (inc
 
 ### Reflecting based on the Camp experiences
 
-In hindsight, despite these stringent technical and mental requirements, it's essential to reflect on whether we are actually bridging the data quality gap through these initiatives. Moreover, volunteer-driven initiatives like this, while noble, inherently face challenges due to their reliance on individuals' time and commitment as the sole capital. This dynamic underscores the critical need to acknowledge and navigate the limitations imposed by these constraints.
+Despite these stringent technical and mental requirements, it's essential to reflect on whether we are actually bridging the data quality gap through these initiatives. Moreover, volunteer-driven initiatives like this, while noble, inherently face challenges due to their reliance on individuals' time and commitment as the sole capital. This dynamic underscores the critical need to acknowledge and navigate the limitations imposed by these constraints.
 
 As we reflect on the efficacy of our current efforts, it becomes increasingly evident that innovative strategies must be developed to mitigate these challenges effectively. This also requires a collaborative effort among communities to identify and implement initiatives that inspire participation and provide sustainable support structures for volunteers, ensuring their continued engagement and impact.
 
