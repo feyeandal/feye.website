@@ -1,5 +1,20 @@
 const projectsData = [
   {
+    title: 'Building the YouthMappers Regional Validation Hub: Philippine Camp',
+    description: `YouthMappers Validation Hub: Philippine Camp is an immersive four-session experience crafted to elevate YouthMappers' OpenStreetMap validation skills.`,
+    imgSrc: '/static/images/phcamp_proj.jpg',
+    href:
+      'https://feyeandal.notion.site/YouthMappers-Regional-Validation-Hub-Philippine-Camp-4703d26693a941b5a89e3b98d9c82ec0?pvs=74',
+  },
+  {
+    title:
+      'BATAlert: Capacitating Childrens DRRM Skills through the development of Community-Based Modules',
+    description: `BATAlert aims to engage children with Disaster Risk Reduction and Management (DRRM) concepts and disaster reporting using age-appropriate methods like interactive and fun games.`,
+    imgSrc: '/static/images/batalert.jpg',
+    href:
+      'https://resilience.up.edu.ph/upri-youthmappers-launches-batalert-capacitating-childrens-drrm-skills-through-the-development-of-community-based-modules/',
+  },
+  {
     title: 'State of the Map Asia 2023',
     description: `State of the Map Asia (SotM-Asia) is a regional SotM conference for the continent of Asia. We hope to serve and gather 300-500 participants from Asia and beyond to connect and discuss not only OpenStreetMap and open data tools, projects and challenges, but also showcase diverse Asian cultures.`,
     imgSrc: '/static/images/sotmasia2023.png',
