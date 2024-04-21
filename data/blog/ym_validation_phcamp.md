@@ -2,7 +2,7 @@
 title: 'Advancing to Validation Stages in OSM – Challenges and Opportunities from the Regional Validation Hub: Philippine Camp'
 date: '2024-04-21'
 tags: ['OpenStreetMap', 'Asia', 'Community', 'YouthMappers', 'Validation']
-images: ['/static/images/foss4g-asia_keynote.jpeg']
+images: ['/static/images/phcamp_proj.jpg']
 draft: false
 summary: 'Ever wonder why the ratio of beginners and intermediate/advanced mappers is significant in OSM? Let us unpack this intriguing question by navigating my experiences launching the first-ever Regional Validation Hub Philippine Camp.'
 ---
