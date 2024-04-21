@@ -40,7 +40,7 @@ Undoubtedly, challenges were encountered in the Philippine Camp, including the *
 
 Among these committed participants, **only two are Advanced Mappers**, with the remaining three classified as Beginner Mappers. In hindsight, their commitment is a testament to the potential of such initiatives to inspire and engage, presenting a valuable opportunity to bridge the gap for interested individuals.
 
-On a personal note, managing the demanding schedule of five 2-hour sessions (+ the 1-hour kick-off meeting) has presented its own set of challenges. As the primary facilitator of the training program, maintaining energy and focus over an extended period has led to feelings of burnout. Sustaining the energy to host these sessions also proved taxing. This highlights the necessity for mentors like me to match the dedication required to host such an initiative. After all, students must feel the same commitment and enthusiasm to truly benefit from the camp.
+On a personal note, managing the demanding schedule of five 2-hour sessions (including the kick-off meeting) has presented its own set of challenges. As the primary facilitator of the training program, maintaining energy and focus over an extended period has led to feelings of burnout. Sustaining the energy to host these sessions also proved taxing. This highlights the necessity for mentors like me to match the dedication required to host such an initiative. After all, students must feel the same commitment and enthusiasm to truly benefit from the camp.
 
 ### Reflecting based on the Camp experiences
 
