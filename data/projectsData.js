@@ -1,7 +1,7 @@
 const projectsData = [
   {
     title: 'Building the YouthMappers Regional Validation Hub: Philippine Camp',
-    description: `YouthMappers Validation Hub: Philippine Camp is an immersive four-session experience crafted to elevate YouthMappers' OpenStreetMap validation skills.`,
+    description: `The YouthMappers Regional Validation Hub: Philippine Camp is an immersive four-session experience crafted to elevate YouthMappers' OpenStreetMap validation skills.`,
     imgSrc: '/static/images/phcamp_proj.jpg',
     href:
       'https://feyeandal.notion.site/YouthMappers-Regional-Validation-Hub-Philippine-Camp-4703d26693a941b5a89e3b98d9c82ec0?pvs=74',
