@@ -8,7 +8,7 @@ const projectsData = [
   },
   {
     title:
-      'BATAlert: Capacitating Childrens DRRM Skills through the development of Community-Based Modules',
+      "BATAlert: Capacitating Children's DRRM Skills through the development of Community-Based Modules",
     description: `BATAlert aims to engage children with Disaster Risk Reduction and Management (DRRM) concepts and disaster reporting using age-appropriate methods like interactive and fun games.`,
     imgSrc: '/static/images/batalert.jpg',
     href:
