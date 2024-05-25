@@ -2,7 +2,7 @@
 title: 'I am a Rising Star: Reflections from the Geospatial World Forum'
 date: '2024-05-25'
 tags: ['GWF', 'Rising Star', 'Geospatial', 'YouthMappers']
-images: ['/static/images/foss4g-asia_keynote.jpeg']
+images: ['/static/images/gwf-rising-star-feye.jpg']
 draft: false
 summary: 'Attending the Geospatial World Forum was an enriching experience, highlighted by receiving the 50 Rising Stars certificate and participating in panels on engaging Gen-Zs and DE&I. I am deeply grateful to the communities that have supported and shaped my journey, making this milestone possible.'
 ---
