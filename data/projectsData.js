@@ -7,10 +7,23 @@ const projectsData = [
       'https://feyeandal.notion.site/YouthMappers-Regional-Validation-Hub-Philippine-Camp-4703d26693a941b5a89e3b98d9c82ec0?pvs=74',
   },
   {
+    title: '7th Annual International Humanitarian Mapathon 2024',
+    description: `I, through my team at the UP Resilience Institute YouthMappers, co-hosted the 7th International Humanitarian Mapathon (IHM) with the UN Smart Maps alongside partners such as UCLA, USC, Reitaku University, Aoyama Gakuin University, MapTime LA, University of Hawai’i, and more. Participants joined from all over the world – Japan, Mexico, the Philippines, and the US – to learn how to contribute to humanitarian mapping efforts and craft maps that tell a story.`,
+    imgSrc: '/static/images/mapathon_la.jpg',
+    href: 'https://mapathon.la/en/',
+  },
+  {
+    title:
+      'PedalMap: Engaging biking communities in open mapping initiatives for UN Sustainable Development Goals (SDG) ',
+    description: `During Open Data Day 2024, we, the UP Resilience Institute YouthMappers (UPRIYM) started collaborating with Tiklop Society of the Philippines (TSP) to engage biking communities in open mapping initiatives for Sustainable Development Goals (SDG).TSP is a non-government organization that promotes bi-modal transportation through folding bikes.`,
+    imgSrc: '/static/images/pedal_map_proj.jpg',
+    href: 'https://blog.okfn.org/2024/03/26/oddstories-2024-quezon-city-philippines/',
+  },
+  {
     title:
       "BATAlert: Capacitating Children's DRRM Skills through the development of Community-Based Modules",
     description: `BATAlert aims to engage children with Disaster Risk Reduction and Management (DRRM) concepts and disaster reporting using age-appropriate methods like interactive and fun games.`,
-    imgSrc: '/static/images/batalert.jpg',
+    imgSrc: '/static/images/batalert_proj.jpg',
     href:
       'https://resilience.up.edu.ph/upri-youthmappers-launches-batalert-capacitating-childrens-drrm-skills-through-the-development-of-community-based-modules/',
   },
