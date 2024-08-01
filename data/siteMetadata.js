@@ -15,6 +15,7 @@ const siteMetadata = {
   head_4th: '/static/images/osm.png',
   // socialBanner: '/static/images/twitter-card.png',
   email: 'andalfeye@gmail.com',
+  bilyonaryo_noah: 'https://www.youtube.com/watch?v=5CTjC3DtSvg',
   eotec_devnet: 'https://www.youtube.com/watch?v=FU7a6HR_GH4',
   github: 'https://github.com/feyeandal',
   twitter: 'https://twitter.com/dfeyeandal',
