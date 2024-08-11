@@ -40,4 +40,4 @@ As I reflect on my time at the Indo-Pacific Forum, I can’t help but feel a dee
 In the end, the Indo-Pacific Forum wasn’t just another conference—it was a milestone in my journey as a geospatial professional and as a YouthMappers Regional Ambassador. It reminded me that our work, no matter how technical or data-driven, is about people—about connecting, sharing, and making an impact together. And for that, I’ll always be grateful. 🙏
 
 <center>![indopacific_feye](/static/images/indopacific_feye.jpg)</center>
-<center>_Grateful for the chance to share our work and connect regionally</center>
+<center>_Grateful for the chance to share our work and connect regionally_</center>
