@@ -1,5 +1,5 @@
 ---
-title: 'Surreal Moments in Fiji: My Journey to the Indo-Pacific Forum'
+title: 'Surreal Moments in Fiji: Presenting YouthMappers at the Indo-Pacific Forum'
 date: '2024-08-11'
 tags: ['OSM', 'YouthMappers', 'Conference']
 images: ['/static/images/indopacific_ym.JPG']
