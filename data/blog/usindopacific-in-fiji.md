@@ -2,7 +2,7 @@
 title: 'Surreal Moments in Fiji: My Journey to the Indo-Pacific Forum'
 date: '2024-08-11'
 tags: ['OSM', 'YouthMappers', 'Conference']
-images: ['/static/images/indopacific_ym.jpg']
+images: ['/static/images/indopacific_ym.JPG']
 draft: false
 summary: 'Attending the Indo-Pacific Forum in Fiji was a surreal and deeply rewarding experience, where I shared my work with an international audience and connected with representatives from multiple countries. The support from the organizers, who sponsored my travel for a 25-minute talk, was humbling and underscored the value of our geospatial contributions. This experience reaffirmed the importance of our work and the power of sharing it on regional platforms.'
 ---
@@ -20,7 +20,7 @@ On the day of my talk, I remember walking into the conference venue with a mix o
 
 When I took the stage, my nerves melted away, replaced by my deep sense of passion and purpose. For 25 minutes, I spoke about the work that had brought me to that moment—our projects, our methods, and the ways we’ve been trying to make a difference and impact to the communities. And then, almost as quickly as it began, it was over. But what happened next was what really made the experience extraordinary.
 
-<center>![indopacific_ym](/static/images/indopacific_ym.jpg)</center>
+<center>![indopacific_ym](/static/images/indopacific_ym.JPG)</center>
 <center>_Introducing YouthMappers as today's leaders in the open mapping community_</center>
 
 As I stepped off the stage, I was approached by representatives from countries like Bhutan, Brunei, and Indonesia, eager to discuss the YouthMappers projects I had presented. Even representatives from the Philippines came up to talk, making the experience feel even more connected to home. These weren’t just polite exchanges; they were genuine conversations about how we could collaborate, how they could form their own local chapters, how the work we’re doing could be applied in new contexts, and how we might work together in the future. It was in those moments that I truly understood the impact of what we’re doing—not just within our projects but in the broader community.
@@ -34,7 +34,7 @@ But beyond the professional connections and the personal pride, there was someth
 
 As I reflect on my time at the Indo-Pacific Forum, I can’t help but feel a deep sense of gratitude. Gratitude for the opportunity to be there, for the chance to share my work in such an incredible setting, and for the support from the organizers that made it all possible. This experience not only left me with memories of Fiji’s stunning landscapes but also with a renewed sense of purpose, especially as I realized that this significant milestone in my journey intersected with the 20th birthday of OpenStreetMap. Through this forum, OSM—the heart of what we do in YouthMappers—was spotlighted on a regional stage. 🌏
 
-<center>![indopacific_haiyan](/static/images/indopacific_haiyan.jpg)</center>
+<center>![indopacific_haiyan](/static/images/indopacific_haiyan.JPG)</center>
 <center>_Reflecting on my journey with OSM, which began the same year Typhoon Haiyan struck the Philippines—a significant moment that deeply shaped the OSM Philippines community._</center>
 
 In the end, the Indo-Pacific Forum wasn’t just another conference—it was a milestone in my journey as a geospatial professional and as a YouthMappers Regional Ambassador. It reminded me that our work, no matter how technical or data-driven, is about people—about connecting, sharing, and making an impact together. And for that, I’ll always be grateful. 🙏
