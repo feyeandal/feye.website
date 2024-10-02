@@ -15,7 +15,7 @@ Looking back on the journey we’ve been on, I’m so excited to share that the 
 We actually started developing the _Impact-Based Flood Forecasting_ project last year as part of the 4As (Academic Allaiance for Anticipatory Action) initiative. Back then, we were already working closely with the German Red Cross on early versions of this project, but seeing how it’s grown and evolved into the refined solution we have today is incredibly rewarding. This isn’t just about creating another tool, it’s about pioneering a platform which utilizes scientific data combined with on-the-ground insights to make flood forecasts more timely, precise, and, most importantly, accessible to the communities that need it the most.
 
 <center>![4as](/static/images/4as.png)</center>
-<center>_Impact-Based Flood Forecasting System at the NOAH Studio: https://noah.up.edu.ph/noah-studio_</center>
+<center>_Impact-Based Flood Forecasting System at the NOAH Studio: [https://noah.up.edu.ph/noah-studio](https://noah.up.edu.ph/noah-studio)_</center>
 
 Our collaboration with Dr. Gerry Bagtasa from [Weather Manila](https://x.com/Weather_Manila) has been key to this project’s success. By leveraging advanced rainfall forecasting data and integrating it with flood reports from barangay-level communities, we can provide people up to 24 hours’ warning before large flooding happens. That extra lead time could make all the difference in allowing families and local responders to prepare and act before disaster strikes.
 
