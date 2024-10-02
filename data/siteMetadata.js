@@ -39,6 +39,8 @@ const siteMetadata = {
   iwd2024: 'https://twitter.com/hotosm/status/1765999699461370015',
   ym_blogs_2024:
     'https://drive.google.com/file/d/1nNxJvRiciD_VNSvLUxbjO6cXB8Qe3DmE/view?usp=drive_link',
+  wfpusaid_2024:
+    'https://resilience.up.edu.ph/upri-noah-center-wins-prep-innovation-challenge-by-wfp-usaid',
   locale: 'en-US',
   comment: {
     // Select a provider and use the environment variables associated to it
