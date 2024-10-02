@@ -12,7 +12,7 @@ Looking back on the journey we’ve been on, I’m so excited to share that the 
 <center>![prep-awards-2](/static/images/prep-awards-2.jpg)</center>
 <center>_Our team accepts the award with Dr. Lagmay, and the WFP team_</center>
 
-We actually started developing the _Impact-Based Flood Forecasting_ project last year as part of the 4As (Academic Allaiance for Anticipatory Action) initiative. Back then, we were already working closely with the German Red Cross on early versions of this project, but seeing how it’s grown and evolved into the refined solution we have today is incredibly rewarding. This isn’t just about creating another tool, it’s about pioneering a platform which utilizes scientific data combined with on-the-ground insights to make flood forecasts more timely, precise, and, most importantly, accessible to the communities that need it the most.
+We actually started developing the _Impact-Based Flood Forecasting_ project last year as part of the 4As (Academic Alliance for Anticipatory Action) initiative. However, the earliest version of this project dates back to 2019, when we began collaborating with the German Red Cross. It’s incredibly rewarding to see how this project has grown and evolved into the refined solution we have today. This isn’t just about creating another tool; it’s about pioneering a platform that combines scientific data with on-the-ground insights to make flood forecasts more timely, precise, and, most importantly, accessible to the communities that need it the most.
 
 <center>![4as](/static/images/4as.png)</center>
 <center>_Impact-Based Flood Forecasting System at the NOAH Studio: [https://noah.up.edu.ph/noah-studio](https://noah.up.edu.ph/noah-studio)_</center>
