@@ -16,6 +16,8 @@ const siteMetadata = {
   // socialBanner: '/static/images/twitter-card.png',
   email: 'andalfeye@gmail.com',
   bilyonaryo_noah: 'https://www.youtube.com/watch?v=5CTjC3DtSvg',
+  spotify_civichacker:
+    'https://open.spotify.com/episode/0GMKOCEYTqWlLd7IuWZUNb?context=spotify:show:1YQJpC4BOqEScuYHGEg0LK&nd=1&dlsi=331f112b898d4a54',
   eotec_devnet: 'https://www.youtube.com/watch?v=FU7a6HR_GH4',
   github: 'https://github.com/feyeandal',
   twitter: 'https://twitter.com/dfeyeandal',
@@ -34,6 +36,7 @@ const siteMetadata = {
     'https://www.researchgate.net/publication/323024713_Developing_a_Scenario-Based_Assessment_of_Hazards_Platform_for_the_Philippines_Using_Open_Source_Software_and_Open_Data',
   publication_2:
     'http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.741.7461&rep=rep1&type=pdf',
+  publication_3: 'https://doi.org/10.37801/ajad2024.21.20AI.8',
   rising_star: 'https://www.geospatialworld.net/rising-stars/2024/',
   dei_champion: 'https://twitter.com/SotmAsia/status/1725328035925397993',
   iwd2024: 'https://twitter.com/hotosm/status/1765999699461370015',

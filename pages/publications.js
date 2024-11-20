@@ -75,6 +75,18 @@ export default function Home({ posts }) {
             </h1>
           </div>
           <div className="w-5/6 sm:w-full p-6 md:pt-2 sm:pb-0">
+            <Link href={siteMetadata.publication_3}>
+              <h1 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8">
+                An Impact-Based Flood Forecasting System for Citizen Empowerment
+              </h1>
+              <p className="prose italic text-gray-500 max-w-none dark:text-gray-400 mt-0">
+                (2024). Lagmay, A.M.F., Bagtasa, G., Andal, D.F., et al.
+                <br />
+                <br />
+              </p>
+            </Link>
+          </div>
+          <div className="w-5/6 sm:w-full p-6 md:pt-2 sm:pb-0">
             <Link href={siteMetadata.publication_1}>
               <h1 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8">
                 Developing a Scenario-Based Assessment of Hazards Platform for the Philippines Using
@@ -105,6 +117,18 @@ export default function Home({ posts }) {
             <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-3xl md:leading-8">
               Videos
             </h1>
+          </div>
+          <div className="w-5/6 sm:w-full p-6 md:pt-2 sm:pb-0">
+            <Link href={siteMetadata.spotify_civichacker}>
+              <h3 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8">
+                YouthMappers: Empowering Global Changemakers with Geospatial Technology
+              </h3>
+              <p className="prose italic text-gray-500 max-w-none dark:text-gray-400 mt-0">
+                (2024). The Civic Hacker Podcast on Spotify
+                <br />
+                <br />
+              </p>
+            </Link>
           </div>
           <div className="w-5/6 sm:w-full p-6 md:pt-2 sm:pb-0">
             <Link href={siteMetadata.bilyonaryo_noah}>
