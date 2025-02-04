@@ -1,5 +1,24 @@
 const projectsData = [
   {
+    title:
+      'Toolkit for Assessing the Impact of Typhoons to Fishing Activities  in the Philippines​',
+    description: `This open-source, automated, and scalable pilot solution developed under the Asian Development Bank is designed to measure and predict the impact of tropical cyclones on fishing activities. Using publicly available remote sensing data, the toolkit tracks changes in the number of fishing boats before, during, and after cyclones.`,
+    imgSrc: '/static/images/adb_fishing.gif',
+    href: 'https://www.sciencedirect.com/science/article/pii/S0165783624002856#sec0035',
+  },
+  {
+    title: 'Impact-Based Flood Forecasting System in the Philippines',
+    description: `The Impact-Based Flood Forecasting System is developed by the UP Resilience Institute NOAH-Center and Weather Manila, in collaboration with the Academic Alliance for Anticipatory Action (4As) and was funded by the United States Agency for International Development's Bureau for Humanitarian Assistance (USAID/BHA). It allows users to determine how many people per barangay will be affected by a large flood event, 24 hours from the timestamp of the displayed rain forecast. The results can be viewed in tabular format where specific information can be searched.`,
+    imgSrc: '/static/images/impact-based.jpg',
+    href: 'https://noah.up.edu.ph/noah-studio',
+  },
+  {
+    title: 'Quake Quest 2024',
+    description: `Quake Quest is a three-month scientific research competition hosted by the University of the Philippines Resilience Institute (UPRI), together with the University of the Philippines Intelligent Systems Center (UP ISC), aiming to utilize the UPRI's archived seismic data.`,
+    imgSrc: '/static/images/qq2024.jpg',
+    href: 'https://upri-earthquake.github.io/quake-quest/src/index.html',
+  },
+  {
     title: 'Building the YouthMappers Regional Validation Hub: Philippine Camp',
     description: `The YouthMappers Regional Validation Hub: Philippine Camp is an immersive four-session experience crafted to elevate YouthMappers' OpenStreetMap validation skills.`,
     imgSrc: '/static/images/phcamp_proj.jpg',
