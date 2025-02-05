@@ -19,6 +19,12 @@ const projectsData = [
     href: 'https://upri-earthquake.github.io/quake-quest/src/index.html',
   },
   {
+    title: 'Data Collection on Urban Heat in Pasig City, Philippines',
+    description: `The World Bank, in collaboration with the UPRI YouthMappers team, conducted an urban heat data collection in Pasig City, expanding beyond traditional infrastructure mapping to integrate temperature measurements in public schools and parks. This initiative builds on Arizona State University YouthMappers’ expertise, marking UPRIYM’s first specialized effort in urban heat assessment for disaster resilience.`,
+    imgSrc: '/static/images/kestrel.jpg',
+    href: 'https://feyeandal.me/blog/exploring-urban-heat-pasig-city',
+  },
+  {
     title: 'Building the YouthMappers Regional Validation Hub: Philippine Camp',
     description: `The YouthMappers Regional Validation Hub: Philippine Camp is an immersive four-session experience crafted to elevate YouthMappers' OpenStreetMap validation skills.`,
     imgSrc: '/static/images/phcamp_proj.jpg',
