@@ -4,10 +4,10 @@ date: '2025-06-19'
 tags: ['Open Mapping', 'Street-Level Images', 'Mapillary', 'UPRI']
 images: ['/static/images/school_sign.png']
 draft: false
-summary: 'In places where data on critical infrastructure is hard to access, street-level imagery offers a low-cost and verifiable alternative. By building on tools like Mapillary, we explore how visual cues, like school signs or facility names,can support disaster resilience through open, community-led data collection.'
+summary: 'In places where data on critical infrastructure is hard to access, street-level imagery offers a low-cost and verifiable alternative. By building on tools like Mapillary, we explore how visual cues, like school signs or facility names, can support disaster resilience through open, community-led data collection.'
 ---
 
-Last week, I went on a fieldwork trip to Baguio City with two good friends (who were also alumni from the UPRI YouthMappers) and some GoPro 13 cameras. One of us was on a motorcycle, another on a car, and I was coordinating the routes, assessing the data, and just trying to keep us on track (and dry). We were there for a project called **ABRRAM**, which stands for _A development of Basic Resource Recognition and Allocation Model for Disaster Response and Planning_.
+Early this month, I went on a fieldwork trip to Baguio City with two good friends (who are also alumni of the UPRI YouthMappers) and some GoPro 13 cameras. One of us was on a motorcycle, another on a car, and I was coordinating the routes, assessing the data, and just trying to keep us on track (and dry). We were there for a project called **ABRRAM**, which stands for _A development of Basic Resource Recognition and Allocation Model for Disaster Response and Planning_.
 
 As part of this project, we’re exploring how open data, street-level imagery and computer vision can help local governments prepare better for disasters. We’re trying to answer a big question: **how can we use freely available tools and community-led data collection to make cities more resilient?** But more specifically, we’re also asking: **can we detect critical facilities—like schools and evacuation centers—using street-level imagery, the same way Mapillary detects traffic signs?**
 
@@ -36,7 +36,7 @@ We split up the city into two zones:
 - The **car** covered major roads like **Marcos Highway, Asin Road, and Kennon Road** (we mapped that on the way in).
 - The **motorcycle** navigated tighter, busier streets—**the city center, routes to the Igorot Stone Kingdom and The Mansion**.
 
-We also met with the **local government units of Baguio CIty**, who welcomed the initiative but requested a Memorandum of Understanding (MOU) to formalize the partnership. It was a good reminder that even open data efforts benefit from local buy-in and institutional trust.
+We also met with the **local government units of Baguio City**, who welcomed the initiative but requested a Memorandum of Understanding (MOU) to formalize the partnership. It was a good reminder that even open data efforts benefit from local buy-in and institutional trust.
 
 Of course, things didn’t always go smoothly.
 
