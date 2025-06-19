@@ -27,7 +27,7 @@ One part of the keynote by John Kedar truly resonated with me:
 
 > We are #RisingStars because we lead, we inspire others, and we have responsibilities to our communities.
 
-In a field filled with brilliant and passionate people, it’s easy to have moments where I question if I’m doing enough, if I’m good enough. But standing there, hearing that message, I realized that the work we do — no matter how small it sometimes feels — has value. That leadership is not about titles or awards, but about the impact we create and the people we lift along the way.
+In a field filled with brilliant and passionate people, it’s easy to have moments where I question if I’m doing enough. But standing there, hearing that message, I realized that the work we do — no matter how small it sometimes feels — has value. That leadership is not about titles or awards, but about the impact we create and the people we lift along the way.
 
 It’s easy to forget that in the day-to-day grind. This experience was a humbling reminder: _the work matters, the stories matter, and the heart behind them matters even more._
 
