@@ -44,6 +44,9 @@ const siteMetadata = {
     'https://drive.google.com/file/d/1nNxJvRiciD_VNSvLUxbjO6cXB8Qe3DmE/view?usp=drive_link',
   wfpusaid_2024:
     'https://resilience.up.edu.ph/upri-noah-center-wins-prep-innovation-challenge-by-wfp-usaid',
+  gawad_pangulo: 'https://resilience.up.edu.ph/awards/',
+  ignacio_gimenez:
+    'https://resilience.up.edu.ph/upri-youthmappers-wins-2025-ignacio-b-gimenez-excellence-award-at-parangal-sa-mag-aaral/',
   locale: 'en-US',
   comment: {
     // Select a provider and use the environment variables associated to it

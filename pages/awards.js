@@ -29,6 +29,18 @@ export default function Home({ posts }) {
         </div>
         <div className="container py-12">
           <div className="pb-6 space-y-2 md:space-y-5">
+            <Link href={siteMetadata.gawad_pangulo}>
+              <h1 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8 mb-4">
+                🏆 <strong>Gawad Pangulo 2025 (Natatanging Organisasyong Pangmag-aaral),</strong>{' '}
+                <i> University of the Philippines System</i>
+              </h1>
+            </Link>
+            <Link href={siteMetadata.ignacio_gimenez}>
+              <h1 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8 mb-4">
+                🏆 <strong>2025 Ignacio B. Gimenez Excellence Award,</strong>{' '}
+                <i> Parangal sa Samahang Mag-aaral</i>
+              </h1>
+            </Link>
             <Link href={siteMetadata.wfpusaid_2024}>
               <h1 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8 mb-4">
                 🏆 <strong>WFP-USAID PREP Innovation Challenge Winner,</strong> <i> WFP-USAID</i>
