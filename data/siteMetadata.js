@@ -44,7 +44,8 @@ const siteMetadata = {
     'https://drive.google.com/file/d/1nNxJvRiciD_VNSvLUxbjO6cXB8Qe3DmE/view?usp=drive_link',
   wfpusaid_2024:
     'https://resilience.up.edu.ph/upri-noah-center-wins-prep-innovation-challenge-by-wfp-usaid',
-  gawad_pangulo: 'https://resilience.up.edu.ph/awards/',
+  gawad_pangulo:
+    'https://www.facebook.com/OfficialUPDiliman/posts/pfbid0rtLgmrECqbKANg3So93CjRbL1FG8qR3QFPGKArddDft9Gp4mnHuL13MLisK1BKkzl?rdid=9wOGnrV5Y4VrJc5V',
   ignacio_gimenez:
     'https://resilience.up.edu.ph/upri-youthmappers-wins-2025-ignacio-b-gimenez-excellence-award-at-parangal-sa-mag-aaral/',
   locale: 'en-US',
