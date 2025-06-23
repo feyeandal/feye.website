@@ -119,6 +119,18 @@ export default function Home({ posts }) {
             </h1>
           </div>
           <div className="w-5/6 sm:w-full p-6 md:pt-2 sm:pb-0">
+            <Link href={siteMetadata.gawad_pangulo_video}>
+              <h3 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8">
+                The story of UPRI YouthMappers (Gawad Pangulo 2025 Official Final Video Entry)
+              </h3>
+              <p className="prose italic text-gray-500 max-w-none dark:text-gray-400 mt-0">
+                (2025). Gawad Pangulo - UP System
+                <br />
+                <br />
+              </p>
+            </Link>
+          </div>
+          <div className="w-5/6 sm:w-full p-6 md:pt-2 sm:pb-0">
             <Link href={siteMetadata.spotify_civichacker}>
               <h3 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8">
                 YouthMappers: Empowering Global Changemakers with Geospatial Technology
