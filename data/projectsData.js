@@ -1,5 +1,17 @@
 const projectsData = [
   {
+    title: 'Automated Basic Resource Recognition and Allocation Model (ABRRAM)',
+    description: `The Automated Basic Resource Recognition and Allocation Model (ABRRAM) is an interdisciplinary initiative dedicated to enhancing disaster risk reduction and management (DRRM) through resource identification, allocation, and optimized distribution. Our model integrates cutting-edge technologies from various disciplines to assist local government units (LGUs) in effectively managing and distributing essential resources during times of crisis.`,
+    imgSrc: '/static/images/abrram.png',
+    href: 'https://abrram.up.edu.ph/',
+  },
+  {
+    title: 'State of the Map 2025',
+    description: `State of the Map is the annual event for all mappers and OpenStreetMap users. In 2025, the State of the Map conference will be taking place in Manila, Philippines and online. It will be a three day conference packed with talks, workshops, discussion rounds and more.`,
+    imgSrc: '/static/images/sotm2025.png',
+    href: 'https://2025.stateofthemap.org/',
+  },
+  {
     title:
       'Toolkit for Assessing the Impact of Typhoons to Fishing Activities  in the Philippines​',
     description: `This open-source, automated, and scalable pilot solution developed under the Asian Development Bank is designed to measure and predict the impact of tropical cyclones on fishing activities. Using publicly available remote sensing data, the toolkit tracks changes in the number of fishing boats before, during, and after cyclones.`,
