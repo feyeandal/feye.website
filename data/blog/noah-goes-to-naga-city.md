@@ -1,10 +1,10 @@
 ---
-title: "A Visit to Naga City: Learning, Sharing, and Inspiring Encounters"
+title: 'A Visit to Naga City: Learning, Sharing, and Inspiring Encounters'
 date: '2025-09-25'
 tags: ['NOAH', 'Naga City']
 images: ['/static/images/noah-leni.JPG']
 draft: false
-summary: "Our visit to Naga City were a journey of learning, sharing, and connection. We capacitated local stakeholders on flooding, introduced NOAH tools, and received valuable feedback—especially on how Typhoon Kristine’s rainfall exceeded even our "worst-case" models. The trip was made even more memorable by meeting dedicated locals like Typhoon2000 and ending with a surreal, inspiring encounter with Hon. Leni Robredo."
+summary: 'Our visit to Naga City were a journey of learning, sharing, and connection. We capacitated local stakeholders on flooding, introduced NOAH tools, and received valuable feedback—especially on how Typhoon Kristine’s rainfall exceeded even our "worst-case" models. The trip was made even more memorable by meeting dedicated locals like Typhoon2000 and ending with a surreal, inspiring encounter with Hon. Leni Robredo.'
 ---
 
 Dianne and I were just waiting for our colleague AC when Dr. Lagmay, suddenly called us into his office. He had just finished a long day full of meetings, but upon seeing us around, he let us in on something unexpected: Mayor Leni had invited Project NOAH to Naga City. And just like that, he invited us to come along.
