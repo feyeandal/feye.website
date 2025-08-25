@@ -2,7 +2,7 @@
 title: "NOAH's Visit to Naga City: Learning, Sharing, and Inspiring Encounters"
 date: '2025-08-25'
 tags: ['NOAH', 'Naga City']
-images: ['/static/images/noah-leni.JPG']
+images: ['/static/images/noah_leni.JPG']
 draft: false
 summary: 'Our visit to Naga City were a journey of learning, sharing, and connection. We capacitated local stakeholders on flooding, introduced NOAH tools, and received valuable feedback—especially on how Typhoon Kristine’s rainfall exceeded even our "worst-case" flood models. The trip was made even more memorable by meeting dedicated locals like "Mr. Typhoon" and ending with a surreal, inspiring encounter with Hon. Leni Robredo.'
 ---
