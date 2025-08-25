@@ -54,4 +54,5 @@ Experiences like this make me deeply appreciate the importance of working closel
 At the same time, it also reminded me of the long road ahead. As scientists and social workers, our task is not only to develop models and technologies but to make sure they reach the people who need them most—and that they can use them effectively. It is encouraging to see Naga take such a proactive stance, and I can only hope that more LGUs will follow their example. Because in the face of disasters, preparedness is not just about having the right information, but about leaders who are willing to act on it.
 
 Thank you, Naga City! 🌻
+
 ![noah-naga](/static/images/noah-naga.jpg)
