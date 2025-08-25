@@ -1,13 +1,13 @@
 ---
-title: 'A Visit to Naga City: Learning, Sharing, and Inspiring Encounters'
-date: '2025-09-25'
+title: "NOAH's Visit to Naga City: Learning, Sharing, and Inspiring Encounters"
+date: '2025-08-25'
 tags: ['NOAH', 'Naga City']
 images: ['/static/images/noah-leni.JPG']
 draft: false
-summary: 'Our visit to Naga City were a journey of learning, sharing, and connection. We capacitated local stakeholders on flooding, introduced NOAH tools, and received valuable feedback—especially on how Typhoon Kristine’s rainfall exceeded even our "worst-case" models. The trip was made even more memorable by meeting dedicated locals like Typhoon2000 and ending with a surreal, inspiring encounter with Hon. Leni Robredo.'
+summary: 'Our visit to Naga City were a journey of learning, sharing, and connection. We capacitated local stakeholders on flooding, introduced NOAH tools, and received valuable feedback—especially on how Typhoon Kristine’s rainfall exceeded even our "worst-case" flood models. The trip was made even more memorable by meeting dedicated locals like "Mr. Typhoon" and ending with a surreal, inspiring encounter with Hon. Leni Robredo.'
 ---
 
-Dianne and I were just waiting for our colleague AC when Dr. Lagmay, suddenly called us into his office. He had just finished a long day full of meetings, but upon seeing us around, he let us in on something unexpected: Mayor Leni had invited Project NOAH to Naga City. And just like that, he invited us to come along.
+Dianne and I were just waiting for our colleague AC when Dr. Lagmay, suddenly called us into his office. He had just finished a long day full of meetings, but upon seeing us around, he let us in on something unexpected: _Mayor Leni had invited Project NOAH to Naga City_. And just like that, he invited us to come along.
 
 Three weeks later, we were on a flight to Naga City, excited and a little nervous, to capacitate local stakeholders through talks and workshops on flooding and disaster preparedness. We were especially grateful because the City of Naga generously covered our flights and accommodations, which allowed me to bring along my whole team to take part in this important engagement.
 
@@ -35,19 +35,23 @@ At the same time, their feedback was eye-opening. Some pointed out that the floo
 
 With this feedback, our NOAH team acknowledged the need to revisit and update our flood models. Much of the current flood modeling is based on data from the LiDAR project that started back in 2012, and it may already be outdated. Beyond that, it is becoming clear that incorporating higher rainfall return scenarios, or even climate change-adjusted projections, will be necessary to better reflect extreme events like Kristine.
 
-Nevertheless, it was encouraging to hear from the OIC of the DRRMO, Sir Raynor Rodriguez, that these tools would be genuinely useful for their disaster operations. Meeting Mr. Typhoon2000—Mike Padua–who has long been a trusted local source of weather and rainfall monitoring—was also a highlight. His dedication as both a local and a scientist shows the value of community-based expertise in disaster response.
+Nevertheless, it was encouraging to hear from the OIC of the DRRMO, Sir Raynor Rodriguez, that these tools would be genuinely useful for their disaster operations. Meeting Mr. [Mike "Mr. Typhoon" Padua](https://www.facebook.com/MrTyphoon), who has long been a trusted local source of weather and rainfall monitoring—was also a highlight. His dedication as both a local and a scientist shows the value of community-based expertise in disaster response.
 
 ## A Surreal Encounter
 
 Of course, one of the most memorable parts of the trip was visiting Hon. Leni Robredo’s office. I have long admired her for her good governance, and seeing her in person felt surreal. What struck me most was how grounded she was—it never felt like we were speaking to a high-profile public servant. Talking to her felt natural, almost like conversing with an old friend.
+
 She didn’t just meet us briefly for formality’s sake. She welcomed us into her office, joined us for dinner afterward, and stayed engaged in conversation even after a long day filled with back-to-back commitments. What amazed me was that I never once heard her complain, despite how demanding her schedule clearly was. Her warmth, patience, and presence left me with a deep sense of respect for her leadership, and for the kind of person she is.
 
 ![noah-mayors-office](/static/images/noah_leni-office.JPG)
 
-<center>_NOAH paid a visit to the Mayor's office, after the first day of workshop_</center>
+<center>_NOAH's visit to the Mayor's office after the first day of workshop_</center>
 
 ## Reflections
 
 Experiences like this make me deeply appreciate the importance of working closely with LGUs. Beyond the science and the systems, it is about building trust, exchanging knowledge, and nurturing partnerships. What we saw in Naga reminded me that resilience is built not only through tools and data, but also through the relationships we forge with local leaders and communities.
 
 At the same time, it also reminded me of the long road ahead. As scientists and social workers, our task is not only to develop models and technologies but to make sure they reach the people who need them most—and that they can use them effectively. It is encouraging to see Naga take such a proactive stance, and I can only hope that more LGUs will follow their example. Because in the face of disasters, preparedness is not just about having the right information, but about leaders who are willing to act on it.
+
+Thank you, Naga City! 🌻
+![noah-naga](/static/images/noah-naga.jpg)
