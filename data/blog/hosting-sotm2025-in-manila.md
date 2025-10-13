@@ -2,7 +2,7 @@
 title: 'Hosting State of the Map 2025 in Manila: What a journey it has been! 🌏🇵🇭'
 date: '2025-10-13'
 tags: ['OSM', 'SotM', 'YouthMappers']
-images: ['/static/images/sotm-day1.jpg']
+images: ['/static/images/sotm_day1.jpg']
 draft: false
 summary: 'Hosting State of the Map 2025 in the Philippines was both exhausting and deeply rewarding — a reminder of how far our local mapping community has come and how much heart it brings to the global stage. Despite the long hours and heavy coordination, seeing everything come together and hearing everyone’s positive stories made it all worth it.'
 ---
