@@ -19,12 +19,12 @@ Along the way, challenges came — including when our supposed local co-chair go
 
 ![feye-and-faye](/static/images/feye-and-faye.jpg)
 
-<center>[_"Feye and Faye" through and through 😂_</center>
+<center>_"Feye and Faye" through and through 😂_</center>
 
 I’ll admit — I didn’t get to hang out with as many people as I hoped. Most of the time, I was running around making sure things were okay. It was tiring, but seeing everything go smoothly, hearing people’s positive stories, and witnessing our local community shine made it all worth it.
 
 ![sotm_day1](/static/images/sotm_day1.jpg)
 
-<center>[_The SotM 2025 delegates during the first day of the conference</center>
+<center>The SotM 2025 delegates during the first day of the conference</center>
 
 No major issues, lots of smiles, and so many memories — that’s more than I could have asked for. Hosting SotM in Manila wasn’t just about organizing a conference. It was about showing the world the heart, creativity, and resilience of the Filipino mapping community. 💛
