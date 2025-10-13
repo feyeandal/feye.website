@@ -25,6 +25,6 @@ I’ll admit — I didn’t get to hang out with as many people as I hoped. Most
 
 ![sotm_day1](/static/images/sotm_day1.jpg)
 
-<center>The SotM 2025 delegates during the first day of the conference</center>
+<center>_The SotM 2025 delegates during the first day of the conference_</center>
 
 No major issues, lots of smiles, and so many memories — that’s more than I could have asked for. Hosting SotM in Manila wasn’t just about organizing a conference. It was about showing the world the heart, creativity, and resilience of the Filipino mapping community. 💛
