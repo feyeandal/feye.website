@@ -16,7 +16,7 @@ const projectsData = [
       'Toolkit for Assessing the Impact of Typhoons to Fishing Activities  in the Philippines​',
     description: `This open-source, automated, and scalable pilot solution developed under the Asian Development Bank is designed to measure and predict the impact of tropical cyclones on fishing activities. Using publicly available remote sensing data, the toolkit tracks changes in the number of fishing boats before, during, and after cyclones.`,
     imgSrc: '/static/images/adb_fishing.gif',
-    href: 'https://www.sciencedirect.com/science/article/pii/S0165783624002856#sec0035',
+    href: 'https://doi.org/10.3390/su172210036',
   },
   {
     title: 'Impact-Based Flood Forecasting System in the Philippines',

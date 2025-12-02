@@ -36,6 +36,7 @@ const siteMetadata = {
     'https://www.researchgate.net/publication/323024713_Developing_a_Scenario-Based_Assessment_of_Hazards_Platform_for_the_Philippines_Using_Open_Source_Software_and_Open_Data',
   publication_2:
     'http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.741.7461&rep=rep1&type=pdf',
+  publication_4: 'https://doi.org/10.3390/su172210036',
   publication_3: 'https://doi.org/10.37801/ajad2024.21.20AI.8',
   rising_star: 'https://www.geospatialworld.net/rising-stars/2024/',
   dei_champion: 'https://twitter.com/SotmAsia/status/1725328035925397993',
