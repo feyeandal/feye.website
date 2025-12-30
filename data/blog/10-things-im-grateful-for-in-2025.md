@@ -17,7 +17,7 @@ This year, I was busy almost constantly, but it rarely felt empty or misdirected
 
 Starting a new project at UPRI and UP Industrial Engineering through the [ABRRAM](https://abrram.up.edu.ph/) project, and leading Mapillary data collection in Baguio City and Tacloban City, brought me back to the essence of mapping. Fieldwork demanded planning, adaptability, and constant problem-solving — from coordinating people to navigating unexpected constraints. Being physically present in the places we mapped reminded me that geospatial work is ultimately about people and their lived environments, not just datasets.
 
-## 3. Stability and growth in my work with ADB
+## 3. Growth in my work with ADB
 
 I’m deeply grateful to have continued my work with the Asian Development Bank (ADB) this year. Much of 2025 was about refinement — improving and building two automated toolkits, as well as strengthening nighttime lights preprocessing workflows. The work was methodical and often invisible, but it laid a stronger foundation for future analyses. It reinforced my appreciation for slow, careful technical progress.
 
