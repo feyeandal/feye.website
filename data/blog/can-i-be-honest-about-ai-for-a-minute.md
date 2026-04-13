@@ -13,7 +13,7 @@ It started with sentences. Not writing in any sweeping sense, but the small, ann
 
 That was the first time I understood what this technology was actually for, at least for me. Not to replace thinking. To pressure-test it.
 
-For a long time, the tool I reached for was ChatGPT. It was reliable in the way that familiar things are reliable — not perfect, but predictable. I used it to organize thoughts, troubleshoot code, and draft things I'd revise later. It became a habit the way a particular coffee order does: \*you don't think about it, it just becomes part of how you start the day.\*\*
+For a long time, the tool I reached for was ChatGPT. It was reliable in the way that familiar things are reliable — not perfect, but predictable. I used it to organize thoughts, troubleshoot code, and draft things I'd revise later. It became a habit the way a particular coffee order does: _you don't think about it, it just becomes part of how you start the day._
 
 Then someone at work mentioned Claude. I tried it, and my first honest reaction was: I don't see the difference. _It was just another LLM_.
 
@@ -27,7 +27,7 @@ _I became a little obsessed after that._
 
 That feeling followed me into other parts of my work. In OpenStreetMap, the constraint has always been scale — how much you can process, validate, and act on before the window closes. AI _cannot_ solve that. But it changes what you can attempt. It shifts the edge of what feels feasible. I found myself trying things I wouldn't have tried before, not because I was more confident, but because the cost of being wrong had changed. Iteration got cheaper. The fear of wasting time on an idea that might not work got smaller.
 
-And somewhere in that process, the tool stopped feeling like a shortcut and started feeling like a collaborator — one that had no patience for vague instructions and no memory between sessions, but was, in its own strange way, deeply responsive to precision.
+And somewhere in that process, the tool stopped feeling like a shortcut and started feeling like a collaborator — one that had no patience for vague instructions and no memory between sessions, but was, in its own strange way, deeply responsive to precision. True enough, it was called _Agentic AI_ for a reason.
 
 **But here is where I want to be careful.** Because it would be easy to write a blog post that sounds like I am just praising it, and that wouldn't be honest.
 
@@ -45,5 +45,4 @@ That's exciting and exhausting in equal measure.
 
 What I keep coming back to, though — in those conversations with friends, in the quiet after a long day of work — is that the thing I'm most protective of isn't my job title or my skill set. It's something harder to name. The part that notices when a community is missing from a map and decides that matters. The part that sits with a family displaced by a flood and understands what the data can't capture. The part that asks _why_ before it asks _how_.
 
-**I don't think AI has that.** Not yet. Maybe not ever — I genuinely don't know.
-But I do know that if we're not careful, we can quietly stop exercising it ourselves. And that worries me more than any headline about automation. So I keep using the tools. I keep moving fast, iterating, trying things. And I try to stay awake to the parts that are still, stubbornly, irreducibly human — and make sure I'm not taking those for granted.
+**I don't think AI has that.** Not yet. Maybe not ever — I genuinely don't know. But I do know that if we're not careful, we can quietly stop exercising it ourselves. And that worries me more than any headline about automation. So I keep using the tools. I keep moving fast, iterating, trying things. And I try to stay awake to the parts that are still, stubbornly, irreducibly human — and make sure I'm not taking those for granted.
