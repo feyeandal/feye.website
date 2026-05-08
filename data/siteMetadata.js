@@ -10,7 +10,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/feyeandal.JPG',
   head: '/static/images/maps.png',
-  head_2nd: '/static/images/feyeandal_headshot.jpg',
+  head_2nd: '/static/images/FeyeAndal_2025%20copy.png',
   head_3rd: '/static/images/NOAH.png',
   head_4th: '/static/images/osm.png',
   // socialBanner: '/static/images/twitter-card.png',

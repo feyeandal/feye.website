@@ -1,6 +1,6 @@
 ---
 name: Feye Andal
-avatar: /static/images/feyeandal_headshot.jpg
+avatar: /static/images/FeyeAndal_2025%20copy.png
 occupation: Project Manager; Geospatial Analyst
 company: UPRI-NOAH Center; DLSU-Taft; ADB
 email: andalfeye@gmail.com

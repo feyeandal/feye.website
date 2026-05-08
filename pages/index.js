@@ -47,7 +47,7 @@ export default function Home({ posts }) {
                 <Link href={'/about'}>
                   <img
                     src={siteMetadata.head_2nd}
-                    className="w-48 h-48 rounded-full mx-auto"
+                    className="w-48 h-48 rounded-full mx-auto object-cover"
                     alt="Feye"
                   />
                 </Link>
