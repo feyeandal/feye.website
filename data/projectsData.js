@@ -1,5 +1,12 @@
 const projectsData = [
   {
+    title: 'Chasing Waterways',
+    description: `#ChasingWaterways is an open mapping initiative of the UP Resilience Institute YouthMappers, in collaboration with OpenStreetMap Philippines and the UP NOAH Center, that aims to improve the mapping and documentation of waterways in Quezon City using OpenStreetMap to support flood risk assessment and disaster resilience.`,
+    imgSrc: '/static/images/ChasingWW.jpg',
+    href:
+      'https://resilience.up.edu.ph/chasing-waterways-upri-youthmappers-completes-quezon-city-waterway-mapping-initiative/',
+  },
+  {
     title: 'Automated Basic Resource Recognition and Allocation Model (ABRRAM)',
     description: `The Automated Basic Resource Recognition and Allocation Model (ABRRAM) is an interdisciplinary initiative dedicated to enhancing disaster risk reduction and management (DRRM) through resource identification, allocation, and optimized distribution. Our model integrates cutting-edge technologies from various disciplines to assist local government units (LGUs) in effectively managing and distributing essential resources during times of crisis.`,
     imgSrc: '/static/images/abrram.png',

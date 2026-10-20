@@ -31,7 +31,8 @@ const siteMetadata = {
   book_chapter_ym: 'https://link.springer.com/book/10.1007/978-3-031-05182-1',
   pnmxsotma22: 'https://www.youtube.com/watch?v=9WTnx_RQrBU&t=10s',
   manuscript: 'https://drive.google.com/file/d/1hSxsLdfAzAuh4LJKJZKJG5PiURkitsef/view?usp=sharing',
-  conference_poster: 'https://2020.stateofthemap.org/posters/#hotph',
+  conference_poster_hotph: 'https://2020.stateofthemap.org/posters/#hotph',
+  conference_poster_chasingww: 'https://2026.stateofthemap.org/posters/#7',
   publication_1:
     'https://www.researchgate.net/publication/323024713_Developing_a_Scenario-Based_Assessment_of_Hazards_Platform_for_the_Philippines_Using_Open_Source_Software_and_Open_Data',
   publication_2:
@@ -43,6 +44,8 @@ const siteMetadata = {
   iwd2024: 'https://twitter.com/hotosm/status/1765999699461370015',
   ym_blogs_2024:
     'https://drive.google.com/file/d/1nNxJvRiciD_VNSvLUxbjO6cXB8Qe3DmE/view?usp=drive_link',
+  ym_blogs_2026:
+    'https://drive.google.com/file/d/116XCe90I-Uv0c1tuRDWQGM4Xwr-Z7s2P/view?usp=sharing',
   wfpusaid_2024:
     'https://resilience.up.edu.ph/upri-noah-center-wins-prep-innovation-challenge-by-wfp-usaid',
   gawad_pangulo:

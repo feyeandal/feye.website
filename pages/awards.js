@@ -29,6 +29,11 @@ export default function Home({ posts }) {
         </div>
         <div className="container py-12">
           <div className="pb-6 space-y-2 md:space-y-5">
+            <Link href={siteMetadata.ym_blogs_2026}>
+              <h1 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8 mb-4">
+                🏆 <strong>YouthMappers Best Blog of 2026,</strong> <i> YouthMappers</i>
+              </h1>
+            </Link>
             <Link href={siteMetadata.gawad_pangulo}>
               <h1 className="text-2xl leading-8 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-2xl md:leading-8 mb-4">
                 🏆 <strong>Gawad Pangulo 2025 (Natatanging Organisasyong Pangmag-aaral),</strong>{' '}
